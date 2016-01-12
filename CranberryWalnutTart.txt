@@ -1,0 +1,193 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Cranberry Walnut Tart,Recipe" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Cranberry Walnut Tart - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Cranberry Walnut Tart      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Cranberry_Walnut_Tart&amp;action=edit&amp;section=1" title="Cranberry Walnut Tart">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> For the pastry dough:
+</li><li> 1 1/3 cups all-purpose flour
+</li><li> 2 tablespoons sugar
+</li><li> 1/4 teaspoon salt
+</li><li> 1 stick (1/2 cup) cold unsalted butter, cut into 1/2-inch cubes
+</li><li> 1 large egg yolk
+</li><li> 1 1/2 tablespoons ice water
+</li><li> For the tart filling:
+</li><li> 3 large eggs
+</li><li> 2/3 cup packed dark brown sugar
+</li><li> 2/3 cup light corn syrup
+</li><li> 1/2 stick unsalted butter, melted and cooled
+</li><li> 1/2 teaspoon salt
+</li><li> 1 teaspoon vanilla
+</li><li> 1 1/4 cups chopped fresh cranberries
+</li><li> 1 cup chopped walnuts
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Cranberry_Walnut_Tart&amp;action=edit&amp;section=2" title="Cranberry Walnut Tart">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>Make shell: Whisk together flour, sugar, and salt in a large bowl. Blend in butter with your fingertips or a pastry blender until mixture resembles coarse meal with some small (roughly pea-size) butter lumps. Beat together yolk and water with a fork and stir into flour mixture until combined well. Gently knead mixture in bowl with floured hands just until a dough forms. Turn out dough onto a lightly floured surface and knead gently 4 or 5 times more. Form dough into a ball, then flatten into a 5-inch disk. Chill, wrapped tightly in plastic wrap, at least 1 hour. Roll out dough into a 13-inch round (1/8 inch thick) on a floured surface with a floured rolling pin and fit into tart pan. Trim edge of dough, leaving a 1/2-inch overhang, then fold overhang inward and press against side of pan to reinforce edge. Lightly prick bottom of shell all over with a fork, then chill 30 minutes. Put oven rack in lower third of oven and preheat oven to 425°F. Line shell with foil and fill with pie weights. Bake until pastry is set and pale golden on rim, about 15 minutes. Carefully remove foil and weights and bake shell until pale golden all over, 5 to 10 minutes more. Transfer shell in pan to a rack.<br />
+<br />
+Make filling: Move oven rack to middle position and reduce oven temperature to 350°F. Whisk together eggs, brown sugar, corn syrup, butter, salt, and vanilla in a bowl until smooth, then stir in cranberries and walnuts. Pour filling into shell and bake tart until filling is set and golden, 40 to 45 minutes. (If pastry edge darkens before tart is done, cover edge with a pie shield or foil.) Cool completely in pan on rack.
+</p><div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Cranberry_Walnut_Tart">http://mudabone.com/recipe/index.php?title=Cranberry_Walnut_Tart</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Cranberry_Walnut_Tart" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Cranberry_Walnut_Tart">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Cranberry_Walnut_Tart&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Cranberry_Walnut_Tart&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Cranberry_Walnut_Tart&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Cranberry_Walnut_Tart">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Cranberry_Walnut_Tart">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Cranberry_Walnut_Tart">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:46, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 167 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 1.85 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

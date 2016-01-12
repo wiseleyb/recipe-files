@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Paella" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Paella - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Paella      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Paella&amp;action=edit&amp;section=1" title="Paella">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p><a href="http://www.foodtv.com/recipes/re-c1/0,6255,16189,00.html" title="http://www.foodtv.com/recipes/re-c1/0,6255,16189,00.html" class="external text" rel="nofollow">Original Recipe</a>
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Paella&amp;action=edit&amp;section=2" title="Paella">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> 1 frying chicken, cut in 12 pieces
+</li><li> Salt and black pepper, to taste
+</li><li> 1 teaspoon dried oregano
+</li><li> 1/4 cup olive oil
+</li><li> 2 Spanish chorizo sausages
+</li><li> 2 garlic cloves, crushed
+</li><li> 1/2 Spanish onion, diced
+</li><li> 2 ripe tomatoes, peeled, seeded and finely chopped
+</li><li> Pinch sweet paprika
+</li><li> 2 cups Spanish rice, short to medium grain, like Valencia
+</li><li> 2 teaspoons saffron threads 
+</li><li> 6 cups warm stock or water
+</li><li> 2 lobster tails, split
+</li><li> 1 pound calamari (squid), cleaned and cut in rings
+</li><li> 1 pound jumbo shrimp
+</li><li> 1 dozen mussels, cleaned 
+</li><li> 1/2 cup sweet peas, frozen and thawed
+</li><li> Lemon wedges
+</li><li> Pimentos, cut in strips
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Paella&amp;action=edit&amp;section=3" title="Paella">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>Rinse the chicken pieces and pat dry. Season all over with salt, black pepper, and oregano. Heat the oil in a paella pan or wide skillet. Brown the chicken on all sides, when nearly cooked through, add the chorizo links and brown. <br />
+<br />
+Remove the chicken and sausage from the pan. Cut the sausages into slices and set aside. Drain out excess oil but don't clean the pan. Make a sofrito by sautiing the garlic, onion, and tomatoes, cook until the mixture caramelizes a bit and the flavors meld. Season with salt, black pepper, and paprika. <br />
+<br />
+Add the rice, stirring to coat the grains. Steep the saffron in 1/4-cup hot water for 5 minutes then stir it into the rice. <br />
+<br />
+Add the stock/water and simmer for 10 minutes, gently moving the pan around so the rice cooks and absorbs evenly. Do not cover or constantly stir like risotto. Add the shellfish and the reserved chicken and sausage. Simmer, without stirring, until the rice is al dente and the mussels have opened. (Do not eat any mussels that do not.) <br />
+<br />
+Scatter the peas on top and continue to cook until the liquid is absorbed. The ideal paella has a toasted rice bottom called socarrat. Allow to rest off the heat for 5 minutes before serving. Garnish with lemon wedges and strips of pimento.
+</p>
+<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1422-0!1!0!0!!en!2 and timestamp 20071117185736 -->
+<div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Paella">http://mudabone.com/recipe/index.php?title=Paella</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Paella" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Paella">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Paella&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Paella&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Paella&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Paella">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Paella">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Paella">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:34, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 219 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 1.15 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

@@ -1,0 +1,211 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Hong Kong Salmon Cakes with Baby Bok Choy" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Hong Kong Salmon Cakes with Baby Bok Choy - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Hong Kong Salmon Cakes with Baby Bok Choy      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=edit&amp;section=1" title="Hong Kong Salmon Cakes with Baby Bok Choy">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p><a href="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_23134,00.html" title="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 23134,00.html" class="external text" rel="nofollow">Original Recipe</a>  by Tyler Florence
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=edit&amp;section=2" title="Hong Kong Salmon Cakes with Baby Bok Choy">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> Salmon Cakes:
+</li><li> 1/4 cup peanut oil
+</li><li> 2 garlic cloves, minced
+</li><li> 1 shallot, minced
+</li><li> 1 tablespoon grated fresh ginger
+</li><li> 1 to 2 red or green chiles, minced
+</li><li> 1 1/2 pounds skinless boneless salmon fillets, cut in small cubes
+</li><li> 1 cup fresh bread crumbs (4 slices white bread with crusts removed pulsed in the food processor)
+</li><li> 2 tablespoons finely chopped fresh cilantro leaves
+</li><li> 2 tablespoons mayonnaise
+</li><li> 1 lemon, juiced
+</li><li> 1 large egg white
+</li><li> Sea salt and freshly ground black pepper
+</li><li> 2 tablespoons peanut oils
+</li><li> Bok Choy:
+</li><li> 2 tablespoons peanut oil
+</li><li> 2-inch piece fresh ginger
+</li><li> 2 heads baby bok choy, halved lengthwise
+</li><li> 1/4 cup water
+</li><li> 3 tablespoons low-sodium soy sauce
+</li><li> 1/4 cup oyster sauce
+</li><li> 1/2 lemon, juiced
+</li><li> 1 tablespoon brown sugar
+</li><li> Toasted sesame seeds, chopped cilantro leaves, and sliced green onion, for garnish
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=edit&amp;section=3" title="Hong Kong Salmon Cakes with Baby Bok Choy">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>To make the salmon cakes: Heat 2 tablespoons of the peanut oil in a skillet over medium heat. Add the garlic, shallot, ginger, and chiles; saute for a few minutes to release the flavor. Remove from heat to cool slightly.<br />
+In a mixing bowl, combine the salmon, bread crumbs, cilantro, mayonnaise, lemon juice and egg white. Scrape the garlic/ginger oil into the salmon mixture; season with salt and pepper. Fold the ingredients together gently but thoroughly, taking care not to mash the salmon too much. Using your hands, form the mixture into 4 salmon cakes, they should be moist and just hold together.<br />
+<br />
+Coat a non-stick skillet with the 2 tablespoons of peanut oil and bring it to a slight smoke over medium heat. Fry the salmon cakes until brown, about 4 minutes on each side, turning carefully with a spatula. Keep warm on a plate lined with paper towels.<br />
+<br />
+To make the bok choy: Return the skillet to the heat and coat with the 2 tablespoons of peanut oil and heat until almost smoking. Split the piece of ginger open with a knife then whack it with the flat side of the knife. Lay the ginger pieces in the oil, cut-side down to let it start to perfume. Pan-fry the bok choy, cut-side down, for a couple of minutes to give it some color. Add the water and cook another minute to steam the bok choy; carefully remove it to a plate. Add the soy sauce, oyster sauce, lemon juice, and brown sugar. Cook and stir for 3 minutes until the sauce is the consistency of syrup.<br />
+<br />
+Serve the salmon cakes with the bok choy, and drizzle the brown sauce over the whole thing. Garnish the dish with the toasted sesame seeds, cilantro, and green onion.
+</p>
+<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1573-0!1!0!0!!en!2 and timestamp 20071117190801 -->
+<div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy">http://mudabone.com/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Hong_Kong_Salmon_Cakes_with_Baby_Bok_Choy">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:55, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 133 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.74 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

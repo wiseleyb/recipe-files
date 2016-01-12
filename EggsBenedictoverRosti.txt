@@ -1,0 +1,212 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Eggs Benedict over Rosti" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Eggs Benedict over Rosti - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Eggs Benedict over Rosti      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti&amp;action=edit&amp;section=1" title="Eggs Benedict over Rosti">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p>by Ben Wiseley
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti&amp;action=edit&amp;section=2" title="Eggs Benedict over Rosti">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> For the rosti:
+</li><li> 1 potatoe per person (raw and shredded)
+</li><li> Thinly sliced onion (about 1/2 an onion)
+</li><li> Salt 
+</li><li> Pepper
+</li><li> 1 egg per 2 potatoes
+</li><li> 1 shredded carrot
+</li><li> For hollandaise (makes enough for 6 servings)
+</li><li> 3 egg yolks
+</li><li> 2 sticks of clarified butter (you don't have to clarify - but it's easy to hold the sauce if you do)
+</li><li> 1 tbs lemon juice
+</li><li> salt
+</li><li> paprika
+</li><li> Misc:
+</li><li> 2 eggs per person
+</li><li> 2 slices canadian bacon per person
+</li><li> 1 teaspoon of vinegar
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti&amp;action=edit&amp;section=3" title="Eggs Benedict over Rosti">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>For the rosti:<br />
+Scrub the potatoes and place them in a large saucepan. Add enough water to cover the potatoes by 2 inches, and bring to a boil over medium-high heat. Simmer for 5 minutes; drain. Let the potatoes cool, then chill them for 1 hour or overnight. <br />
+<br />
+Peel the chilled potatoes, grate them and toss with the chives or parsley, salt, and pepper. <br />
+<br />
+Coursely grate the potatoes and mix with egg(s), carrot, onion salt and pepper.  If the potatoes aren't sticking together you can add some flour, cornmeal or another eggs.<br />
+<br />
+Over medium heat cook rosti until brown on both sides in some butter.  Transer to the oven to keep them warm.  I use an egg round (name? a cookie cutter type device that's round that make's "egg mcmuffin" style eggs) to form the rosti.<br />
+<br />
+For hollandaise:<br />
+You want to wisk hollandaise over not quite boiling water.  I use a pasta pan and a stainless steel mixing bowl.<br />
+<br />
+Over very low heat: add a little of the clarified butter a tsp of water, a pinch of salt and the lemon juice and wisk until combine.  Add egg yolks and whisk until they begin to increase in volume, thicken and have a sheen to them.  If, at any point, the eggs begin to cook (become lumpy) immediately remove the bowl from heat and continue whisking.  See Julia Child's book on French cooking for an in depth description of making hollandaise (and all other French sauces).  Very slowly add butter while whisking.  When done set aside in a warm spot (but not over any heat.<br />
+<br />
+Put it together:<br />
+Poach eggs in simmering water with the vinegar and some salt.  Put a two rosti on a warm plate, cover with canadian bacon, poached egg and some hollandaise sauce.
+</p>
+<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1287-0!1!0!0!!en!2 and timestamp 20071117184107 -->
+<div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Eggs_Benedict_over_Rosti">http://mudabone.com/recipe/index.php?title=Eggs_Benedict_over_Rosti</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Eggs_Benedict_over_Rosti" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Eggs_Benedict_over_Rosti&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Eggs_Benedict_over_Rosti&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Eggs_Benedict_over_Rosti">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Eggs_Benedict_over_Rosti">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Eggs_Benedict_over_Rosti">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:15, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 157 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.81 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

@@ -1,0 +1,192 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Smokey Shrimp and Halibut Stew,Recipe" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Smokey Shrimp and Halibut Stew - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Smokey Shrimp and Halibut Stew      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew&amp;action=edit&amp;section=1" title="Smokey Shrimp and Halibut Stew">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p>by Bon Appetit Feb 2002 pg 76
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew&amp;action=edit&amp;section=2" title="Smokey Shrimp and Halibut Stew">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> 8 oz smoked bacon slices, coarsley chopped
+</li><li> 2/3 cup chopped onion
+</li><li> 1 6 oz red-skinned potato, unpeeled, cut into 1/2 inch pieces
+</li><li> 1 medium fennel bulb, coarsely chopped; 2 tbs fronds chopped and reserved
+</li><li> 1.25 cups dry white wine
+</li><li> 1 cup canned low-salt chicken broth
+</li><li> 1 8oz bottle clam juice
+</li><li> 1 14.5 oz can diced tomatoes in juice
+</li><li> 1 tsp chopped fresh thyme
+</li><li> 1.5 lbs halibut fillet, cut into 2.5 inch pieces
+</li><li> 1 lb uncooked large shrimp, peeled
+</li><li> 1/4 cup italian parsley
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew&amp;action=edit&amp;section=3" title="Smokey Shrimp and Halibut Stew">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>Saute bacon in large pot over medium-high heat until crips, about 10 minutes.  Transfer 1/3 of bacon to bowl.  Add onion to remaining bacon and drippings in pot; saute 5 minutes.  Add potato and fennel bulb; saute 5 minutes.  Add wine; bring to a boil.  Add broth, clam juice, tomatoes with juices, thyme and reserved fennel fronds; bring to boil.  Reduce heat and simmer until potatoe is tender, about 5 minutes.<br />
+<br />
+Add halibut and shrimp to pot; cover and cook until opagque in center, about 3 minutes.  Season with salt and pepper. Stir in parsley and bacon and serve.
+</p><div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew">http://mudabone.com/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Smokey_Shrimp_and_Halibut_Stew" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Smokey_Shrimp_and_Halibut_Stew&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Smokey_Shrimp_and_Halibut_Stew&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Smokey_Shrimp_and_Halibut_Stew">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Smokey_Shrimp_and_Halibut_Stew">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Smokey_Shrimp_and_Halibut_Stew">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:26, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 46 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.88 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

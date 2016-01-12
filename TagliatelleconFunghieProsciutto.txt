@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Tagliatelle con Funghi e Prosciutto" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Tagliatelle con Funghi e Prosciutto - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Tagliatelle con Funghi e Prosciutto      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<table class="toc" id="toc"><tr><td><div id="toctitle"><h2>Contents</h2></div>
+<ul>
+<li class="toclevel-1"><a href="#Credits"><span class="tocnumber">1</span> <span class="toctext">Credits</span></a></li>
+<li class="toclevel-1"><a href="#Ingredients"><span class="tocnumber">2</span> <span class="toctext">Ingredients</span></a></li>
+<li class="toclevel-1"><a href="#Directions"><span class="tocnumber">3</span> <span class="toctext">Directions</span></a>
+<ul>
+<li class="toclevel-2"><a href="#Basic_Pasta_Dough"><span class="tocnumber">3.1</span> <span class="toctext">Basic Pasta Dough</span></a></li>
+</ul>
+</li>
+</ul>
+</td></tr></table>
+<p><script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit&amp;section=1" title="Tagliatelle con Funghi e Prosciutto">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p>by <a href="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_12690,00.html" title="http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 12690,00.html" class="external text" rel="nofollow">Mario Batali</a>
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit&amp;section=2" title="Tagliatelle con Funghi e Prosciutto">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> 1 recipe basic pasta dough, recipe follows
+</li><li> 3 tablespoons extra-virgin olive oil
+</li><li> 1/2 red onion, finely chopped
+</li><li> 2 cloves garlic, finely minced
+</li><li> 1/2 pound porcini mushrooms, thinly sliced, may sub cremini or portobello
+</li><li> 1 teaspoon red chili flakes
+</li><li> 1/4 pound prosciutto di Parma, cut into lardons
+</li><li> Salt and pepper, to taste
+</li><li> Parmigiano-Reggiano, for grating
+</li></ul>
+<p>BASIC PASTA DOUGH:
+</p>
+<ul><li> 3 1/2 to 4 cups flour
+</li><li> 4 eggs
+</li><li> 1/2 teaspoon extra-virgin olive oil
+</li></ul>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit&amp;section=3" title="Tagliatelle con Funghi e Prosciutto">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>Prepare the pasta dough according to the recipe. Roll it out to the thinnest setting on a pasta rolling machine, then cut the resultant sheet into ribbons 1/4-inch wide. Place the ribbons on a sheet tray dusted with semolina and set aside, covered with clean, damp kitchen towels, until ready to cook.
+</p><p>Bring 6 quarts of water to a boil and add 2 tablespoons salt. In a 12 to 14-inch saute pan, heat oil until smoking. Add the onions, garlic and chili flakes and cook until light golden brown and wilted, 3 to 4 minutes. Add the mushrooms and saute over high heat 5 minutes, until golden brown. Season with salt and pepper, to taste.
+</p><p>Drop the tagliatelle into the boiling water and cook 1 minute. Drain the pasta, reserving the cooking liquid, and add to the pan with the mushrooms. Toss over high heat 1 minute to coat the pasta, adding a splash of the cooking water if necessary to keep the sauce from being too "tight". Add prosciutto and toss to mix. Serve immediately in 4 warmed pasta bowls, topped with Parmigiano-Reggiano.
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit&amp;section=4" title="Tagliatelle con Funghi e Prosciutto">edit</a>]</div><a name="Basic_Pasta_Dough"></a><h3>Basic Pasta Dough</h3>
+<p>Mound 3 1/2 cups of the flour in the center of a large wooden cutting board. Make a well in the middle of the flour and add the eggs and the olive oil. Using a fork, beat together the eggs and oil and begin to incorporate the flour, starting with the inner rim of the well.
+</p><p>As you expand the well, keep pushing the flour up from the base of the mound to retain the well shape. The dough will come together when half of the flour is incorporated.
+</p><p>Start kneading the dough with both hands, using the palms of your hands. Once you have a cohesive mass, remove the dough from the board and scrape up and discard any leftover bits. Lightly reflour the board and continue kneading for 6 more minutes. The dough should be elastic and a little sticky. Wrap the dough in plastic and allow to rest for 30 minutes at room temperature. Roll or shape as desired.
+</p>
+<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1619-0!1!0!0!!en!2 and timestamp 20071118023723 -->
+<div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto">http://mudabone.com/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Tagliatelle_con_Funghi_e_Prosciutto" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Tagliatelle_con_Funghi_e_Prosciutto&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Tagliatelle_con_Funghi_e_Prosciutto">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Tagliatelle_con_Funghi_e_Prosciutto">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Tagliatelle_con_Funghi_e_Prosciutto">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 16:12, 19 May 2006.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 145 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.88 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

@@ -1,0 +1,204 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Wild Mushroom Risotto,Recipe" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Wild Mushroom Risotto - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Wild Mushroom Risotto      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Wild_Mushroom_Risotto&amp;action=edit&amp;section=1" title="Wild Mushroom Risotto">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p>by Stephan Pyles
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Wild_Mushroom_Risotto&amp;action=edit&amp;section=2" title="Wild Mushroom Risotto">edit</a>]</div><a name="Ingredients"></a><h2>Ingredients</h2>
+<ul><li> 2 pounds assorted fresh wile mushrooms, such as shitake, cremini, or portobello, wiped clean, stems removed and reserved
+</li><li> For the Mushroom Broth
+</li><li> 1 cup dried porcini mushrooms
+</li><li> 6 scallions, chopped
+</li><li> 3 garlic cloves, chopped
+</li><li> 1 onion, chopped
+</li><li> 1 leek, cleaned and chopped
+</li><li> 2 sprigs of fresh thyme
+</li><li> 4 black peppercorns
+</li><li> 1 cup white wine, such as Chardonnay
+</li><li> For the Risotto
+</li><li> 3 tablespoons olive oil
+</li><li> 1 onion, chopped
+</li><li> 2 garlic cloves, minced
+</li><li> 1 cup Arborio rice
+</li><li> 1/2 cup white wine, such as Chardonnay
+</li><li> 2 tablespoons  mixed fresh herbs, such as chives, thyme, rosemary, and parsley
+</li><li> 2 tablespoons (1/4 stick) unsalted butter
+</li><li> Salt and freshly groun black pepper to taste
+</li><li> 1/4 cup grated Parmesan or pecorino cheese.
+</li></ul>
+<p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Wild_Mushroom_Risotto&amp;action=edit&amp;section=3" title="Wild Mushroom Risotto">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>Dice the mushroom caps and reserve in the refridgerator, covered with a damp towel.<br />
+<br />
+To prepare the mushroom broth, place the mushroom stems, dried mushrooms, scallions, garlic, onion, leek, thyme, peppercorns, wine and 4 cups of water in a stockpot and bring to a boil.  Reduce the heat to a simmer and let the broth simmer for 1 hour.  Strain through a fine-mesh sieve or cheesecloth into a large clean saucepan and return to a simmer.  Add more water if necessary to yield 5 cups.<br />
+<br />
+Meanwhile, to prepare the risotto, place the olive oil in a heavy saucepan set over high heat.  When lightly smoking, add the onion and saute for 1 miute.  Add the garlic and continue to cook  for 1 minute.  Reduce the heat to medium and add the rice, stirring for 1 minute, making sure each grain is coated with oil.  Add the white wine and cook until it is completely absorbed.  Continue adding the broth in 1/2-cup incrememnts until 1 cup of broth remains, stirring until each addition is absorbed.  The rice should be almost tender but still a bit al dente, about 25 minutes in all.<br />
+<br />
+Add teh reserved mushrooms and 3/4 cup of the remaining broth.  Cook until the mushrooms are cooked through and the liquid is absordbed, while continuing to stir.  Add the herbs, butter, and the remaining 1/4 cup of broth.  Season with salt and pepper and remove the heat.  Stir in cheese and serve.
+</p><div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Wild_Mushroom_Risotto">http://mudabone.com/recipe/index.php?title=Wild_Mushroom_Risotto</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Wild_Mushroom_Risotto" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Wild_Mushroom_Risotto">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Wild_Mushroom_Risotto&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Wild_Mushroom_Risotto&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Wild_Mushroom_Risotto&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Wild_Mushroom_Risotto">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Wild_Mushroom_Risotto">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Wild_Mushroom_Risotto">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:21, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 64 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.39 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>

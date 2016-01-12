@@ -1,0 +1,349 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xml:lang="en" lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script type="text/javascript" src="http://www.google-analytics.com/urchin.js">
+</script>
+<script type="text/javascript">
+_uacct = "UA-124263-2";
+urchinTracker();
+</script>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta name="KEYWORDS" content="Marinades" />
+<meta name="robots" content="index,follow" />
+<link href="/favicon.ico" rel="shortcut icon" />
+<title>
+Marinades - RecipeWiki</title>
+<style media="screen,projection" type="text/css">
+/*<![CDATA[*/ @import "/recipe/skins/monobook/main.css"; /*]]>*/
+</style>
+<script src="/recipe/index.php?title=-&amp;action=raw&amp;gen=js" type="text/javascript"></script>
+<script src="/recipe/skins/common/wikibits.js" type="text/javascript"></script>
+<style type="text/css">
+</style>
+</head>
+<body class="ns-0">
+<!-- BEGIN titleBar -->
+<div id="titleBar"><a href="index.php?title=Category:Recipe"><img src="/recipe/skins/monobook/titlebar_logo.png" border="0" alt="Kitchen Collaboration" /></a></div>
+<!-- END titleBar -->
+<div id="globalWrapper">
+  <div id="column-content">
+    <div id="content"> <a name="top" id="contentTop"></a>
+            <h1 class="firstHeading">
+        Marinades      </h1>
+      <h3 id="siteSub">
+        From RecipeWiki      </h3>
+      <div id="bodyContent">
+        <div id="contentSub">
+                  </div>
+                        <!-- BEGIN content -->
+        <p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Marinades&amp;action=edit&amp;section=1" title="Marinades">edit</a>]</div><a name="Credits"></a><h2>Credits</h2>
+<p><a href="http://seattletimes.nwsource.com/html/northwestlife/134411453_flavors27.html" title="http://seattletimes.nwsource.com/html/northwestlife/134411453 flavors27.html" class="external text" rel="nofollow">Original Recipe</a>
+</p><p><br />
+</p>
+<div class="editsection" style="float:right;margin-left:5px;">[<a href="/recipe/index.php?title=Marinades&amp;action=edit&amp;section=2" title="Marinades">edit</a>]</div><a name="Directions"></a><h2>Directions</h2>
+<p>BEEF <br />
+<br />
+Hamburgers (1-1/2 pound ground meat) <br />
+To a basic recipe add: <br />
+<br />
+</p>
+<pre>1/3 cup grated Parmesan cheese and 2 tablespoons finely chopped basil or 2 teaspoons dried basil <br />
+</pre>
+<p><br />
+</p>
+<pre>¾ cup grated Swiss cheese and 3 finely chopped sun-dried tomatoes <br />
+</pre>
+<p><br />
+</p>
+<pre>¾ cup grated cheddar cheese and ¼ cup chopped pimento <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup crumbled blue cheese and 4 slices cooked and crumbled bacon <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup pizza sauce and 1 teaspoon each dried basil and oregano <br />
+</pre>
+<p><br />
+</p>
+<pre>2 tablespoons prepared mustard, 1 tablespoon soy sauce and 2 teaspoons Worcestershire sauce <br />
+</pre>
+<p><br />
+</p>
+<pre>1/3 cup taco sauce, 1 teaspoon dried oregano and 2 teaspoons chili powder <br />
+</pre>
+<p><br />
+Meatloaf (2 pounds ground meat) <br />
+<br />
+To a basic recipe add: <br />
+<br />
+</p>
+<pre>1 envelope onion-soup mix and ½ cup prepared spaghetti sauce <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup salsa or barbecue sauce or ketchup, 1 tablespoon Worcestershire sauce, ¾ cup diced pepper jack or cheddar cheese and 1/3 cup sliced black olives <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup chili sauce, 4-ounce can drained, chopped green chilies, 1 teaspoon ground cumin and ¼ cup chopped cilantro <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup bottled steak sauce, 1 cup crumbled Gorgonzola cheese, 1 teaspoon dried basil and ¼ teaspoon dried thyme <br />
+</pre>
+<p><br />
+</p>
+<pre>1/3 cup chopped roasted red bell peppers, 4 sliced green onions, 1 teaspoon each dried oregano and chili powder and ½ cup salsa <br />
+</pre>
+<p><br />
+</p>
+<pre>Flank steak (1½ pounds) <br />
+</pre>
+<p><br />
+Marinades: <br />
+<br />
+¾ cup tamari or soy sauce, 1 tablespoon each prepared horseradish and Dijon mustard <br />
+<br />
+</p>
+<pre>¾ cup bottled teriyaki sauce, 2 teaspoons honey, 1 teaspoon sesame oil, 1 tablespoon minced fresh gingerroot, 1 teaspoon five-spice powder and 1/8 teaspoon cayenne pepper <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup balsamic or red wine vinegar, 1 tablespoon each olive oil, ketchup, steak sauce and Worcestershire sauce <br />
+</pre>
+<p><br />
+</p>
+<pre>1 cup sweet-and-sour barbecue sauce, 3 tablespoons lime juice, 2 tablespoons water, 1 tablespoon minced fresh gingerroot <br />
+</pre>
+<p><br />
+</p>
+<pre>1½ cups smoky barbecue sauce, 1 crushed clove garlic, ¼ cup sliced green onions, ¼ cup each water and red wine <br />
+</pre>
+<p><br />
+</p>
+<ul><li> After the meat has marinaded discard the marinade. <br />
+</li></ul>
+<p><br />
+<br />
+Roast beef (3 to 5 pounds) <br />
+<br />
+Rubs and coatings - mix and then rub on meat: <br />
+<br />
+</p>
+<pre>¼ cup each Dijon and grainy mustards, 2 tablespoons balsamic vinegar, 1 teaspoon coarsely ground black pepper, 1 tablespoon each olive oil and soy sauce <br />
+</pre>
+<p><br />
+</p>
+<pre>2 tablespoons brown sugar, 2 teaspoons ground black pepper, ½ teaspoon each salt, thyme, ground ginger, ground allspice and nutmeg <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup Dijon mustard, 2 tablespoons soy sauce and 1 tablespoon coarsely ground black pepper <br />
+</pre>
+<p><br />
+</p>
+<pre>3 tablespoons paprika, 2 teaspoons each coarsely ground black pepper and ground cumin, 1 teaspoon ground nutmeg and ¼ teaspoon salt <br />
+</pre>
+<p><br />
+<br />
+HAM <br />
+<br />
+Baste with mixture of: <br />
+<br />
+</p>
+<pre>¼ cup each orange juice concentrate and rum, 1 tablespoon each honey and brown sugar and ¼ teaspoon each ground cinnamon and ginger <br />
+</pre>
+<p><br />
+</p>
+<pre>2/3 cup fruit chutney, 1 tablespoon Dijon mustard and 2 tablespoons lemon juice <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup each brown sugar and pineapple juice, ½ teaspoon dry mustard and 1 tablespoon cider vinegar <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup each apricot jam and lemon juice and 1 tablespoon country-style or grainy mustard <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup honey, 1/3 cup orange juice, 1 tablespoon grated orange zest and ½ teaspoon each dry mustard and ginger <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup apple juice, ¼ cup brown sugar or honey, 2 tablespoons cider vinegar, 1 tablespoon Dijon mustard, ¼ teaspoon cinnamon and 1/8 teaspoon ground cloves <br />
+</pre>
+<p><br />
+LAMB <br />
+<br />
+Marinades for roasts and chops: <br />
+<br />
+</p>
+<pre>¾ cup orange juice, 1 tablespoon finely grated orange zest, 2 slivered cloves garlic, 1 cup mint leaves, chopped <br />
+</pre>
+<p><br />
+</p>
+<pre>¼ cup dry white wine, 2 tablespoons Dijon mustard, ½ teaspoon coarsely ground black pepper, 2 chopped cloves garlic, ¼ cup chopped fresh dill or 1 tablespoon dried dill weed <br />
+</pre>
+<p><br />
+</p>
+<pre>1 each minced clove garlic and shallot, ¾ cup each cranberry juice and red wine, 2 tablespoons chopped fresh rosemary or 2 teaspoons dried rosemary, 1 teaspoon whole black peppercorns <br />
+</pre>
+<p><br />
+</p>
+<ul><li> Discard any marinade not used to cook the meat. <br />
+</li></ul>
+<p><br />
+<br />
+<br />
+Rubs and coatings for roasts and racks: <br />
+<br />
+</p>
+<pre>2 tablespoons lemon juice, 1 tablespoon olive oil, 1 minced clove garlic, 1 tablespoon chopped fresh mint or 2 tablespoons mint jelly, ¼ teaspoon each paprika, turmeric, cinnamon, salt and black pepper <br />
+</pre>
+<p><br />
+</p>
+<pre>1 tablespoon olive oil, 2/3 cup fresh bread crumbs, 2 tablespoons grainy mustard, 2 teaspoons dried rosemary, ¼ teaspoon each salt and ground black pepper <br />
+</pre>
+<p><br />
+</p>
+<pre>½ cup pitted green olives, grated zest of 1 lemon, ¼ cup each minced parsley and mint leaves, 1 tablespoon olive oil, ¼ teaspoon each salt and pepper <br />
+</pre>
+<p><br />
+</p>
+<pre>1 ½ teaspoons each ground cumin and paprika, ½ teaspoon salt, ¼ teaspoon ground cloves, 1/8 teaspoon cayenne pepper
+</pre>
+<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1391-0!1!0!0!!en!2 and timestamp 20071117191632 -->
+<div class="printfooter">
+Retrieved from "<a href="http://mudabone.com/recipe/index.php?title=Marinades">http://mudabone.com/recipe/index.php?title=Marinades</a>"</div>
+                <div id="catlinks">
+          <p class="catlinks"><a href="/recipe/index.php?title=Special:Categories&amp;article=Marinades" title="Special:Categories">Categories</a>: <a href="/recipe/index.php?title=Category:Recipe" title="Category:Recipe">Recipe</a></p>        </div>
+                <!-- END content -->
+        <div class="visualClear"></div>
+      </div>
+    </div>
+  </div>
+  <div id="column-one">
+  
+    <!-- BEGIN navigation -->
+  <div class="portlet" id="p-nav">
+    <h5>
+      Navigation    </h5>
+    <ul>
+        <li><a href="index.php?title=Main_Page">Main Page</a></li>
+        <li><a href="index.php?title=Category:Recipe">Recipes</a></li>
+        <li><a href="index.php?title=Category:Tutorials">Tutorials</a></li>
+        <li><a href="index.php?title=Category:Links">Links</a></li>
+    </ul>
+    <!--
+    <div class='portlet' id='p-'>
+	  <h5></h5>
+	  <div class='pBody'>
+	    <ul>
+	    	    </ul>
+	  </div>
+	</div>
+	-->
+	<!--
+    <div class="pBody">
+      <ul>
+              </ul>
+    </div>
+    -->
+  </div>
+  <!-- END navigation -->
+  <!-- BEGIN search -->
+  <div class="portlet" id="p-search">
+    <h5>
+      <label for="searchInput">
+      Search      </label>
+    </h5>
+    <div class="pBody">
+      <form name="searchform" action="/recipe/index.php?title=Special:Search" id="searchform">
+        <input name="search" size="17" type="text" id="searchInput" accesskey="f" value="" />
+        <br />
+        <input name="go" class="searchButton" type="submit" id="searchGoButton" value="Go" />
+        <input name="fulltext" class="searchButton" type="submit" value="Search" />
+      </form>
+    </div>
+  </div>
+  <!-- END search -->
+  
+    <!-- BEGIN editing tools -->
+    <div class="portlet" id="p-cactions">
+      <h5>Editing tools</h5>
+      <ul>
+                <li class="selected" id="ca-nstab-main"><a href="/recipe/index.php?title=Marinades">
+          Article          </a></li>
+                <li class="new" id="ca-talk"><a href="/recipe/index.php?title=Talk:Marinades&amp;action=edit">
+          Discussion          </a></li>
+                <li id="ca-edit"><a href="/recipe/index.php?title=Marinades&amp;action=edit">
+          Edit          </a></li>
+                <li id="ca-history"><a href="/recipe/index.php?title=Marinades&amp;action=history">
+          History          </a></li>
+              </ul>
+    </div>
+    <!-- END editing tools -->
+    <!-- BEGIN personal tools -->
+    <div class="portlet" id="p-personal">
+      <h5>
+        Personal tools      </h5>
+      <div class="pBody">
+        <ul>
+                    <li id="pt-login"><a href="/recipe/index.php?title=Special:Userlogin&amp;returnto=Marinades">
+            Create an account or log in            </a></li>
+                  </ul>
+      </div>
+    </div>
+    <!-- END personal tools -->
+    <!-- HIDING code that Im not sure is needed
+    <div class="portlet" id="p-logo"> <a style="background-image: url(/recipe/skins/common/images/wiki.png);" href="/recipe/index.php?title=Main_Page" title="
+    Main Page"></a> </div>
+  <script type="text/javascript"> if (window.isMSIE55) fixalpha(); </script>
+  -->
+
+  <!-- BEGIN toolbox -->
+  <div class="portlet" id="p-tb">
+    <h5>
+      Toolbox    </h5>
+    <div class="pBody">
+      <ul>
+                <li id="t-whatlinkshere"><a href="/recipe/index.php?title=Special:Whatlinkshere/Marinades">What links here</a></li>
+                <li id="t-recentchangeslinked"><a href="/recipe/index.php?title=Special:Recentchangeslinked/Marinades">Related changes</a></li>
+                                                                        <li id="t-upload"><a href="/recipe/index.php?title=Special:Upload">
+          Upload file          </a></li>
+                                <li id="t-specialpages"><a href="/recipe/index.php?title=Special:Specialpages">
+          Special pages          </a></li>
+                      </ul>
+    </div>
+  </div>
+  <!-- END toolbox -->
+  <!-- BEGIN powered by banners -->
+  <div class="portlet" id="p-poweredby">
+          <a href="http://www.mediawiki.org/"><img src="/recipe/skins/common/images/poweredby_mediawiki_88x31.png" alt="MediaWiki" /></a>          </div>
+  <!-- END powered by banners -->
+  </div>
+<!-- end of the left (by default at least) column -->
+<div class="visualClear"></div>
+<div id="footer">
+  <ul id="f-list">
+        <li id="f-lastmod">
+       This page was last modified 18:30, 6 October 2005.    </li>
+            <li id="f-viewcount">
+      This page has been accessed 262 times.    </li>
+                    <li id="f-about">
+      <a href="/recipe/index.php?title=RecipeWiki:About" title="RecipeWiki:About">About RecipeWiki</a>    </li>
+            <li id="f-disclaimer">
+      <a href="/recipe/index.php?title=RecipeWiki:General_disclaimer" title="RecipeWiki:General disclaimer">Disclaimers</a>    </li>
+    <li id="f-developedby">
+      (by Wiki: <a href="http://buddhaHosting.com">BuddhaHosting</a> Skin: <a href="http://www.jasonpearce.com/" title="Jason Pearce of Lambda Chi Alpha">Jason Pearce</a>)
+    </li>
+      </ul>
+</div>
+</div>
+<!-- Served by unix17.hsphere.cc in 0.96 secs. --><!-- FraternityManuals.org was designed by JasonPearce.com and launched April 7, 2005 -->
+</body></html>
