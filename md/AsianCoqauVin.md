@@ -1,7 +1,5 @@
 # Asian Coq au Vin 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,66,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,66,00.html") by MingTsai
@@ -48,6 +46,4 @@ In a hot stockpot coated with oil, brown seasoned chicken and set aside. Wipe ou
  FRIED WONTON NOODLE GARNISH  
   
  In a shallow pan with 370 degree canola oil, fry clusters of wonton noodles until golden and crisp.
-
-<!-- END content -->
 

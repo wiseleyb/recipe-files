@@ -1,7 +1,5 @@
 # Panini - Chicken Florentine 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.razzledazzlerecipes.com/newyears/chiflor.htm "http://www.razzledazzlerecipes.com/newyears/chiflor.htm")
@@ -41,6 +39,4 @@ Heat oven to 375 F.. Unroll dough; place in ungreased 15-by-10-by-1-inch baking 
  Heat large skillet or cast iron skillet over medium heat until hot.  
   
  Place sandwiches in skillet. Place a smaller skillet on sandwiches to flatten slightly. Cook about 1 to 2 minutes or until crisp and heated, turning once. Cut each sandwich into quarters.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1517-0!1!0!0!!en!2 and timestamp 20071117181228 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Mayonnaise 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,17473,FF.html "http://www.foodtv.com/foodtv/recipe/0,6255,17473,FF.html") by Alton Brown
@@ -25,6 +23,4 @@ In a glass bowl, whisk together egg yolk and dry ingredients. Combine lemon juic
 - RAW EGG WARNING The American Egg Board states: "There have been warnings against consuming raw or lightly cooked eggs on the grounds that the egg may be contaminated with Salmonella, a bacteria responsible for a type of food poisoning.... Healthy people need to remember that there is a very small risk and treat eggs and other raw animal foods accordingly. Use only properly refrigerated, clean, sound-shelled, fresh, grade AA or A eggs. Avoid mixing yolks and whites with the shell?
 
 **Notes:** To do this in a food processor add 1 whole egg.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1293-0!1!0!0!!en!2 and timestamp 20071117175650 --><!-- END content -->
 

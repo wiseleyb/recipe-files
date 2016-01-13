@@ -1,7 +1,5 @@
 # Oatmeal Coconut Raspberry Bars 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Feb 2002 pg 84
@@ -31,6 +29,4 @@ Preheat oven to 375F
  Bake in a middle of oven until golden, 20 to 25 minutes, then cool copmpletely in pan on a rack. Loosen from sides of pan with a sharp knife, then lift out in 1 piece and transfer to a cutting board.  
   
  Cut into 24 bars
-
-<!-- END content -->
 

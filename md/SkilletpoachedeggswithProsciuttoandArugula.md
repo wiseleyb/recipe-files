@@ -1,7 +1,5 @@
 # Skillet-poached eggs with Prosciutto and Arugula 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Jan 2002 pg 112
@@ -28,6 +26,4 @@ Combine chopped green onion tops, extra-virgin olive oil, minced Italian parsley
  Set skillet over medium-high heat and bring water to simmer. Reduce heat to medium-low. Cover skillet and gently cook eggs until whites are just firm to touch and yolks are set to desired consistency, about 6 minutes.  
   
  Using spatula and oven mitt or hand towel as aids, lift cups with eggs from water. Cut around eggs to loosen. Turn 2 eggs out onto each prepared bread slice. Garnish with parsley sprigs.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Sa-Teh Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Keo - Mekong restaurant
@@ -28,6 +26,4 @@ by Keo - Mekong restaurant
 ## Directions
 
 Heat oil in a skillet to medium-high heat and saute garlic, onion, chili peppers, kaffir lime leaves, curry powder and lemon grass for 2 to 3 minutes. Sitr in coconut milk, milk, cinnamon stick, bay leaves, tamarind sauce, fish sauce, brown sugar, lemon juice and peanut butter; mix well. Reduce heat and cook, stirring frequently, until sauce thickens, about 30 minutes. Be very careful sauce does not stick to bottom of pan.
-
-<!-- END content -->
 

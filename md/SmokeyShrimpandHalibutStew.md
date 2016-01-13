@@ -1,7 +1,5 @@
 # Smokey Shrimp and Halibut Stew 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Feb 2002 pg 76
@@ -26,6 +24,4 @@ by Bon Appetit Feb 2002 pg 76
 Saute bacon in large pot over medium-high heat until crips, about 10 minutes. Transfer 1/3 of bacon to bowl. Add onion to remaining bacon and drippings in pot; saute 5 minutes. Add potato and fennel bulb; saute 5 minutes. Add wine; bring to a boil. Add broth, clam juice, tomatoes with juices, thyme and reserved fennel fronds; bring to boil. Reduce heat and simmer until potatoe is tender, about 5 minutes.  
   
  Add halibut and shrimp to pot; cover and cook until opagque in center, about 3 minutes. Season with salt and pepper. Stir in parsley and bacon and serve.
-
-<!-- END content -->
 

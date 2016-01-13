@@ -1,7 +1,5 @@
 # Coq au Vin 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Ben Wiseley
@@ -48,6 +46,4 @@ The Onions
   
  Final Preparation  
  If you are going to serve immediately, combine mushrooms, onions, chicken, and sauce in a large serving bowl and serve immediately. If you are going to prepare in a crock-pot, combine all ingredients in the crock-pot and set to low. If preparing a day ahead, combine all above in a container, keep in the refrigerator overnight, and heat the following day in a crock pot set to low. Re-heating by this method takes about 7 hours.
-
-<!-- END content -->
 

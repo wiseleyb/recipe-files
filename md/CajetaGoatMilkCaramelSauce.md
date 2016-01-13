@@ -1,7 +1,5 @@
 # Cajeta - Goat Milk Caramel Sauce 
 
-<!-- BEGIN content -->
-
 caaccd
 
 ## Credits
@@ -98,6 +96,4 @@ even Better.
   
 Cajeta keeps for a month or more in the refrigerator. Keep it covered  
 tightly, to keep it from absorbing other flavors.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1545-0!1!0!0!!en!2 and timestamp 20071118131937 --><!-- END content -->
 

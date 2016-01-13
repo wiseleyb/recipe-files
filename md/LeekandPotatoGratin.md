@@ -1,6 +1,5 @@
 # Leek and Potato Gratin 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,23838,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,23838,00.html") by Gourmet
@@ -27,6 +26,4 @@ In a saucepan, cook the leeks in 2 tablespoons of the butter over medium heat, s
 In a separate saucepan combine the potatoes with enough water and salt to cover them by 2-inches, bring the water to a boil, and simmer the potatoes for 1 minute. Drain the potatoes.   
   
 Transfer the potatoes to a buttered 1 1/2-quart baking dish. Spoon the leek mixture over the potatoes, sprinkle it with the remaining cheeses, and dot the top with the remaining butter. Bake the gratin for 35 to 40 minutes, or until the potatoes are tender and the top is golden brown.
-
-<!-- END content -->
 

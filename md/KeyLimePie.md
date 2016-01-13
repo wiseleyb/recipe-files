@@ -1,7 +1,5 @@
 # Key Lime Pie 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet May 2003
@@ -39,6 +37,4 @@ Make Crust:
  Pie, without topping, can be chilled up to 1 day.
 
 Notes: Key limes are also known as Mexican or West Indian limes. If you can't find them in your area substitue bottled Key lime juice. Gourmet suggests Manhattan brand.
-
-<!-- END content -->
 

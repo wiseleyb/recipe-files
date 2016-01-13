@@ -1,7 +1,5 @@
 # Union Square Cafes Marinated Filet Mignon of Tuna 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_18198,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 18198,00.html")
@@ -32,6 +30,4 @@ Combine all the marinade ingredients in a bowl large enough to hold the tuna. Pl
  Brush the tuna with olive oil. Grill the steaks for 1 to 2 minutes on each of their six sides. The outside of the tuna should be nicely charred, and the center should be barely warm and quite rare. Cooked this way, the tuna will remain moist and flavorful.   
   
  Top each steak with pickled ginger and serve.
-
-<!-- END content -->
 

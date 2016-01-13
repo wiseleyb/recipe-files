@@ -1,7 +1,5 @@
 # Ravioli - Crabmeat 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.gumbopages.com/food/app/crab-ravioli.html "http://www.gumbopages.com/food/app/crab-ravioli.html") by Goffredo Fraccaro
@@ -44,6 +42,4 @@ For the crabmeat filling:
   
 **To make the sauce:**  
  Heat the cream and reduce it by 1/3. Season the cream with salt and pepper to taste. Whisk in the butter a little at a time. Serve immediately over the freshly cooked ravioli, and top with the Parmagiano Reggiano cheese.
-
-<!-- END content -->
 

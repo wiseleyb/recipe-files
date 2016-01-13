@@ -1,7 +1,5 @@
 # Evil Jungle Prince with Chicken 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Keo - Mekong restaurant
@@ -22,6 +20,4 @@ by Keo - Mekong restaurant
 ## Directions
 
 Thinly cut chicken into 2 inch strips. Grind together red chili peppers, lemon grass and kaffir lime leaves in a afood processor or pound in a mortar. Heat oil to medium-high and saute pepper mixture for 3 minutes. Stir in coconut milk and cook for 2 minutes. Add chicken and cook for 5 minutes or until cooked. Reduce heat to medium-olow. Stir in fish sauce and basil. Serve on a bed of chopped cabbage. Makes 3 to 4 servings.
-
-<!-- END content -->
 

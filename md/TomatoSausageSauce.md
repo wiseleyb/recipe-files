@@ -1,7 +1,5 @@
 # Tomato-Sausage Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Sept 2001 pg 190
@@ -23,6 +21,4 @@ by Bon Appetit Sept 2001 pg 190
 Heat oil in heavy large pot over medium-high heat. Add sausages, onion and garlic. Saute until onion begins to color, about 10 minutes. Add crushed tomatoes and herbs and bring sauce to boil.  
   
  Reduce heat to medium-low, cover and smimmer until flavors blend and sausages are cooked through, stirring often, about 30 minutes. Season with salt and pepper. Slice sausages thinly, if desired.
-
-<!-- END content -->
 

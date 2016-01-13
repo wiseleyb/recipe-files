@@ -1,7 +1,5 @@
 # Vietnamese Spring Rolls 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://appetizerrecipe.com/az/vitnmsfrshspringrlls.asp "http://appetizerrecipe.com/az/vitnmsfrshspringrlls.asp")
@@ -37,6 +35,4 @@
  4 In another small bowl, mix the hoisin sauce and peanuts.   
   
  5 Serve rolled spring rolls with the fish sauce and hoisin sauce mixtures.
-
-<!-- END content -->
 

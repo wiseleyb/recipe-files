@@ -1,7 +1,5 @@
 # Latin-American Filet Mignon with Avocado and Jicama Salsa 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,17191,FF.html "http://www.foodtv.com/foodtv/recipe/0,6255,17191,FF.html")
@@ -33,6 +31,4 @@ Preheat oven to 450 degrees F. Season filet mignon steaks generously with salt a
  To prepare the salsa: Toss together the tomatillo, jicama, avocado, red onion and grape tomatoes. Pour half the chimichurri sauce into the salsa and toss gently to coat. Serve the steaks, crust side up, with salsa and remaining chimichurri.   
   
  To prepare the Chimichurri: Combine garlic, jalapeno and lime in a small bowl. Whisk in vinegar and olive oil. Stir in parsley and cilantro. Add salt, cover and let stand 2 hours to allow the flavors to marry.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1326-0!1!0!0!!en!2 and timestamp 20071117184049 --><!-- END content -->
 

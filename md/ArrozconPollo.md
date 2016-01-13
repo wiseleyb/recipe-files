@@ -1,7 +1,5 @@
 # Arroz con Pollo 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking Light
@@ -34,6 +32,4 @@ Cuban chicken and rice comes in many variations; however, it always starts with 
  1. Sprinkle chicken with salt, pepper and 1 tsp oregoano. Heat oil in Dutch oven over medium-high heat. Add chicken; cook 8 minutes, browning on all sides. Remove chicken from pan; drizzle with lime juice. Cover; keep warm.  
   
  2. Add onion, bell pepper, and garlic to pan. Cover, reduce heat to low, and cook 10 minutes or until tender. Stir in 1/2 tsp oregano, termieric, and cumin and cook 1 minute, stirring constantly. Stir in rice and ham; cook 1 minutes. Increase heat to medium. Add broth and tomatoes; bring to boil. Add chicken, nestling into the rice mixture. Cover, reduce heat, and simmer 18 minutes or until liquid is almost absorbed. Stir in peas; cover and cook 3 minutes. Remove from heat; let stand, uncovered, 5 minutes. Sprinkle with olives.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1542-0!1!0!0!!en!2 and timestamp 20071117192704 --><!-- END content -->
 

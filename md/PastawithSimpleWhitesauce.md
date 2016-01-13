@@ -1,7 +1,5 @@
 # Pasta with Simple White sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Ben
@@ -37,6 +35,4 @@ Preheat oven to 250
  Season with more parm and black pepper. Serve in preheated bowls.  
   
  If you're really lazy about dishes you could use the pot that you boiled the pasta in for mixing and melt the butter in the microwave.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Sauvignon Blanc Peach Sangria 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -16,6 +14,4 @@ by Tom Douglas - Tom's Big Dinners
 ## Directions
 
 Put everything except lime in a pitcher and stir until sugar disolves. Refrigerate for 2 hours. Strain to serve, add peach slice and lime.
-
-<!-- END content -->
 

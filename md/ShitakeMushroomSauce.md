@@ -1,7 +1,5 @@
 # Shitake Mushroom Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=151 "https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=151")
@@ -33,6 +31,4 @@ Heat the olive oil in a saut pan, add the shallots and garlic and soften, add th
  Add the parsley, sea salt, pepper and optional chili oil.  
   
  (serve with steaks)
-
-<!-- END content -->
 

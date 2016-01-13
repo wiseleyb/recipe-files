@@ -1,7 +1,5 @@
 # Fortune Cookies 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Sara Moulton
@@ -27,6 +25,4 @@ If using fortunes write them ahead of time.
  Put 2 tsp batter on 1 side of buttered area of 1 baking sheet and spread evenly into a round about 3.5 inches in diameter using back of a spoon or sa small offset spatula. Place 2 tbs more batter on other half or buttered area and form another round.  
   
  Back rounds until golden around edge and paler gold in center, 5-6 minutes. Remove rounds and form into fortune cookies.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1488-0!1!0!0!!en!2 and timestamp 20071117180052 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Panini - Trefethen 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.trefethen.com/recipes/misc_ro_1.html "http://www.trefethen.com/recipes/misc ro 1.html")
@@ -38,6 +36,4 @@ Relish:
  Place the sandwich onto the grill, put a pie plate on top, then weigh it down with a few potatoes. Close the lid and grill for 3 minutes or until the grill marks are golden brown. Using a spatula, turn the sandwich over and grill another 3 minutes. The cheese should be melted.  
   
  Use a sharp straight edged knife and cut the panini into small easy to handle shapes (triangle, rectangle or square)
-
-<!-- END content -->
 

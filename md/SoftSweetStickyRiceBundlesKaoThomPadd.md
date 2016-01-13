@@ -1,7 +1,5 @@
 # Soft Sweet Sticky Rice Bundles - Kao Thom Padd 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Craking the Coconut
@@ -20,5 +18,4 @@ by Craking the Coconut
 - Forty 12-inch pieces kitchen twine
 
 ## Directions
-<!-- END content -->
 

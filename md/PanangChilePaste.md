@@ -1,7 +1,5 @@
 # Panang Chile Paste 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Su-Mei Yu
@@ -25,6 +23,4 @@ by Su-Mei Yu
 Using a mortar and pestle, pound the sea salt and garlic into a paste. One at a time, add the cilantro roots and stems, chiles, peppercorns, galangal, lemongrass, kaffir lime zest, and shallot in sequence, adding each new ingredient only after the previous one is pureed and incorporated into the paste. Add the fermented shrimp paste, stirring to blend well, then add the peanuts. Transfer to a jar with a tight fitting lid and refrigerate until ready to use.  
   
  Makes 1/2 cup
-
-<!-- END content -->
 

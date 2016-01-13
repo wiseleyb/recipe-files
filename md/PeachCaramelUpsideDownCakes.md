@@ -1,7 +1,5 @@
 # Peach Caramel Upside-Down Cakes 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -47,6 +45,4 @@ Preheat oven to 350
  Serve with whip and ice cream.
 
 This is kind of involved - you should reference "Tom Douglas - Tom's Big Dinners" cookbook.
-
-<!-- END content -->
 

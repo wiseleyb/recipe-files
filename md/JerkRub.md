@@ -1,7 +1,5 @@
 # Jerk Rub 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26921,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26921,00.html") by Bobby Flay
@@ -24,6 +22,4 @@
 ## Directions
 
 Combine all of the spices in a medium bowl. Set aside half of the spice rub in an airtight container for another use; store at room temperature for up to 6 months.
-
-<!-- END content -->
 

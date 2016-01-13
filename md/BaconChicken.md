@@ -1,7 +1,5 @@
 # Bacon Chicken 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -31,6 +29,4 @@
 [![82024611_f982577d5b_m.jpg](http://static.flickr.com/42/82024611_f982577d5b_m.jpg)](http://www.flickr.com/photos/wiseleyb/82024839/ "http://www.flickr.com/photos/wiseleyb/82024839/")
 
 [![82024839_18cf36db4b_m.jpg](http://static.flickr.com/40/82024839_18cf36db4b_m.jpg)](http://www.flickr.com/photos/wiseleyb/82024839/ "http://www.flickr.com/photos/wiseleyb/82024839/")
-
-<!-- END content -->
 

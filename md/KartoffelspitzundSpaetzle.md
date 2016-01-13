@@ -1,7 +1,5 @@
 # Kartoffelspitz und Spaetzle 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Rainer/Heidi Suletzki
@@ -61,6 +59,4 @@ Wash meet and clean it from resedue of the meat
  cream to her broth, once all   
  other ingredients have been combined in the deep   
  dish at the table
-
-<!-- END content -->
 

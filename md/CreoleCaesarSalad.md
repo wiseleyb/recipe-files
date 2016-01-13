@@ -1,7 +1,5 @@
 # Creole Caesar Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_14917,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 14917,00.html")
@@ -54,6 +52,4 @@
  Angel Dust Cajun Seasoning   
   
  Combine all ingredients in a small bowl until thoroughly mixed. Store in an airtight container. The spice mix keeps its best flavor for about two months. Makes about 1/2 cup
-
-<!-- END content -->
 

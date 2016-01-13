@@ -1,7 +1,5 @@
 # Hungarian Goulash Soup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Feb 2002 pg 84
@@ -31,6 +29,4 @@ Heat oil in heavy large pot over medium heat. Add onion and caraway seeds and sa
  Stir potato, parsnip, carrot and garlic into soup. Simmer until vegetabels are tender, about 15 minutes. Stir in tomatoes, celery and bell pepper. Simmer until vegetables and meat are very tender, about 15 minutes longer. Cool slightly.  
   
  Transfer 3.6 cups soup to blender. Blend until smooth. Add to soup in pot. Stir in parsley. Season soup to taste.
-
-<!-- END content -->
 

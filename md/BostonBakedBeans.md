@@ -1,7 +1,5 @@
 # Boston Baked Beans 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Jasper White
@@ -34,6 +32,4 @@ by Jasper White
  5. Score the stips of salt pork crosswise, about every inch, without cutting through it. This will prvent the strips from curling while cooking. Place the strips on top of the beans and liquid, cover the pot and place in over.  
   
  6. Bake for 5 hours, checking ocassionally (first after 2 hours, then every hour), to be sure the liquid is just barley vovering the beans. Add more water as needed. After 5 hours, remove the cover of the bean pot and cook for 1 hour more. Remove the stips of salt pork and stir the pot before serving.
-
-<!-- END content -->
 

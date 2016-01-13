@@ -1,7 +1,5 @@
 # Spicy Fried Chicken 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.nytimes.com/2003/05/21/dining/212MREX.html "http://www.nytimes.com/2003/05/21/dining/212MREX.html")
@@ -30,6 +28,4 @@
  4. Uncover skillet, turn chicken and continue to cook, uncovered, for another 7 minutes. Turn chicken again and cook for about 5 minutes more, turning as necessary to ensure that both sides are golden brown.   
   
  5. Remove chicken from skillet and drain on paper towels. Serve chicken at any temperature, with lemon or lime wedges.
-
-<!-- END content -->
 

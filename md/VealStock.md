@@ -1,7 +1,5 @@
 # Veal Stock 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.therepertoire.com/sauces/stockv.htm "http://www.therepertoire.com/sauces/stockv.htm") by The Repertoire
@@ -33,6 +31,4 @@ Veal stock is the basis of almost every brown or dark sauce, be it for meat or f
  My preference if I am unable to source veal bones would be to use chicken bones with slightly more pig's trotters to help create the jelly a good stock needs. The resulting sauce may not be as dark but that is purely aesthetics, it definitely will not be as rich or have the depth of flavour that veal would have but I suppose everything has its price. It will freeze very well and will keep in the refrigerator unfrozen for at least a week. Many chefs roast their vegetables before adding them to the stock but my preference is to add them fresh towards the latter end of the cooking cycle. This gives the stock a brighter flavour and as vegetables will only give flavour until they are cooked and not beyond, then there seems little point in cooking them in the stock for hours on end.
 
 Brown the bones in a roasting tray in the oven, turning from time to time. When lightly browned dot the tomato puree over them and continue browning for a further 10 minutes. Drain the bones of any fat and transfer them to a large saucepan, then add the water and bring to the boil. Once the stock comes to the boil, lower the heat and skim, a lot of fat and scum will have risen to the surface and this all needs to be removed. Allow to simmer, skimming as is necessary for about 5 hours or so then add the vegetables, simmer for a further hour then add the herbs. Continue to simmer up to a total of 8 hours. After this time, strain off the stock through a muslin or fine strainer. Reduce this down till only about 1.2lt/2pts remains.
-
-<!-- END content -->
 

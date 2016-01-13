@@ -1,7 +1,5 @@
 # Homemade Vinegar 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.surlatable.com/recipes/saladsHomemadeVinegar.cfm "http://www.surlatable.com/recipes/saladsHomemadeVinegar.cfm")
@@ -69,6 +67,4 @@ Your bacteria may not have had enough oxygen. Try pouring the vinegar back and f
 Your once-potent vinegar has weakened:   
   
 After a while, bacteria convert acetic acid to carbon dioxide and water; you must draw off vinegar from time to time and add new wine, so the vinegar has alcohol on which to work.
-
-<!-- END content -->
 

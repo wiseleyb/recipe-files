@@ -1,6 +1,5 @@
 # Creamy Gruyere and Shrimp/Chicken Pasta 
 
-<!-- BEGIN content -->
 ## Credits
 
 by Cooking Light
@@ -32,6 +31,4 @@ by Cooking Light
 4. Heat butter in large nonstick skillet over medium-high heat. Add shrimp and garlic; saute 3 minutes. Stir in wine and pepper, cook 1 minute or until shtrimp is done.  
   
 5. Add pasta, shrimp mixture, and peas to cheese mixture, tossing well to combine. Spoon the pasta mixture into 13x9 baking dish lightly coated with cooking spray; sprinkle with remaining cheese. Bake at 375 for 20 minutes. Garnish with parsley.
-
-<!-- END content -->
 

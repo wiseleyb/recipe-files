@@ -1,7 +1,5 @@
 # Apple Crepes 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,5447,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,5447,00.html") by Emeril Lagasse
@@ -22,6 +20,4 @@
 ## Directions
 
 In a saute pan, melt the butter. Stir in the brown sugar, cinnamon, and nutmeg. Cook the mixture for 1 minute to dissolve the sugar. Add the walnuts and apples. Cook the apples for 3 to 4 minutes, or until the apples are tender and caramelized. Remove the pan from the heat and add the brandy. Place the pan back on the stove. Shake the pan a couple of times to ignite the flame. If the flame does not ignite, carefully light the flame with a match. Spread a scoop of the ice cream evenly over each crepe. Starting with one side, gently roll the crepe up like a jellyroll. Place the crepes in the freezer and freeze until firm, about 1 hour. Divide the crepes between four shallow bowls. Spoon the apple/walnut mixture over the crepes. Sprinkle the cheese over the top and serve immediately.
-
-<!-- END content -->
 

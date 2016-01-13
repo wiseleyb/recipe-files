@@ -1,7 +1,5 @@
 # Salmon Burgers with Spinach and Ginger 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Oct 2001 pg 260
@@ -31,6 +29,4 @@ Heat a 12 inch nonstick skillet over moderate heat until hot and lightly brush w
 Serve with [Broiled Marinated Eggplant](/recipe/index.php?title=Broiled_Marinated_Eggplant "Broiled Marinated Eggplant")  
   
 This might also be really good with grilled Portobello mushrooms.
-
-<!-- END content -->
 

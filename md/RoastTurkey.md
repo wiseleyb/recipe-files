@@ -1,7 +1,5 @@
 # Roast Turkey 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -33,6 +31,4 @@ by The Best Recipe
 ## Add some bacon and shake things up!
 
 [Roast Turkey With Bacon](/recipe/index.php?title=Roast_Turkey_With_Bacon "Roast Turkey With Bacon")
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1345-0!1!0!0!!en!2 and timestamp 20071117192603 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Traditional Mandarin Fried Rice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,10246,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,10246,00.html") by MingTsai
@@ -22,6 +20,4 @@
 ## Directions
 
 In a wok, add 2 tablespoons of oil and quickly soft-scramble the eggs. Remove the eggs. In the same wok, coat with oil and stir-fry garlic and ginger. Add white scallions and lapchang. Add rice and mix thoroughly. Add soy sauce, white pepper and scrambled eggs. Check for seasoning. Serve immediately.
-
-<!-- END content -->
 

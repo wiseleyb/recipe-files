@@ -1,7 +1,5 @@
 # Puttanesca Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,16133,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,16133,00.html") by Emeril Lagasse
@@ -23,6 +21,4 @@
 ## Directions
 
 In a large pot heat the olive oil over medium high heat. Add the onion and saut until soft and lightly caramelized, about 6 minutes. Add the garlic and cook an additional 2 minutes. Add the tomatoes and the remaining ingredients and simmer until the sauce is thickened and slightly reduced, about 40 minutes. Adjust seasoning to taste.
-
-<!-- END content -->
 

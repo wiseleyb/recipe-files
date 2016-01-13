@@ -1,7 +1,5 @@
 # Spinach and Shiitake Lasagna with Caramelized Garlic-Basil Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,9612,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,9612,00.html") by MingTsai
@@ -41,6 +39,4 @@ Preheat oven to 350 degrees. In a hot skillet coated with oil, saute garlic, gin
  In a hot saucepan coated with olive oil, caramelize garlic and onions. Season and sprinkle on sugar. When brown, about 6 to 8 minutes, add stock and bring to a boil. Check for seasoning, should be salty like blanching water. Add basil and spinach and blanch for 2 minutes. Transfer to blender and lift with butter. Verify flavor.   
   
  PLATING Sauce plate with sauce and zig-zag syrup. Slice square of lasagne and place on top. Garnish with vinegar syrup.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1408-0!1!0!0!!en!2 and timestamp 20071118083212 --><!-- END content -->
 

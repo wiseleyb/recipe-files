@@ -1,7 +1,5 @@
 # Dry Rub for Barbecue 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cook's Illustrated
@@ -22,6 +20,4 @@ by Cook's Illustrated
 ## Directions
 
 Rub for briskets and pulled pork.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1333-0!1!0!0!!en!2 and timestamp 20071117192708 --><!-- END content -->
 

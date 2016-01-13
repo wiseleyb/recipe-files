@@ -1,7 +1,5 @@
 # Sauteed Medallions of Pork 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 2 1/4 lbs trimmed pork loin
@@ -18,6 +16,4 @@ Cut the pork into 20 medallions, about 1 3/4 oz each. Pound the medallions sligh
 Combine the sherry and vinegar. Dissolve the sugar in the fond de veau lie. Reserver each separately.  
   
 For each serving: Dry saute 2 pork medallions. Remove the medallions from the pan and deglaze with 1 tbs of the sherry mixture. Add 1.5 ozs of the fond de veau lie and heat thoroughly. Server the pork medallions with the sauce and 3 ozs of the cabbage salad.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Tropical Chicken Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Apr 2002
@@ -40,6 +38,4 @@ Cook chicken:
   
  Assemble salad:  
  Cut chicken diagonally into thin strips and toss with mango, pineapple, hears of palm, grapes, cabbage, carrots, peppers, and 1/2 cup vinaigrette. Server salad with some of remaining vinaigrette on the side.
-
-<!-- END content -->
 

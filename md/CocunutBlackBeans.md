@@ -1,7 +1,5 @@
 # Cocunut Black Beans 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.cafecreosote.com/Recipes/recipe.php3?rid=142 "http://www.cafecreosote.com/Recipes/recipe.php3?rid=142")
@@ -23,6 +21,4 @@
 ## Directions
 
 Heat oil in skillet on medium heat. Saute onions and garlic for 10 minutes. Add remaining ingredients and continue to cook until most liquid is absorbed (about 1 hour). Serve over a bed of rice.
-
-<!-- END content -->
 

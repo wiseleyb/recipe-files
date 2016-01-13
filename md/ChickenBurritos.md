@@ -1,7 +1,5 @@
 # Chicken Burritos 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,3189,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,3189,00.html")
@@ -27,6 +25,4 @@
 Spread the tortillas on a counter. Spread each with a strip of warm refried beans down the center. Top with the chicken (warmed), Crema, avocado and tomatoes. Lightly toss the watercress with the lime juice, olive oil, salt, and pepper and place over each burrito. Fold the bottom quarter of each tortilla up and then roll from the side into a cylinder.   
   
 Note: If you are using leftover chicken for this dish, combine it with Arbol Salsa (recipe attached) before proceeding as directed with the recipe.
-
-<!-- END content -->
 

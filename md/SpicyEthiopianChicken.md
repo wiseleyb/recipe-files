@@ -1,7 +1,5 @@
 # Spicy Ethiopian Chicken 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Nyala Ethiopian Cuisine, Los Angeles Bon Apetit Sp
@@ -28,6 +26,4 @@ Combine first 3 ingredients in small bowl. Sprinkle chicken on both sides with s
 **Notes:**   
  Add chicken boulon to water for added flavor.  
  Put spice mixture in ziplock bag and shake to better coat chicken.
-
-<!-- END content -->
 

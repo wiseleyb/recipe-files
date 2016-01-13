@@ -1,7 +1,5 @@
 # Warm Cabbage Salad 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 1 1/2 ozs bacon, minced
@@ -24,6 +22,4 @@ Render the bacon in a large skillet until crisp. Remove from the pan and reserve
  Add the vinegar mixture, cabbage, caraway seeds to the skillet and cook until the cabbage is tender.   
   
  Remove from the heat and stir in the parsely and reserved bacon.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Camembert-Caramelized Onion Quesadilla with Apple Chutney 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26237,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26237,00.html") by Bobby Flay
@@ -39,6 +37,4 @@ Preheat the grill to medium. Heat the oil and butter in a large saute pan over m
  Apple Chutney:   
   
  Heat oil in a medium saucepan over medium-high heat. Add the onion, ginger, garlic, and jalapeno, and cook until soft. Add half of the apples, the apple juice and vinegar, and cook until the apples are soft. Remove from the heat and stir in the remaining apples and the thyme. Season with salt and pepper, to taste. Transfer to a bowl and let sit at room temperature for 30 minutes before serving so that flavors meld.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1554-0!1!0!0!!en!2 and timestamp 20071117184616 --><!-- END content -->
 

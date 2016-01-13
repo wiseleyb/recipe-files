@@ -1,7 +1,5 @@
 # Broiled Marinated Eggplant 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Oct 2001 pg 260
@@ -23,6 +21,4 @@ Whisk together soy sauce, lime juice, honey, garlic, ginger, and red pepper flak
  Preheat broiler  
   
  Lightly brush rack of a broiler pan with oil, then broil eggplant 5 to 7 inches from heat, basting frequently with remaining marinade and turning once, until tender and browned on both sides, 10 to 15 minutes total.
-
-<!-- END content -->
 

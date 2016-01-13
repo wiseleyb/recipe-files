@@ -1,7 +1,5 @@
 # Cornbread 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,18740,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,18740,00.html") by Emeril Lagasse
@@ -25,6 +23,4 @@ Place the bacon grease in a 10-inch black cast iron skillet and swirl to coat th
  In a bowl, combine the cornmeal, baking powder, baking soda, salt, and pepper and mix well. In a small bowl, combine the buttermilk, egg, and melted butter. Add to dry ingredients and stir just to combine. Remove the hot skillet from the oven, carefully swirl to evenly distribute hot grease, and quickly pour the cornmeal batter into the skillet.   
   
  Bake for 25 to 30 minutes, or until firm and golden brown on top. Let sit for 5 minutes, then turn out onto a cutting board. Cut into wedges and serve hot with butter on the side.
-
-<!-- END content -->
 

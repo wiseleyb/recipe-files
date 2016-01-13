@@ -1,7 +1,5 @@
 # Empanadas: Green Chile Chicken and Queso 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD_9936_22451,00.html "http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD 9936 22451,00.html")
@@ -25,6 +23,4 @@
 
 Bring a pot of water to a boil; add the tomatillos, jalapeno, onion, and garlic. Simmer for 10 to 15 minutes until the tomatillos are soft. Drain and cool slightly. Combine the tomatillos, jalapeno, onion, garlic, cilantro, and lime juice in a blender. Add 1/4 cup of water and process to a coarse puree; season with a generous pinch of salt. You should have about 3 cups of this salsa verde.   
 Combine the shredded chicken and queso fresco in a large mixing bowl. Pour in 1 1/2cups of the salsa verde and fold the ingredients together to moisten. Use as a filling for empanadas. Serve the remaining salsa verde on the side.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1460-0!1!0!0!!en!2 and timestamp 20071117175443 --><!-- END content -->
 

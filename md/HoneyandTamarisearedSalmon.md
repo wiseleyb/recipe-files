@@ -1,6 +1,5 @@
 # Honey and Tamari-seared Salmon 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Original Recipe](http://dsc.discovery.com/fansites/greatchefs/recipes/fish/amsalmit.html "http://dsc.discovery.com/fansites/greatchefs/recipes/fish/amsalmit.html") by Dean Mitchell
@@ -45,6 +44,4 @@ To prepare the leeks: Heat 3 inches of canola oil to 360 F in a deep-fryer or sa
 To prepare the vegetables: Toss the couscous with the parsley. Melt half the butter in a medium saute pan or skillet and add the beans; melt the remaining butter in another medium saute pan or skillet and add the carrots. Cook both vegetables in the butter until warmed through.  
   
 To serve: Place one fourth of the couscous on each warmed plate and shape it into a bed for the salmon. Place the salmon on the couscous. Top each piece of salmon with deep-fried leeks. Drizzle sauce over and around the salmon. Cross two green beans and place two tourneed carrots on the plates on both sides of each piece of salmon.
-
-<!-- END content -->
 

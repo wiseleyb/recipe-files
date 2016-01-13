@@ -1,7 +1,5 @@
 # Blue Cheese Waldorf Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_18044,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 18044,00.html")
@@ -28,6 +26,4 @@ In a bowl, whisk together the mayonnaise and vinegar. Slowly add 1/3 cup butterm
  In a large bowl, combine the apples, celery, grapes, and walnuts. Add the dressing, to taste, and toss well.   
   
  Arrange the lettuce leaves on 6 salad plates. Top with the tossed salad and serve.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1466-0!1!0!0!!en!2 and timestamp 20071117183147 --><!-- END content -->
 

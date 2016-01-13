@@ -1,7 +1,5 @@
 # Teriyaki Beurre Blanc 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - Teriyaki Glaze:
@@ -33,6 +31,4 @@ Teriyaki Glaze: Combine the soy sauce, brown and white sugars, garlic, ginger, J
  Add mushrooms (especially Shitake) for more flavor or a more classic looking brown mushroom sauce.   
   
  This sauce goes well with Tuna and Steak.
-
-<!-- END content -->
 

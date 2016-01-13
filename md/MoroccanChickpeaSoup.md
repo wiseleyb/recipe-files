@@ -1,7 +1,5 @@
 # Moroccan Chickpea Soup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.epicurious.com/run/recipe/view?id=104356 "http://www.epicurious.com/run/recipe/view?id=104356") by Gourmet Nov 2000
@@ -37,6 +35,4 @@ Prepare chickpeas: Soak chickpeas in water to cover by 2 inches 8 to 12 hours.
  Stir in tomato pure, 1/3 cup cilantro, chickpeas with reserved liquid, vegetable broth, and lentils. Bring to a boil, then reduce heat and simmer, uncovered, until lentils are tender, about 35 minutes.   
   
  Stir in pasta and cook, stirring, until tender, about 3 minutes. Stir in parsley, remaining 1/3 cup cilantro, and salt to taste.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1413-0!1!0!0!!en!2 and timestamp 20071117180810 --><!-- END content -->
 

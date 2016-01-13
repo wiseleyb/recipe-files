@@ -1,7 +1,5 @@
 # Caribbean Seasoned Rice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,13826,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,13826,00.html") by Cheryl Smith
@@ -25,6 +23,4 @@
 ## Directions
 
 Heat oil in saucepan until just smoking. Salt and pepper chicken pieces and brown both sides in single layers. When all the pieces are browned off, remove chicken from the pan and set aside. Drain oil from pan. Add butter, onion, scallions, thyme, bay leaves, and saute for 4 minutes. Add rice and saute for 4 to 5 minutes more, then add garlic, chicken, squash, peas and water. Bring to a boil then reduce to a simmer and cover for 35 minutes.
-
-<!-- END content -->
 

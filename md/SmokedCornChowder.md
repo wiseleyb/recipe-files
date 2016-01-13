@@ -1,7 +1,5 @@
 # Smoked Corn Chowder 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 4 oz leeks, diced
@@ -36,6 +34,4 @@ In a soup pot, sweat the leeks in the butter until tender.
  Combine the evaporated milk, cream, and arrowroot. Add to the soup and simmer until thickened.  
   
  Garnisheach serving with the herbs.
-
-<!-- END content -->
 

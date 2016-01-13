@@ -1,7 +1,5 @@
 # Mango-Habanero Vinaigrette 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Stephan Pyles
@@ -22,6 +20,4 @@ by Stephan Pyles
 ## Directions
 
 In a blender, place the garlic, shallot, mango, habanero, and lemon juice and puree until smooth. Gradually add the olive oil and corn oil while the motor is running. Stir in the ciantro and mint and season with salt.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1289-0!1!0!0!!en!2 and timestamp 20071117175416 --><!-- END content -->
 

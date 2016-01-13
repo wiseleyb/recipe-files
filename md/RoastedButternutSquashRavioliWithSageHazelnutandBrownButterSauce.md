@@ -1,7 +1,5 @@
 # Roasted Butternut Squash Ravioli With Sage, Hazelnut and Brown Butter Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,13401,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,13401,00.html") by Bobby Flay
@@ -38,6 +36,4 @@ Ravioli:
 
 Alternate version:  
  [http://www.foodtv.com/foodtv/recipe/0,6255,13992,00.html](http://www.foodtv.com/foodtv/recipe/0,6255,13992,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,13992,00.html")
-
-<!-- END content -->
 

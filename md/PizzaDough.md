@@ -1,7 +1,5 @@
 # Pizza Dough 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,14707,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,14707,00.html") by Alton Brown
@@ -41,6 +39,4 @@ Place the sugar, salt, olive oil, water, 1 cup of flour, yeast, and remaining cu
  Brush the rim of the pizza with olive oil. Spread the pizza sauce evenly onto the pizza. Sprinkle the herbs onto the pizza and top with the cheese.   
   
  Slide the pizza onto the tile and bake for 7 minutes, or until bubbly and golden brown. Rest for 3 minutes before slicing.
-
-<!-- END content -->
 

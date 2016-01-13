@@ -1,7 +1,5 @@
 # Baked Ziti with Shrimp and Scallops 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking Light
@@ -34,6 +32,4 @@ by Cooking Light
  5. Preheat broiler.  
   
  6. Broil 2 miutes or until cheese begins to brown. Remove, let stand 10 minutes to let sauce set before serving.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Jack Daniels Glaze 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.recipesource.com/side-dishes/sauces/10/rec1042.html "http://www.recipesource.com/side-dishes/sauces/10/rec1042.html")
@@ -51,6 +49,4 @@ teaspoons into the saucepan and whisk to combine.
     
 
 Makes 1 cup of glaze.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1435-0!1!0!0!!en!2 and timestamp 20071117192140 --><!-- END content -->
 

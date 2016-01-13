@@ -1,7 +1,5 @@
 # Goat Cheese Ravioli With Creamy Walnut Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,15610,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,15610,00.html") by Emeril Lagasse
@@ -39,6 +37,4 @@ In a bowl combine the goat cheese, walnuts, basil, oil, garlic and lemon peel, a
  Melt 2 tablespoons of the butter in large, heavy skillet over medium-high heat. Add the walnuts and cook, stirring, until brown and fragrant, about 3 minutes. Remove nuts from the pan. Add the remaining 2 tablespoons butter, shallots and garlic, and sauti for 1 minute. Add the wine and cream, and bring to a boil. Cook over medium-high until the liquid has thickened and reduced by nearly 50 percent in volume, about 4 minutes. Stir in the basil, salt and pepper. Remove from the heat and cover to keep warm.   
   
  Bring a large pot of salted water to a boil. Cook the ravioli until they are tender and rise to the surface, carefully stirring to keep them from sticking together, 3 to 4 minutes. Drain in a colander. Transfer the cooked ravioli to the pan with the sauce, and gently toss to coat and heat through. Divide the ravioli among 6 serving plates or shallow bowls, and sprinkle each serving with grated cheese. Serve immediately.
-
-<!-- END content -->
 

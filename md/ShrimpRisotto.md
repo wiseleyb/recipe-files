@@ -1,7 +1,5 @@
 # Shrimp Risotto 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,12430,FF.html "http://www.foodtv.com/foodtv/recipe/0,6255,12430,FF.html") by Kenneth Johnson
@@ -34,6 +32,4 @@
 Heat stockpot over medium high heat. Add olive oil, onion and sauti for 4 to 5 minutes. Add rice and cook for 3 minutes. Add wine and cook for 5 minutes. Add stock 1 cup at a time, stirring constantly. Cook for 20 minutes or until just cooked. Add remaining ingredients, set aside and keep warm.   
   
  Heat sauti pan over medium high heat. Add 2 tablespoons olive oil. Season shrimp with salt and pepper and add to the pan. Cook for 2 to 3 minutes on each side and add shallot, garlic, tomatoes, and wine and cook for 3 more minutes. Add butter 1 piece at a time, and season with salt and pepper. Saute carrots and green beans in butter. Divide rice among 4 plates. Top with shrimp and pour sauce over and enjoy.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1328-0!1!0!0!!en!2 and timestamp 20071118081312 --><!-- END content -->
 

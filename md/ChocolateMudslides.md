@@ -1,7 +1,5 @@
 # Chocolate Mudslides 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.nytimes.com/2003/08/11/dining/cooking/11cooking-mudslides.html "http://www.nytimes.com/2003/08/11/dining/cooking/11cooking-mudslides.html")
@@ -33,6 +31,4 @@
  6. Bake the cookies for 15 to 25 minutes, until crusty on the outside (they should still be gooey on the inside). Allow to cool for at least 20 minutes before eating.   
   
  Yield: 20 large cookies.
-
-<!-- END content -->
 

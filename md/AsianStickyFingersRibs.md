@@ -1,7 +1,5 @@
 # Asian Sticky-Fingers Ribs 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -36,6 +34,4 @@ Remove membrane from under side of ribs
  For the glaze: saute garlic and ginger... add remaining ingredients, boild until syrupy.  
   
  Glaze ribs and put under broiler.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1566-0!1!0!0!!en!2 and timestamp 20071117175738 --><!-- END content -->
 

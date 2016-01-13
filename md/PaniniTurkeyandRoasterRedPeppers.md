@@ -1,7 +1,5 @@
 # Panini - Turkey and Roaster Red Peppers 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.theworldwidegourmet.com/poultry/turkey/bball-panini.htm "http://www.theworldwidegourmet.com/poultry/turkey/bball-panini.htm")
@@ -24,6 +22,4 @@
       3. Heat large skillet over medium heat until hot. Add sandwiches and heat until bread is golden, about 4 minutes. Turn sandwich over and grill second side until golden.
 
     Sandwich may be grilled on a preheated countertop grill for about 3 minutes, or until bread is golden and cheese has softened.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Barbecued Beef Brisket 
 
-<!-- BEGIN content -->
-
 Check out the tutorial that covers this: [Cooking Brisket with the Evil Nun](/recipe/index.php?title=Cooking_Brisket_with_the_Evil_Nun "Cooking Brisket with the Evil Nun")
 
 ## Credits
@@ -47,6 +45,4 @@ Outcome: best brisket I've ever had.
 [casino games](http://casino-games-wiki.com/index.php/casino_games "http://casino-games-wiki.com/index.php/casino games") [online casino games](http://casino-games-wiki.com/index.php/online_casino_games "http://casino-games-wiki.com/index.php/online casino games") [casino games online](http://casino-games-wiki.com/index.php/casino_games_online "http://casino-games-wiki.com/index.php/casino games online")[[http://adipex-wiki.com/index.php/adipex](http://adipex-wiki.com/index.php/adipex "http://adipex-wiki.com/index.php/adipex") adipex] [buy adipex](http://adipex-wiki.com/index.php/buy_adipex "http://adipex-wiki.com/index.php/buy adipex") [adipex online](http://adipex-wiki.com/index.php/adipex_online "http://adipex-wiki.com/index.php/adipex online") [tramadol](http://tramadol-wiki.com/index.php/tramadol "http://tramadol-wiki.com/index.php/tramadol")
 
  [cheap tramadol](http://tramadol-wiki.com/index.php/cheap_tramadol "http://tramadol-wiki.com/index.php/cheap tramadol")
-
-<!-- END content -->
 

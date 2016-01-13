@@ -1,7 +1,5 @@
 # Belini 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by [Tyler's Ultimate](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_37274,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 37274,00.html")
@@ -31,6 +29,4 @@ Begin by making the ginger simple syrup. Peel and grate the ginger. Add it toget
 In a blender add frozen peaches and ginger simple syrup. Blend until completely pureed then place into the refrigerator to cool.
 
 For serving: Add ice cubes to a cocktail shaker and fill half way with peach puree. Top off with Champagne and shake vigorously to combine. Pour into Champagne glasses and repeat process as needed.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1623-0!1!0!0!!en!2 and timestamp 20071117175732 --><!-- END content -->
 

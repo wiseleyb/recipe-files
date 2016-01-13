@@ -1,7 +1,5 @@
 # Danno's Szechuan shaboom stir-fry 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Centre Street Cafe - JP, Boston
@@ -38,6 +36,4 @@ by Centre Street Cafe - JP, Boston
 7. Sprinkle with sesame seeds and scallions.
 
 Adapted from Centre Street Cafe
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1622-0!1!0!0!!en!2 and timestamp 20071117180303 --><!-- END content -->
 

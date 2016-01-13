@@ -1,7 +1,5 @@
 # Teriyaki Marinade 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 2/3 cup soy sauce
@@ -16,6 +14,4 @@
 ## Directions
 
 For the teriyaki marinade, combine the soy sauce, mirin, vinegar, sugar, ginger, garlic and beer in a small saucepan. Cook over high heat until the mixture reduces by half. Let cool.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Crispy Shrimp Rolls with Sweet Chile Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -29,6 +27,4 @@ Can be made ahead of time and frozen until needed - fry frozen - don't thaw
 Dry shrimp and coarsley chop, mix with ingredients and create rolls (use egg wash to seal rolls).  
   
 Fry at 350 for 3 minutes (or 5 minutes if frozen).
-
-<!-- END content -->
 

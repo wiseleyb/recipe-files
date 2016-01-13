@@ -1,7 +1,5 @@
 # Sake Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas
@@ -19,6 +17,4 @@ by Tom Douglas
 ## Directions
 
 In a small saucepan, combine the sake, soy sauce, vinegar, sugar, chile, and garlic. Warm over medium heat until the sugar dissolves. Remove from the heat and allow to cool. Add the green onions. Sauce will keep (refrigerated) for 2 weeks.
-
-<!-- END content -->
 

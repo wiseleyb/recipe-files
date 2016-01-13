@@ -1,7 +1,5 @@
 # Shrimp with Spiced Masala and Coconut Milk 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Shamiana Restaurant (Kirkland, WA) Bon Apetit Spri
@@ -35,6 +33,4 @@ For Masala:
   
  For Shrimp:  
  Heat oil in heavy large deep skillet over medium-high heat. Add shrimp and saute until partially cooked, about 2 minutes. Stir in coconut milk, cilantro, green onions, lemon juice and prepared masala. Simmer until shrimp are opagque in center, about 3 minutes longer. Season to taste with salt and pepper and serve.
-
-<!-- END content -->
 

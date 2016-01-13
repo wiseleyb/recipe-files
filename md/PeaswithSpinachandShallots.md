@@ -1,7 +1,5 @@
 # Peas with Spinach and Shallots 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Jan 2002 pg 86
@@ -25,6 +23,4 @@ Cook shallot and garlic in oil and butter in a 12 inch nonstick skillet over mod
  Stir in peas and water and cook, covered, stirring occasionally , until peas are tender, about 5 minutes.  
   
  Stir in spinach, salt and pepper and cook, tossing, until spinach is just wilted, about 1 minute.
-
-<!-- END content -->
 

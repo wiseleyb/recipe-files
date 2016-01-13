@@ -1,7 +1,5 @@
 # Spicy Lentil Chili 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet
@@ -32,6 +30,4 @@ by Gourmet
 Cook onion, bell pepper, jalapeno, celery, carrot, garlic, salt and pepper in oil in a 5-6 qt heavy pot over moderate heat until softened.  
   
  Meanwhile, stir together brown sugar, spices, oregano, thyme, and mustard, then add to vegetables and cook until very fragrant, about 4 minutes. Add lentils, bay leaf, and stock and simmer, uncovered until lentils a very soft, about and hour. Discard bay leaf before serving.
-
-<!-- END content -->
 

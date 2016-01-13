@@ -1,7 +1,5 @@
 # Bolognese Sauce 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 3 T unsalted butter
@@ -21,6 +19,4 @@
 Melt 2 T of butter and the oil in a large casserole over medium heat. Saute onion, carrot, and celery until lightly colored, 6 to 8 minutes, then stir in garlic. Add ground meats and cook until lightly browned and separated into small pieces, breaking up chunks with wooden sppon. Pour in wine, bring mixture to a boil, and cook until liquid almost evaporates. Season with S & P. Stire diluted Demi-Galce Gold and tomato paste. Cover pan, reduce heat to simmer cook for 1.5 hours (or put it in a 325 oven). Before serving add some cream and parsley.  
   
  This is a great sauce for lasagna.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1454-0!1!0!0!!en!2 and timestamp 20071117175150 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Chocolate Chip Cookies Kat-style 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.suletzki.com/showDate.asp?id=298 "http://www.suletzki.com/showDate.asp?id=298") by Kat Suletzki
@@ -24,6 +22,4 @@ The best damn chocolate chip cookies
 Preheat oven to 375 degrees Fahrenheit. In one bowl, combine the graham cracker crumbs, flour and backing powder. In another bowl, beat together the butter and the condensed milk. Add dry ingredients mixture and mix well. Stir in the coconut, the chocolate chips and the chopped nuts. Drop by rounded tablespoons onto ungreased cooking sheet (although I always use silpat). Bake 9 to 12 minutes or until lightly browned.
 
 I am not sure which combo I like better: white chocolate chips and macadamia nuts, or milk chocolate and pecans.
-
-<!-- END content -->
 

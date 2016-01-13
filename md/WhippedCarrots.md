@@ -1,7 +1,5 @@
 # Whipped Carrots 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Todd English
@@ -19,6 +17,4 @@ by Todd English
 ## Directions
 
 In a large pot over high heat, boil carrots and potatoes until fork tender, about 10 minutes. Strain and set aside. When cool, place in blender or food processor and pure with cream and butter. Fold in coriander, and season with salt and pepper.
-
-<!-- END content -->
 

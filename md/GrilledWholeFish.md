@@ -1,7 +1,5 @@
 # Grilled Whole Fish 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Take on Tom Douglas idea
@@ -25,6 +23,4 @@ Salt (sea salt) cavity of fish. Stuff cavity with onion, lemon, herbs and secure
  Flour one side of fish. Brush fish and grill with oil. Put on grill flour side down. Flour remaining side of fish.   
   
  Grill over a medium fire (300-350) for 20 minutes on one side and 10-20 on the other. Inside of fish should be around 135 degrees.
-
-<!-- END content -->
 

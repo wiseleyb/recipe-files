@@ -1,7 +1,5 @@
 # Buffalo Wings 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_21397,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 21397,00.html") by Sean
@@ -35,6 +33,4 @@ Heat oil to 400 degrees F in a deep fryer or a medium stockpot. Line a baking sh
  Blue Cheese Dressing:   
   
  In a small bowl, combine blue cheese, buttermilk, sour cream, mayonnaise, lemon juice, salt, and pepper. Stir to combine.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1504-0!1!0!0!!en!2 and timestamp 20071118153844 --><!-- END content -->
 

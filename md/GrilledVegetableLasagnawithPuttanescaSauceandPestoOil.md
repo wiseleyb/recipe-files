@@ -1,7 +1,5 @@
 # Grilled Vegetable Lasagna with Puttanesca Sauce and Pesto Oil 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,16133,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,16133,00.html") by Emeril Lagasse
@@ -59,6 +57,4 @@ Preheat oven to 350 degrees F.
  Light the grill or pre-heat the broiler.   
   
  In a large shallow bowl, toss the eggplant, zucchini, bell pepper and onion with the oil and salt. If using the broiler, arrange the vegetables in a single layer on 2 lightly greased or non-stick baking sheets. Grill or broil in batches, turning the vegetables once, until they are tender, lightly browned, and have released most of their moisture, about 5 to 6 minutes per side.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1313-0!1!0!0!!en!2 and timestamp 20071118022731 --><!-- END content -->
 

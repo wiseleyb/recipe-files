@@ -1,7 +1,5 @@
 # Apple Chutney 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26237,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26237,00.html") by Bobby Flay
@@ -23,6 +21,4 @@
 ## Directions
 
 Heat oil in a medium saucepan over medium-high heat. Add the onion, ginger, garlic, and jalapeno, and cook until soft. Add half of the apples, the apple juice and vinegar, and cook until the apples are soft. Remove from the heat and stir in the remaining apples and the thyme. Season with salt and pepper, to taste. Transfer to a bowl and let sit at room temperature for 30 minutes before serving so that flavors meld.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Chicken Tacos 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,3186,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,3186,00.html")
@@ -24,6 +22,4 @@ Refrigerate the juices so that the fat rises to the top. When the chicken is coo
 Dip a corn tortilla in some water and shake off the excess. Toast one at a time in a nonstick pan over medium heat for about 1 minute on each side. Wrap in a towel to keep warm while you dip and heat the remaining tortillas.   
   
 For each taco, stack 2 tortillas. Divide the warm chicken and place on top. Top with Salsa Fresca, sliced avocado, and chopped cilantro.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1380-0!1!0!0!!en!2 and timestamp 20071117185207 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Pilaf with Chicken, Spinash, and Walnuts 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking Light
@@ -27,6 +25,4 @@ Pilaf has many variations. This Turkish version gains flavore from popcorn-scent
  1. Heat 1 tbs oil in large nonstick skillet over medium-high heat. Add onion, saute 10 minutes or until lightly browned. Stir in rice, and cook 1 minutes, stirring constantly. Stir in 1.5 tsp oil, tomato, salt, broth, and cinnamon stick, bring to a boil. Cover, reduce heat, and simmer 15 minutes or until liquid is absorbed.  
   
  2. Stir in spinach; cook 2 miuntes or until spinach wilts. Stir in chicken. Sprinkle evenly with walnuts and dill. Discard cinnamon stick.
-
-<!-- END content -->
 

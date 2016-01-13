@@ -1,7 +1,5 @@
 # Cole Slaw 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by ben
@@ -30,6 +28,4 @@ The measurements will depend on how much you want to make.
  Mix in mayo until it reaches the consistency you like. Server room temperature.  
   
  This dish doesn't keep so don't make extra.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1336-0!1!0!0!!en!2 and timestamp 20071117175510 --><!-- END content -->
 

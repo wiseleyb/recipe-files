@@ -1,7 +1,5 @@
 # Fettucine with Lobster Pantelleria-Style 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD_9936_24008,00.html "http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD 9936 24008,00.html") by Molto Mario
@@ -30,6 +28,4 @@ Bring 6 quarts water to boil and add 2 tablespoons salt.
  Cook fettuccine according to package instructions until al dente. Add lobster into the pasta cooking water for 1 minute. Drain well. Pour hot pasta and lobster into the bowl and toss like a salad until well mixed and serve immediately. Sprinkle with chopped parsley leaves.
 
 We found adding some lemon juice and a bit of salt made this recipe much better.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1492-0!1!0!0!!en!2 and timestamp 20071117192428 --><!-- END content -->
 

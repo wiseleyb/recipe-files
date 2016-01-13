@@ -1,7 +1,5 @@
 # Emeril's Rustic Rub 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.emerils.com/recipedb/recipepull.php?id=1266 "http://www.emerils.com/recipedb/recipepull.php?id=1266") by Emeril Lagasse
@@ -18,5 +16,4 @@
 - 2.5 tablespoons dried thyme
 
 ## Directions
-<!-- END content -->
 

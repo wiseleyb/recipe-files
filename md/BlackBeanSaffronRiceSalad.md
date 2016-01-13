@@ -1,7 +1,5 @@
 # Black Bean - Saffron Rice Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Stephan Pyles
@@ -28,6 +26,4 @@ by Stephan Pyles
 In a saucepan with a lid, heat the olive oil, uncovered, until lightly smoking. Add the diced onion and saute for 1 minute over medium-high heat. Add the garlic and saute for 1 minute longer. Add the rice and stir until coated. Add the stock, salt, and saffron and bring to a boil. Reduce the heat to a simmer, cover the pan, and cook until the rice has absorbed the liquid, about 15 minutes. Remove from the pan and spread out evenly on a cookie sheet. Refrigerate until cool.  
   
 Transer the cooled rice to a mixing bowl and add the beans, red onion, bell pepper, chiles, cilantro, and oregano. Mix together well, add the vinaigrette, and combine thoroughly. Season with salt and server at room temperature.
-
-<!-- END content -->
 

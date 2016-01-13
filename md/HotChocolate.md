@@ -1,7 +1,5 @@
 # Hot Chocolate 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.ottawacitizen.com/food/010321/5039761.html "http://www.ottawacitizen.com/food/010321/5039761.html") by Stubbe
@@ -26,6 +24,4 @@
  2. Reduce heat and gently simmer 5 minutes. Remove from heat; remove cloves and cinnamon stick.   
   
  3. Stir in vanilla and chili powder and white sugar; beat until it gets foamy, then pour mixture into coffee mugs. Top it off with whipped cream.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1310-0!1!0!0!!en!2 and timestamp 20071117181255 --><!-- END content -->
 

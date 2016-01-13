@@ -1,7 +1,5 @@
 # Gallo Pinto 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.westnet.com/costarica/food/cuisine.html "http://www.westnet.com/costarica/food/cuisine.html")
@@ -19,6 +17,4 @@
 ## Directions
 
 Saute the onion and bell pepper in a pan for about 2 minutes, add the black beans and the Sauce, leave that for about 10 minutes at medium heat. Once it's done, add the cooked rice and mix with the coriander. You can always add eggs or mixed with bacon strips or sausage.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1445-0!1!0!0!!en!2 and timestamp 20071117175300 --><!-- END content -->
 

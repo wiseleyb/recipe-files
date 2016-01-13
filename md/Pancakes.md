@@ -1,7 +1,5 @@
 # Pancakes 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -40,5 +38,4 @@ After trying this recipe... it is horrible...
 - Butter, for cooking
 - Confectioners' sugar, for dusting, optional
 - 1 cup maple syrup, warmed on stove-top
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1284-0!1!0!0!!en!2 and timestamp 20071117185818 --><!-- END content -->
 

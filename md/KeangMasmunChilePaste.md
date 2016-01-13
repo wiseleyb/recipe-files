@@ -1,7 +1,5 @@
 # Keang Masmun Chile Paste 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Su-Mei Yu
@@ -37,6 +35,4 @@ Preheat the oven to 400F. Slice off the tops of the garlic and the shallots. Pla
  Combine the cumin and the caraway seed in a 9-ince skillet and dry roast over medium-high heat, sliding the skillet back and forth to ensure even roasting., until the seed exude a wonderful aroma, about 1 minute. Transfer to a plate to cool, then repeat the process with the coriander seeds, and cloves. Grind in an electric spice or coffee grinder. Transfer to a bowl, add the nutmeg, cinnamon, and mace, and set aside.   
   
  Using a mortar and pestle, pound the sea salt and garlic into a paste. One at a time, add the cilantro roots and stems, chiles, coriander seeds, ground spices, cardamom, cloves, galangal, lemongrass, kaffir lime zest, and shallots in suequence, adding each new ingredient only after the previous one is pureed and incorporated into the paste. Add the fermented shrimp paste and mix and blend well. Stroe in a jar with a tight-fitting lid in the refrigerator until ready to use.
-
-<!-- END content -->
 

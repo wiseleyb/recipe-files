@@ -1,7 +1,5 @@
 # Chicken Stock (Tylers version) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_23752,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 23752,00.html")
@@ -24,6 +22,4 @@ Place the chicken and vegetables in a large stockpot over medium heat. Pour in o
  Carefully remove the chicken to a cutting board. When its cool enough to handle, discard the skin and bones; hand-shred the meat into a storage container.   
   
  Carefully strain the stock through a fine sieve into another pot to remove the vegetable solids. Use the stock immediately or if you plan on storing it, place the pot in a sink full of ice water and stir to cool down the stock. Cover and refrigerate for up to one week or freeze.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Belgian Waffles 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,15777,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,15777,00.html")
@@ -36,6 +34,4 @@ Preheat a waffle iron. In a large bowl, stir together the dry ingredients. Make 
  Whipped Cream: In a chilled bowl, whip the cream until slightly thickened, about 2 minutes. Add the sugar and maraschino. Whip to soft, fluffy peaks, about 2 minutes.   
   
  Dust finished waffles with confectioners' sugar and top with fresh berries, whipped cream, or ice cream, if desired. Serve hot off the griddle.
-
-<!-- END content -->
 

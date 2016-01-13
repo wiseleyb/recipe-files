@@ -1,7 +1,5 @@
 # Classic Spaghetti and Meatballs 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Sept 2001 pg 190
@@ -33,6 +31,4 @@ Heat oil in heavy large skillet over medium heat. Add meatballs; saute until bro
 Place pasta in large bowl. Add 1.5 cups sauce and toss to coat. Top with meatballs and remaining sauce. Server with additional Parmesan cheese.
 
 **Notes:** This recipe makes way too much food for 2 people - think about cutting it in half or by 2/3's for a couple.
-
-<!-- END content -->
 

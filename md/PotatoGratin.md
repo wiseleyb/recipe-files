@@ -1,7 +1,5 @@
 # Potato Gratin 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Best Recipes
@@ -26,6 +24,4 @@ by Best Recipes
  3. Pour potato mixture into prepared dish; shake dish or use fork to distribute potatoes evenly. Gently press down potatoes until submerged in liquid; dot with remaining butter.  
   
  4. Bake until top is golden brown (basting once or twice during first 45 minutes), about 75 minutes. Let rest 5 minutes and serve.
-
-<!-- END content -->
 

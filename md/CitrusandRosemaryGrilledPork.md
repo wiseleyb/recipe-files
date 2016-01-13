@@ -1,7 +1,5 @@
 # Citrus and Rosemary Grilled Pork 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,23075,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,23075,00.html")
@@ -26,6 +24,4 @@ Combine first 5 ingredients in a bowl with whisk or fork.
  Season chops with steak seasoning.   
   
  Grill chops on indoor electric grill preheated to high for 6 to 7 minutes on each side, or pan fry over medium high heat for same time under a loose tin foil tent in a nonstick skillet.
-
-<!-- END content -->
 

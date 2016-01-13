@@ -1,7 +1,5 @@
 # Jack Daniels Marinade 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.jackdaniels.com/tennesseetable/marinade.htm "http://www.jackdaniels.com/tennesseetable/marinade.htm")
@@ -20,6 +18,4 @@
 ## Directions
 
 Combine all ingredients. Blend well. Use to marinate shrimp or scallops for 1 hour or beef, chicken, or pork in the refrigerator overnight. Use to baste the shellfish or meat as it is grilled or broiled. Makes about 1 1/4 cups.
-
-<!-- END content -->
 

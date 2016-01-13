@@ -1,7 +1,5 @@
 # Steak au Poivre with Brandied Cream Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.americastestkitchen.com/Recipe/959.shtml "http://www.americastestkitchen.com/Recipe/959.shtml")
@@ -34,6 +32,4 @@
  5. Set steaks on individual dinner plates, spoon portion of sauce over steaks, and serve immediately.
 
 To save time, crush the peppercorns and trim the steaks while the broth mixture simmers. Many pepper mills do not have a sufficiently coarse setting. In that case, crush peppercorns with a saut pan or rolling pin.
-
-<!-- END content -->
 

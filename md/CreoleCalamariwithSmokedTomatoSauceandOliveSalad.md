@@ -1,7 +1,5 @@
 # Creole Calamari with Smoked Tomato Sauce and Olive Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,6685,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,6685,00.html") by Emeril Lagasse
@@ -42,6 +40,4 @@ In a mixing bowl, toss the tomatoes with 2 tablespoons of the olive oil. Season 
  1 tablespoon dried thyme   
   
  Combine all ingredients thoroughly.
-
-<!-- END content -->
 

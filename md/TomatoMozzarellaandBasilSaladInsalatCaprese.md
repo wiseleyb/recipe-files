@@ -1,7 +1,5 @@
 # Tomato, Mozzarella and Basil Salad (Insalat Caprese) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Evan Kleiman
@@ -26,6 +24,4 @@ If using large balls of mozzarella, cut them into 1/2-inch (12-mm) dice. If usin
  Mound the mozzarella in the center of individual plates. Make a ring of the seasoned tomatoes around the edge and garnish with the olives.   
   
  Server immediately.
-
-<!-- END content -->
 

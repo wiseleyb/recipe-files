@@ -1,7 +1,5 @@
 # Chocolate Crepes with Gewurztraminer Syrup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -33,6 +31,4 @@ by Tom Douglas - Tom's Big Dinners
 If you need directions for this see Tom's book.  
   
  To serve: Fill crepes with ganache, bake until hot, drizzle syrup over it and server with ice cream or whipped cream.
-
-<!-- END content -->
 

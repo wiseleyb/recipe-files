@@ -1,7 +1,5 @@
 # Shrimp with Coconut milk and vanilla 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - Shrimp
@@ -20,6 +18,4 @@ Grate coconut.
  Squeeze out cocnut cream through cheese cloth into pan.  
   
  Reduce.
-
-<!-- END content -->
 

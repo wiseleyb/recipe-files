@@ -1,7 +1,5 @@
 # Goat Cheese Fondue with Toasted Bread and Apples 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -18,6 +16,4 @@ by Tom Douglas - Tom's Big Dinners
 ## Directions
 
 Slowly warm cream in heavy sauce pan until hot but not boiling. Gradually add goat cheese and whick until smooth. Adjust consistency with more cheese or cream.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1570-0!1!0!0!!en!2 and timestamp 20071117175535 --><!-- END content -->
 

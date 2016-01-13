@@ -1,7 +1,5 @@
 # Fish Stock 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Jasper White
@@ -34,6 +32,4 @@ by Jasper White
  4. Raise the heat and bring the stock to a boil. Skim the top, then reduce to a slow simmer. Simmer for 10 minutes and remove from the heat. Allow the stock to sit for another 10 minutes. If you like, you can lightly salt the stock.  
   
  5. Gently strain the stock through a fine stainer and chill as quickly as possible.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1344-0!1!0!0!!en!2 and timestamp 20071117185441 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Basil Pesto 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,17123,FF.html "http://www.foodtv.com/foodtv/recipe/0,6255,17123,FF.html") by FoodTV
@@ -19,6 +17,4 @@
 ## Directions
 
 In a food processor, combine the basil, pine nuts, Parmesan, garlic, and salt and puree. While the motor is running, drizzle in the oil until incorporated. Season with pepper to taste. Use immediately or store in the refrigerator with a piece of plastic wrap placed right on the surface of the pesto to prevent discoloration, for up to 3 days, or freeze for up to 1 month.
-
-<!-- END content -->
 

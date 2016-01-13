@@ -1,7 +1,5 @@
 # Achiote Paste 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.recipesource.com/side-dishes/spices/00/rec0045.html "http://www.recipesource.com/side-dishes/spices/00/rec0045.html")
@@ -24,6 +22,4 @@ Combine the annatto seeds, cumin seeds, oregano,
  bowl, mix the powder with the garlic and lime juice.  
  Store in an airtight container, in the refrigerator.  
  Use for Cochinita Pibil or any grilled seafood.
-
-<!-- END content -->
 

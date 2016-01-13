@@ -1,7 +1,5 @@
 # Sesame Tofu Stir-Fry over Rice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking LIght
@@ -32,6 +30,4 @@ Combine sesame seeds and 1/4 tsp salt in a large bowl. Add the tofu cubes; toss 
  2. Return pan to heat; coat with cooking spray. Add mushrooms; stir-fry 3 minutes or until mushrooms begin to brown. Add asparagus; stir-fry 4 minutes or until asparagus is crips-tender. Reduce heat to medium; stir in green onions.  
   
  3. Combine broth and next 4 ingredients (brothe through garlic sauce). Add broth mixture to pan; remove from heat (sauce will thikcen). Add tofu and remaining 1/4 tsp salt; toss genetly to combine. Server over rice.
-
-<!-- END content -->
 

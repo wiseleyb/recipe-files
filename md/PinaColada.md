@@ -1,7 +1,5 @@
 # Pina Colada 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 1 1/2 cup ice 
@@ -15,6 +13,4 @@
 ## Directions
 
 Put the ice, frozen pineapple, juice, coconut cream, and the white and dark rums into a blender. Blend until smooth and frosty. Pour the drink into 2 glasses and garnish the rim with pineapple slices
-
-<!-- END content -->
 

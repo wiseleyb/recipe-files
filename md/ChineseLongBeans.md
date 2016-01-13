@@ -1,7 +1,5 @@
 # Chinese Long Beans 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.winepros.org/tasting-notes/wine-food/stir-fry.htm "http://www.winepros.org/tasting-notes/wine-food/stir-fry.htm") by Jim LaMar
@@ -20,5 +18,4 @@
 - lime wedges for garnish
 
 ## Directions
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1509-0!1!0!0!!en!2 and timestamp 20071117175142 --><!-- END content -->
 

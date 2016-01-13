@@ -1,7 +1,5 @@
 # Tagliatelle con Funghi e Prosciutto 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -41,6 +39,4 @@ Mound 3 1/2 cups of the flour in the center of a large wooden cutting board. Mak
 As you expand the well, keep pushing the flour up from the base of the mound to retain the well shape. The dough will come together when half of the flour is incorporated.
 
 Start kneading the dough with both hands, using the palms of your hands. Once you have a cohesive mass, remove the dough from the board and scrape up and discard any leftover bits. Lightly reflour the board and continue kneading for 6 more minutes. The dough should be elastic and a little sticky. Wrap the dough in plastic and allow to rest for 30 minutes at room temperature. Roll or shape as desired.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1619-0!1!0!0!!en!2 and timestamp 20071118023723 --><!-- END content -->
 

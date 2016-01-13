@@ -1,7 +1,5 @@
 # Sauteed Chicken Breasts with Balsamic Vinegar Pan Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking Light
@@ -29,6 +27,4 @@ by Cooking Light
  3. While butter melts sprinkle chicken with salt and pepper. Place flour in a shallow dish. Drege chicken in flour; shake off excess flour.  
   
  4. Increase heat to medium-high; heat 2 minutes or until the butter turns golden brown. Add chicken to pan&nbsp;; keep warm. Add shallots and saute 30 seconds. Add the brother mixture, scraping to loosen browned bits. Bring to a boil, and cook until reduced to 1/2 cup (about 3 inutes). Server sauce over chicken. Garnish with chopped parsley, if desired.
-
-<!-- END content -->
 

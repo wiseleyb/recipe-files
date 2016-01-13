@@ -1,7 +1,5 @@
 # Hot and Sour Soup Simple 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by [America's Test Kitchen](http://www.americastestkitchen.com/recipe.asp?recipeids=3222&iSeason=7 "http://www.americastestkitchen.com/recipe.asp?recipeids=3222&iSeason=7")
@@ -34,6 +32,4 @@ by [America's Test Kitchen](http://www.americastestkitchen.com/recipe.asp?recipe
 4. Stir cornstarch mixture to recombine. Add to soup and increase heat to medium-high; cook, stirring occasionally, until soup thickens and turns translucent, about 1 minute. Stir in vinegar, chili oil, pepper, and remaining 3 tablespoons soy sauce; turn off heat.
 
 5. [How To](http://www.americastestkitchen.com/recipe.asp?recipeids=3222&iSeason=7#1 "http://www.americastestkitchen.com/recipe.asp?recipeids=3222&iSeason=7#1"). Without stirring soup, use soupspoon to slowly drizzle very thin streams of egg mixture into pot in circular motion. Let soup sit 1 minute, then return saucepan to medium-high heat. Bring soup to gentle boil, then immediately remove from heat. Gently stir soup once to evenly distribute egg; ladle into bowls and top with scallions.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1624-0!1!0!0!!en!2 and timestamp 20071117185433 --><!-- END content -->
 

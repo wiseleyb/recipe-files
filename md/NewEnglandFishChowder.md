@@ -1,7 +1,5 @@
 # New England Fish Chowder 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -38,6 +36,4 @@ by Jasper White
 ## Note
 
 We couldn't find fish stock the other night so we used [Better Than Bouillon's Lobster Base](http://www.amazon.com/exec/obidos/tg/detail/-/B00016LA8Y/sr=1-1/qid=1134390907/ref=sr_1_1/102-1422794-7281716?%5Fencoding=UTF8&n=3580501&s=gourmet-food&v=glance "http://www.amazon.com/exec/obidos/tg/detail/-/B00016LA8Y/sr=1-1/qid=1134390907/ref=sr 1 1/102-1422794-7281716? encoding=UTF8&n=3580501&s=gourmet-food&v=glance") and threw in a chicken stock cube. It was worlds better than when we've made this with just fish stock.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1343-0!1!0!0!!en!2 and timestamp 20071117192650 --><!-- END content -->
 

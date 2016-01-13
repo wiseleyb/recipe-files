@@ -1,7 +1,5 @@
 # Chimichurri (Argentinian Steak Sauce--Parsley Sauce for Meats) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,13647,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,13647,00.html")
@@ -22,6 +20,4 @@
 ## Directions
 
 In a blender, combine vinegar, jalapeno, garlic and bay leaves puree until smooth. Transfer to mixing bowl and add the herbs. Whisk in the olive oil and season with salt and pepper Mix well. Set aside. Season the flank steak with olive oil, salt and pepper and grill for 2 to 3 minutes per side for medium rare. Slice the steak thinly, across the grain on the bias and serve with the chimichurri sauce.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1350-0!1!0!0!!en!2 and timestamp 20071117175306 --><!-- END content -->
 

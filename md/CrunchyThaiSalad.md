@@ -1,6 +1,5 @@
 # Crunchy Thai Salad 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_13997,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 13997,00.html")
@@ -39,6 +38,4 @@ Cook the noodles as normal and prepare all the vegetables while the noodles are 
 Thai Dressing:   
   
 Mix all of the ingredients together in a jam jar, shake and pour over the salad. Garnish with cashew nuts or sesame seeds.
-
-<!-- END content -->
 

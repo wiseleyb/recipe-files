@@ -1,7 +1,5 @@
 # Hot and Sour Soup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_23598,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 23598,00.html") by Tyler Florence
@@ -45,6 +43,4 @@ Put the wood ears in a small bowl and cover with boiling water. Let stand for 30
  Put the chicken in a large stockpot and place over medium heat. Toss in the green onions, garlic, ginger, onion, and peppercorns. Pour about 3 quarts of cold water into the pot to cover the chicken by 1-inch. Simmer gently for 1 hour, uncovered, skimming off the foam on the surface periodically.  
   
  Carefully remove the chicken from the pot and pass the stock through a strainer lined with cheesecloth to remove the solids and excess fat. Cool the chicken stock to room temperature before storing in the refrigerator, or chill it down over ice first.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1574-0!1!0!0!!en!2 and timestamp 20071117185804 --><!-- END content -->
 

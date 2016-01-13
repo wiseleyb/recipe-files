@@ -1,7 +1,5 @@
 # Korean-Style Short Ribs 
 
-<!-- BEGIN content -->
-
 A long marinade in a mixture of Korean ingredient s infuses these short ribs with a spicy-sweet heat. Braising the ribs locks in the fiery, garlicky flavor and results in incredibly tender meat that pulls easily away from the bone.
 
 ## Credits
@@ -30,5 +28,4 @@ Gourmet - March 2007
 5. Simmer/braise ribs in water and ginger, tightly covered, for 3 hours
 6. De-fat and strain sauce
 7. Server ribs in shallow bowl with sauce and reserved scallions and sesame powder
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1621-0!1!0!0!!en!2 and timestamp 20071117184546 --><!-- END content -->
 

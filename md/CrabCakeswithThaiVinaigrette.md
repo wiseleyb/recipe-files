@@ -1,7 +1,5 @@
 # Crab Cakes with Thai Vinaigrette 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_2727,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 2727,00.html") by Fredric A. Byarm
@@ -43,6 +41,4 @@ Dice radicchio, carrot, red pepper, yellow pepper, green pepper, endive, cilantr
   
  In a blender add red curry paste, lemon juice and shallot. Turn blender on high slowly adding oil until emulsified then place in a squirt bottle for plating. In saute pan saute crabcakes, two crabcakes per person brown on one side. Flip over and place saute pan in a 375 degree oven for five minutes.   
  On plate make a design with vinaigrette, place cooked crab cakes on top and serve. Garnish with celery stems.
-
-<!-- END content -->
 

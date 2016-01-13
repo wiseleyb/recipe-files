@@ -1,7 +1,5 @@
 # Paella 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,16189,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,16189,00.html")
@@ -39,6 +37,4 @@ Rinse the chicken pieces and pat dry. Season all over with salt, black pepper, a
  Add the stock/water and simmer for 10 minutes, gently moving the pan around so the rice cooks and absorbs evenly. Do not cover or constantly stir like risotto. Add the shellfish and the reserved chicken and sausage. Simmer, without stirring, until the rice is al dente and the mussels have opened. (Do not eat any mussels that do not.)   
   
  Scatter the peas on top and continue to cook until the liquid is absorbed. The ideal paella has a toasted rice bottom called socarrat. Allow to rest off the heat for 5 minutes before serving. Garnish with lemon wedges and strips of pimento.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1422-0!1!0!0!!en!2 and timestamp 20071117185736 --><!-- END content -->
 

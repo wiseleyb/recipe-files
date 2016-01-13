@@ -1,7 +1,5 @@
 # Crawfish Etouffee 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,18741,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,18741,00.html") by Emeril Lagasse
@@ -37,6 +35,4 @@ In a large, heavy saucepan, melt 4 tablespoons of the butter and whisk in flour 
  Skim surface, reduce heat to a simmer, and cook uncovered for 30 minutes, stirring occasionally.   
   
  Add crawfish tails and fat, lemon juice, green onions, and parsley and cook for 15 to 20 minutes, stirring occasionally. Add remaining butter and stir to combine well. Taste and adjust seasoning if necessary. Serve over hot rice.
-
-<!-- END content -->
 

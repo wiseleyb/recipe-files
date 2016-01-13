@@ -1,6 +1,5 @@
 # Chef John Howie's Cedar Plank Roasted Wild Mushrooms 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Original Recipe](http://www.seattlecooks.com/recipes/2001/cedarplanksalmon.htm "http://www.seattlecooks.com/recipes/2001/cedarplanksalmon.htm") by John Howie
@@ -38,6 +37,4 @@ Combine and process all ingredients in a food processor until pulverized with so
   
 For the mushrooms:  
 Toss the mushrooms, lemon, olive oil, garlic, salt, pepper, porcini mushroom rub, herb mix and mushrooms in a salad bowl until completely coated. Transfer and place on the cedar plank covering 95% of the plank. Place cedar plank into a 375-degree convection oven. Bake for approximately 12-15 minutes, until the edges are golden and pull from the oven. Garnish next to the mushrooms with the lemon slice the herb sprigs in a bunch. Serve.
-
-<!-- END content -->
 

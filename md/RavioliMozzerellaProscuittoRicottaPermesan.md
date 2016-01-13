@@ -1,7 +1,5 @@
 # Ravioli - Mozzerella, Proscuitto, Ricotta, Permesan 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.e-rcps.com/pasta/rcp/p_opqr/rav_moz_ham.shtml "http://www.e-rcps.com/pasta/rcp/p opqr/rav moz ham.shtml")
@@ -28,6 +26,4 @@ I think you should probably double or triple the prosciutto in this recipe.
  This recipe is really good if you then fry the ravioli.  
   
  Goes well with Spinach Pasta
-
-<!-- END content -->
 

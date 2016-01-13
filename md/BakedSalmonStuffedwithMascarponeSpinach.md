@@ -1,7 +1,5 @@
 # Baked Salmon Stuffed with Mascarpone Spinach 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Feb 2002 pg 72
@@ -23,6 +21,4 @@ by Bon Appetit Feb 2002 pg 72
 Cook spinach in large pot of boiling water just until wilted, about 30 seconds. Drain; rinse with cold water. Squeeze spinash dry, then finely chop. Place in small bowl. Mix in cream cheese, mascarpone and ground nutmeg. Season to taste with salt and pepper. Cut on 3/4 inch deep, 2.5 inch long slit down center of top side of each salmon fillet, forming pocket for spinach mixture. FIll each slit with spinach mixture, dividing equally among salmon fillets.   
   
  Preheat oven to 450. Brush rimmed baking sheet with olive oil. Sprinkle salmon fillets with salt and pepper. Mix breadcrumbs, melted butter and Parmesan cheese in medium bowl. Top each slamon fillet with breadcrumb mixture, pressing to adhere. Place salmon fillers, skin side down, on prepared baking sheet. Bake salmon until opaque in center, about 12 minutes. Transfer to plates and serve.
-
-<!-- END content -->
 

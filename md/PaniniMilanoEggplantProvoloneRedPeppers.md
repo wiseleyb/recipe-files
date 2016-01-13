@@ -1,7 +1,5 @@
 # Panini - Milano (Eggplant, Provolone, Red Peppers) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.rittersysco.com/Panini%20recipes.htm "http://www.rittersysco.com/Panini recipes.htm")
@@ -15,6 +13,4 @@
 - Spring Mix Lettuce
 
 ## Directions
-
-<!-- END content -->
 

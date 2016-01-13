@@ -1,7 +1,5 @@
 # P.F. CHANG'S Chicken Lettuce Wraps 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://pub19.ezboard.com/frobbiesrecipeboard42260reciperequests.showMessage?topicID=130.topic&index=1 "http://pub19.ezboard.com/frobbiesrecipeboard42260reciperequests.showMessage?topicID=130.topic&index=1") by P.F. Changs
@@ -42,6 +40,4 @@ Cover mushrooms with boiling water, let stand 30 minutes then drain. Cut and dis
 Stir in 1 tsp. oil and let sit 15 minutes to marinate. Heat wok or large skillet over medium high heat. Add 3 Tbsp oil, then add chicken and stir fry for about 3-4 minutes. Set aside. Add 2 Tbsp oil to pan. Add ginger, garlic, chilies (if desired), and onion; stir fry about a minute or so. Add mushrooms, bamboo shoots and water chestnuts; stir fry an additional 2 minutes. Return chicken to pan.  
   
 Add mixed cooking sauce to pan. Cook until thickened and hot. Break cooked cellophane noodles into small pieces, and cover bottom of serving dish with them. Then pour chicken mixture on top of noodles. Spoon into lettuce leaf and Roll.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1371-0!1!0!0!!en!2 and timestamp 20071118055702 --><!-- END content -->
 

@@ -1,6 +1,5 @@
 # Oven Baked Crabmeat Stuffed Sole 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Recipe from: Emeril Lagasse](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_30452,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 30452,00.html")
@@ -27,6 +26,4 @@ Heat olive oil in a small skillet over medium heat. Add bell pepper, green onion
 Season sole fillets with salt and pepper on both sides. Spoon crabmeat mixture down the center of the fillets and roll lengthwise into bundles. Using toothpicks, secure the ends so that the fillets won't unwrap during baking. Place sole fillet bundles, seam-side down, in a lightly greased 9-inch square baking dish. Bake for 25 to 30 minutes, or until the fish is cooked through.
 
 Pour warm [Meuniere Sauce](/recipe/index.php?title=Meuniere_Sauce "Meuniere Sauce") over crabmeat stuffed sole and serve immediately.
-
-<!-- END content -->
 

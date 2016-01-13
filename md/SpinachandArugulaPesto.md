@@ -1,7 +1,5 @@
 # Spinach and Arugula Pesto 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,16188,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,16188,00.html")
@@ -21,6 +19,4 @@
 ## Directions
 
 In a food processor or blender, combine spinach, arugula, garlic, salt, walnuts, cheese, lemon juice, and water. Process until they form a paste. Gradually blend in olive oil, taste adjust seasoning if necessary.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Wild Mushroom Potato Gratin 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 1/2 lb fresh wild or exotic mushrooms such as chanterelles or shiitakes
@@ -27,6 +25,4 @@ Put oven rack in middle position and preheat to 400F
  Transfer half of potatoes to abuttered gratin dish with a slotted sppon, speading evenly. Spread mushrooms evenly over potatoes, then top with remaining potatoes. Pour cooking liquid over potatoes and sprinkle with cheese.  
   
  Bake gratin until top is golden brown and potatoes are tender, 45-55 minuts. Let stand 10 minutes before serving.
-
-<!-- END content -->
 

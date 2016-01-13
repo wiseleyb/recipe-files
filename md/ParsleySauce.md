@@ -1,7 +1,5 @@
 # Parsley Sauce 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 1 cup minced fresh parsely leaves
@@ -14,6 +12,4 @@
 ## Directions
 
 Mix together.
-
-<!-- END content -->
 

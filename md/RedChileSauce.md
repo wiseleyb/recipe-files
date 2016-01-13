@@ -1,7 +1,5 @@
 # Red Chile Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26238,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26238,00.html") by Bobby Flay
@@ -24,6 +22,4 @@
 Heat the oil in a medium saucepan over medium-high heat. Add the onions and garlic, and cook until soft. Add the chiles and stock, and bring to a simmer for 20 to 25 minutes, or until the chiles are soft. Transfer the mixture to a food processor and process until smooth.   
   
  Strain the mixture into a saute pan that has been set on high heat for a few minutes, and cook the sauce until slightly thick. Remove from the heat and stir in the creme fraiche and maple syrup. Season with salt and pepper, to taste.
-
-<!-- END content -->
 

@@ -20,6 +20,7 @@ files.each do |fname|
   page.css('#siteSub').remove
   page.css('.printfooter').remove
   page.css('#catlinks').remove
+  page.xpath('//comment()').remove
 
   content = page.at_css('#content')
   h1 = content.at_css('h1')

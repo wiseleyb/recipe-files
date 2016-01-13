@@ -1,7 +1,5 @@
 # Black Beans and Coconut Rice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.sonorangrill.com/recipes/display.asp?rec=349 "http://www.sonorangrill.com/recipes/display.asp?rec=349")
@@ -30,6 +28,4 @@
  3. Reduce heat and continue to cook for 5 minutes.   
  4. Add Salt and Pepper; stir in Cilantro. Garnish with Toasted coconut.   
  5. Serve hot. Makes 10 servings.
-
-<!-- END content -->
 

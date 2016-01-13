@@ -1,7 +1,5 @@
 # Gnocchi 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,16186,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,16186,00.html")
@@ -23,6 +21,4 @@ Pierce the potatoes several times so that moisture can escape during baking. Bak
  Boil the gnocchi in batches in plenty of salted water. The gnocchi are done about 2 minutes after they float to the surface, remove with a slotted spoon, and serve. If not cooking immediately, place the gnocchi in a single layer on a baking pan dusted with flour. Cover with plastic wrap and refrigerate for up to 12 hours.   
   
  Note: If the gnocchi start to feather and fall apart in boiling water, you need more flour. If the gnocchi don't float after 2 minutes and are hard, you used too much flour.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1421-0!1!0!0!!en!2 and timestamp 20071117180851 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Chef John Howie's Cedar Plank Roasted Salmon 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.seattlecooks.com/recipes/2001/cedarplanksalmon.htm "http://www.seattlecooks.com/recipes/2001/cedarplanksalmon.htm") by John Howie
@@ -43,6 +41,4 @@ Place salmon steaks on wax paper a couple hours prior to cooking. Sprinkle both 
 Place salmon pieces onto the center of the cedar plank. Meanwhile, toss to coat the plank vegetables in a bowl with the lemon juice, olive oil, parsley, garlic, salt and pepper. Transfer and place the vegetables around the salmon. Squeeze the lemon over the top of the salmon. Place cedar plank into a 375-degree pre-heated oven. Bake for 8-10 minutes and pull from the oven, turn the salmon over, place back in the oven and cook for an additional 8-10 minutes or until an internal temperature of 120 degrees is achieved in the salmon fillet. Remove cedar plank from oven and serve.
 
 - Cedar planks can be purchased at Chef Howie's web site at [http://www.plankcooking.com](http://www.plankcooking.com "http://www.plankcooking.com").
-
-<!-- END content -->
 

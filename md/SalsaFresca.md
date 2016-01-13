@@ -1,7 +1,5 @@
 # Salsa Fresca 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,3061,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,3061,00.html")
@@ -21,6 +19,4 @@
 In a mixing bowl combine all the ingredients. Stir and toss well. Store in a covered container in the refrigerator no more than 1 day.
 
 We've found that you can't really store this for more than 15 minutes or so before it becomes soup... but, for those 15 minutes - it's the best salsa in the world.
-
-<!-- END content -->
 

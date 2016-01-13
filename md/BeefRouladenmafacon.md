@@ -1,7 +1,5 @@
 # Beef Rouladen ma facon 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Rainer Suletzki
@@ -34,6 +32,4 @@ liquid; add beef bouillion, not quite to cover rouladen and simmer for appoximat
 Remaining liquid is an excellent base for the gravy.   
   
 Note: Make 8 or more Rouladen at any one time, they can be deep frozen easily and you don't have to go through all this work each time you feel like rouladen.
-
-<!-- END content -->
 

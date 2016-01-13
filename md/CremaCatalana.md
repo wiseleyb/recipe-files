@@ -1,7 +1,5 @@
 # Crema Catalana 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,4058,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,4058,00.html")
@@ -25,6 +23,4 @@ Combine milk, lemon peel, orange peel and cinnamon sticks in heavy medium saucep
 Using electric mixer, beat egg yolks and sugar in large bowl until light and lemon colored. Beat in cornstarch. Gradually whisk in hot milk. Return mixture to same saucepan. Cook over medium heat until mixture boils, whisking constantly, about 10 minutes. Divide custard among six 2/3 cup custard cups. Refrigerate at least 3 hours or overnight.   
   
 Preheat broiler. Sprinkle brown sugar evenly over custards. Broil until brown sugar caramelizes. (Or caramelize with round branding iron). Serve.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1381-0!1!0!0!!en!2 and timestamp 20071117192646 --><!-- END content -->
 

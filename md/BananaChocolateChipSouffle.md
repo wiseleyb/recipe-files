@@ -1,7 +1,5 @@
 # Banana Chocolate Chip Souffle 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,26103,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,26103,00.html")
@@ -31,6 +29,4 @@ To make the Banana Base: in a medium saucepan, over a high heat, brown the butte
  Brush the inside of 6 (6-ounce) ramekins with softened butter and dust with sugar.   
   
  To make the souffle: beat the egg whites on medium speed, in a mixer with the whip attachment, to soft peaks. With the motor running, add the sugar in a slow but steady stream. Continue to whip to medium stiff peaks. With a large rubber spatula, fold 1/2 of the meringue into the Banana Base. Add the finely chopped chocolate chips and fold in the remaining 1/2 of the meringue. Fill each prepared ramekin over the top with the souffle mixture. Bake the souffles for 12 minutes. Serve immediately.
-
-<!-- END content -->
 

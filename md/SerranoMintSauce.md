@@ -1,7 +1,5 @@
 # Serrano-Mint Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_27271,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 27271,00.html") by Bobby Flay
@@ -20,6 +18,4 @@
 ## Directions
 
 Place all ingredients, except for salt, in a blender. Pulse until smooth. Season, to taste.
-
-<!-- END content -->
 

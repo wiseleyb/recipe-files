@@ -1,7 +1,5 @@
 # Chicken Vindaloo 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.zip.com.au/~cs/recipes/html/chicken-vindal.html "http://www.zip.com.au/~cs/recipes/html/chicken-vindal.html") by Madhur Jaffrey
@@ -48,6 +46,4 @@
 **Notes**  
  Don't undercook the onions. They should be cooked until dark brown. If the onion paste turns out gray rather than brown, then the onions were not cooked enough.   
  This dish is very, very hot. It may not seem so at first, but the spices have a cumulative effect that builds up over the course of the meal.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1283-0!1!0!0!!en!2 and timestamp 20071117175606 --><!-- END content -->
 

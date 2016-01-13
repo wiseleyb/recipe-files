@@ -1,7 +1,5 @@
 # Chile de Arbol Salsa (Red Salsa) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,2750,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,2750,00.html")
@@ -21,6 +19,4 @@
 ## Directions
 
 Preheat broiler. Place tomatoes and tomatillos on a baking sheet. Broil, turning occasionally until charred all over, 10 to 12 minutes. Transfer to a saucepan. Add the remaining ingredients. Bring to a boil and cook until onions are soft, 12 to 15 minutes. Transfer to a food processor or blender. Puree and then strain. Serve at room temperature or slightly chilled. Arbol salsa can be stored in the refrigerator 3 to 5 days, or frozen for weeks.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1378-0!1!0!0!!en!2 and timestamp 20071117180847 --><!-- END content -->
 

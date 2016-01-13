@@ -1,6 +1,5 @@
 # Butter-Poached Maine Lobster 
 
-<!-- BEGIN content -->
 ## Credits
 
 by Thomas Keller
@@ -31,6 +30,4 @@ One at a time, using a towel or rubber gloves to hold the hot lobster, grasp its
 Remove meat from lobster (see book for details on how to do this)  
   
 To poach in butter: Bring the lobster pieces to room temperature. Place them in one layer in a large saucepan and add the beurre monte. They should be almost covered. Place the pan over low heat and slowly poach the lobster in the butter for 5 to 6 minutes, just to heat through.
-
-<!-- END content -->
 

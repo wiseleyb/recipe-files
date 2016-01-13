@@ -1,7 +1,5 @@
 # Coffee Cake 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Best Recipe
@@ -36,6 +34,4 @@ by Best Recipe
  Variations:  
  Apple-Cinnamon Coffee Cake  
  Peel and cor 2 medium-large Granny Smith apples and cut into 1/4-inch dice. Heat 1 tbs butter in a 10-inch skillet (preferably nonstick) over high heat until golden. Add apples, cover, and cook over high heat, stirring frequently, until the are dry and very tender, 2 to 3 minutes. Remove from heat, sprinkle apples with 2 tablespoons sugar, and lightly toss until gazed. Cool to room temperature. Follow recipe above, adding 1 tsp cinnamon with baking powder and soda, and folding the apples into the finished batter.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1347-0!1!0!0!!en!2 and timestamp 20071117190700 --><!-- END content -->
 

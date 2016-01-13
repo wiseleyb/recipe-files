@@ -1,7 +1,5 @@
 # Roasted Tomatillo Salsa 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas
@@ -20,6 +18,4 @@ by Tom Douglas
 ## Directions
 
 Preheat the oven to 400F. Toss the tomatillos with 2 teaspoons of olive oil in a saute pan or small metal pan (like a pie plate) and place in the oven, tossing them around a couple time until softened and lightly browned here and there, about 10 minutes. Allow the tomatillos to cool slightly, then put them on a cutting board and chop coarsely. put the tomatillos in a sieve and drain off all the liquid. Combine the drained tomatillos, roasted chile, oions, cilantro, garlic lime juice, chipotle and the remaining 1 tsb olive oil. Season to taste with salt and pepper. It's best to use the salsa the same day, but it can be kept, covered, in the refrigerator for 2 days.
-
-<!-- END content -->
 

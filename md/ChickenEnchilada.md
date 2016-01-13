@@ -1,7 +1,5 @@
 # Chicken Enchilada 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by [http://www.foodtv.com/foodtv/recipe/0,6255,11771,0](http://www.foodtv.com/foodtv/recipe/0,6255,11771,0 "http://www.foodtv.com/foodtv/recipe/0,6255,11771,0")
@@ -36,6 +34,4 @@ Coat large saute pan with oil. Season chicken with salt and pepper. Brown chicke
  Microwave tortillas on high for 30 seconds. This softens them and makes them more pliable. Coat the bottom of 2 (13 by 9-inch) pans with a ladle of enchilada sauce. Using a large shallow bowl, dip each tortilla in enchilada sauce to lightly coat. Spoon 1/4 cup chicken mixture in each tortilla. Fold over filling, place 8 enchiladas in each pan with seam side down. Top with remaining enchilada sauce and cheese.   
   
  Bake for 15 minutes in a preheated 350 degree oven until cheese melts. Garnish with cilantro, scallion, sour cream and chopped tomatoes before serving. Serve with Spanish rice and beans.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1431-0!1!0!0!!en!2 and timestamp 20071117175522 --><!-- END content -->
 

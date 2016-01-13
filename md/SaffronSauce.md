@@ -1,7 +1,5 @@
 # Saffron Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=174 "https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=174")
@@ -22,6 +20,4 @@
 Combine the stock, shallot, ginger, garlic, wine and thyme. Bring to a boil and reduce by half.  
  Pour through a fine mesh strainer, discard the bits and return the liquid to the pot. Add the cream and saffron, simmer until thick enough to coat the back of a spoon. Season to taste and finish with a squeeze of fresh lemon juice.  
  Makes 1 1/2 cups
-
-<!-- END content -->
 

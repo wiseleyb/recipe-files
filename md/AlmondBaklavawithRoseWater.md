@@ -1,7 +1,5 @@
 # Almond Baklava with Rose Water 
 
-<!-- BEGIN content -->
-
 noriccmo
 
 ## Credits
@@ -34,6 +32,4 @@ Fold 1 sheet of phyllo in half to form 12x9-inch rectangle. Place folded sheet i
 Strain rose syrup. Spoon 1 cup syrup over hot baklava; cover and chill remaining syrup. Recut baklava along lines all the way through. Let stand 4 hours.  
   
 Server with yogurt and remaining syrup.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1369-0!1!0!0!!en!2 and timestamp 20071118010429 --><!-- END content -->
 

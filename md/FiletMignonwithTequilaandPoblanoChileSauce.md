@@ -1,7 +1,5 @@
 # Filet Mignon with Tequila and Poblano Chile Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Oct 2001 pg 38
@@ -29,6 +27,4 @@ Make sauce:
   
  Cook steaks:  
  Pat steaks dry adn season well with salt and pepper. Heat oil in cleaned 12 inch heavy skillet over moderately high heat until hot but not smoking, then sear steaks 5 minutes on each side. Remove skillet from heat, then add tequila and ignite it carefully, shaking skillet until flames die down. Return to moderately high heat and simmer steaks, uncovered, turning once, 2 - 4 minutes for medium-rare. Transfer steaks to plate. Boil tequila, scraping up brown bits, 1 minute, then stir into poblano sauce.
-
-<!-- END content -->
 

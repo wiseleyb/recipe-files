@@ -1,7 +1,5 @@
 # Asian Dipping Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by [TxBeef](http://www.txbeef.org/recipe.php3?107522156 "http://www.txbeef.org/recipe.php3?107522156")
@@ -20,6 +18,4 @@ by [TxBeef](http://www.txbeef.org/recipe.php3?107522156 "http://www.txbeef.org/r
 ## Directions
 
 Mix well
-
-<!-- END content -->
 

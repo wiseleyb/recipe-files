@@ -1,7 +1,5 @@
 # Spicy Crab Soup (Chiplachole De Jaiba) 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 16 cups water
@@ -36,6 +34,4 @@ Cook and Clean Crabs:
  Add remaining broth to blneder along with tortillas, cornstarch, and salt and blend until smooth, 1-2 minutes. Pour mixture through cleaned medium-mesh sieve into a bowl, pressing on the then discarding solids. Stir tortilla puree into soup and simmer, stirring occasionally, until slightly thickened, about 10 minutes. Remove and discard epazote if fresh. Stir in reserved crabmeat and simmer just until heated through. Server soup ladled over reserved claws.
 
 Epazote: If you take cilantro, fennel, mint and rosemary and rub them together, the resulting funky, vegetal flavor and aroma will be something like epazote. Cooked, it gives a certain undercurrent to black beans or Oaxacan mole that you would miss if it weren't there. You can find this in some Latino markets or order on the web.
-
-<!-- END content -->
 

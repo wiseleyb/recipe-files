@@ -1,7 +1,5 @@
 # Fish Tacos 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_22720,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 22720,00.html") by Bobby Flay
@@ -47,6 +45,4 @@ Preheat grill to medium-high heat. Place fish in a medium size dish. Whisk toget
  Pureed Tomato Salsa:   
   
  Preheat grill or use side burners of the grill. Heat oil in medium saucepan, add onions and garlic and cook until soft. Add tomatoes, serrano and jalapeno and cook until tomatoes are soft, about 15 to 20 minutes. Puree the mixture with a hand-held immersion blender until smooth and cook for an additional 10 to 15 minutes. Add the hot sauce, oregano, cilantro and lime juice and season with salt and pepper, to taste.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1548-0!1!0!0!!en!2 and timestamp 20071117182102 --><!-- END content -->
 

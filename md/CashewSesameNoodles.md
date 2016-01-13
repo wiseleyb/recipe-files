@@ -1,7 +1,5 @@
 # Cashew Sesame Noodles 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.epicurious.com/run/recipe/view?id=13127 "http://www.epicurious.com/run/recipe/view?id=13127")
@@ -26,6 +24,4 @@ In a blender blend sauce ingredients with salt and pepper to taste until smooth.
  Just before serving, in a 6-quart kettle bring 5 quarts salted water to a boil and cook spaghetti until al dente. In a colander drain spaghetti and rinse well under cold water. Drain spaghetti well and in a bowl toss with sauce and chopped coriander.   
   
  Garnish sesame noodles with cashews and coriander.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1321-0!1!0!0!!en!2 and timestamp 20071117190217 --><!-- END content -->
 

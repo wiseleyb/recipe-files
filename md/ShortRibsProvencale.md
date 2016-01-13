@@ -1,7 +1,5 @@
 # Short Ribs Provencale 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Jan 2002 pg 69
@@ -34,6 +32,4 @@ Preheat oven to 325. Heat 2 tbs oil in heavy large oven proof pot over medium -h
  Cover pot tighly and transfer to oven. Bake until ribs are very tender, stirring occasionally, about 2 hours 15 minutes. (Can be made ahead)  
   
  To finish: Add remain 1/2 cup broth, peeled baby carrots and Nicois olives to pot; press carrots gently to submerge. Cover, return to oven and continue cooking at 350 until carrots are tender, about 14 minutes. Discard bay leaf. Trans short ribs and carrots to platter. Tent with foil to keep warm. If necessary, boil sauce to thicken slightly. Season. Pour sauce over short ribs.
-
-<!-- END content -->
 

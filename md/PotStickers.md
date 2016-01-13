@@ -1,7 +1,5 @@
 # Pot Stickers 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Leeann Chin
@@ -23,6 +21,4 @@ by Leeann Chin
 ## Directions
 
 Mix everything together and make wontons. Fry in a very hot pan for 2 minutes, then add some water, cover, and steam about 6 minutes more.
-
-<!-- END content -->
 

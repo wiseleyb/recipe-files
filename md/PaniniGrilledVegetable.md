@@ -1,7 +1,5 @@
 # Panini - Grilled Vegetable 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://busycooks.about.com/library/recipes/blGFvegpanini.htm "http://busycooks.about.com/library/recipes/blGFvegpanini.htm")
@@ -29,6 +27,4 @@ In small bowl, combine mayonnaise, 2 tsp. tarragon vinegar and dried tarragon in
  Prepare and preheat two sided grill. Place vegetables on grill and cook 3 minutes, until tender. Reduce grill heat to medium-low. Brush French bread slices with olive oil and grill 2 minutes per side, until golden brown.  
   
  Spread each slice of bread with the tarragon mayonnaise, then form sandwiches with the grilled vegetables. 2 sandwiches
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1514-0!1!0!0!!en!2 and timestamp 20071117175428 --><!-- END content -->
 

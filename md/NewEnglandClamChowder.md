@@ -1,7 +1,5 @@
 # New England Clam Chowder 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Jasper White
@@ -32,6 +30,4 @@ by Jasper White
  4. Add the chopped clams and cream and simmer 5 minutes more. Season to taste with pepper and add chopped parsley. Ladle into soup plates or cups.  
   
  Note: Salt pork is traditional, but the smoky flavor of bacon is better.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1342-0!1!0!0!!en!2 and timestamp 20071117180842 --><!-- END content -->
 

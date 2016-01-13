@@ -1,7 +1,5 @@
 # Pumpkin Custard 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -50,6 +48,4 @@ The contents of this pumpkin CUSTARD are the same as for our pumpkin PIE. And th
 The variety is LONG PIE - and is probably a rather ancient Native American variety. In more modern times, though, the seed is said to have migrated around 1832 from the Isle of St. George in the Azores to Nantucket on a whaling ship, and hence to Maine where it became popular for pie; but then nearly forgotten and almost extinct.
 
 However, a Maine farmer, at that point, moving to Montana, to be a cowboy in the cattle-business there, inadvertently took seed with him in a saddle bag. After that, lucky things began to happen for the Long Pie variety and seed is now available from several commercial sources. The mature fruit looks like a fat, overripe zucchini.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1614-0!1!0!0!!en!2 and timestamp 20071118042813 --><!-- END content -->
 

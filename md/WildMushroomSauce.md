@@ -1,7 +1,5 @@
 # Wild Mushroom Sauce 2 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_23269,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 23269,00.html") by Lagasse
@@ -22,6 +20,4 @@
 ## Directions
 
 In a heavy medium saucepan, heat the oil over medium-high heat. Add the shallots and cook, stirring often, until soft and fragrant, 2 minutes. Add the mushrooms, salt, and pepper and cook until the mushrooms start to give off their liquid, about 3 minutes. Add the green onions, parsley, and garlic and cook, stirring often, until fragrant, about 1 minute. Stir in the stock and heavy cream and bring to a boil over high heat. Reduce the heat to medium-low and simmer until thickened to a sauce consistency, 20 to 30 minutes.
-
-<!-- END content -->
 

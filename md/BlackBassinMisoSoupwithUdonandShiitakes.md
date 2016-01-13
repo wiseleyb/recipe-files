@@ -1,7 +1,5 @@
 # Black Bass in Miso Soup with Udon and Shiitakes 
 
-<!-- BEGIN content -->
-
 <script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
 
 ## Credits
@@ -37,6 +35,4 @@ Pour the dashi into a wok and place over medium heat. Whisk the miso into the da
 Lightly coat the bottom of a 12-inch bamboo steamer with non-stick cooking spray. Season both sides of the fish fillets with salt and pepper; lay them side by side in the steamer, skin-side up. Cut the ginger lengthwise in strips and put it on top of the fish so the flavor can permeate; put the cilantro on top. Nestle the bok choy in the steamer, side by side, and cover with the bamboo lid. Set the steamer inside the wok, and steam for 15 to 20 minutes until the fish is cooked. Carefully remove the bamboo steamer and add the udon noodles and green onions into the soup. Cook for 1 minute or until the noodles are tender.
 
 To serve: Ladle the miso soup into 2 wide shallow bowls, scoop the noodles into the soup and lay the bok choy and fish on top of that. Garnish with more cilantro and sprinkle lightly with the chili-sesame salt and serve.
-
-<!-- END content -->
 

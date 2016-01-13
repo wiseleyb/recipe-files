@@ -1,7 +1,5 @@
 # Veggie Thai Basil Noodles 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Ben Wiseley
@@ -48,6 +46,4 @@ notes:
  Veggies: For those of you who never stir fry (or cook). Veggies have different cooking times. If you try to stir fry brocolli (for example) you'll end up with raw brocolli with a mushy out side. The trick is to blanch the larger vegetables (brocolli, beans, etc.). Do this by boiling a lot of salted water and blanching the veggies for 2 minutes or so.  
   
  Chilis: These chillis are red and usually sold dried. They're spicy as all hell - don't be a macho moron and add 3 times the amount or you'll need to go to the hospital.
-
-<!-- END content -->
 

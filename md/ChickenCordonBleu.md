@@ -1,7 +1,5 @@
 # Chicken Cordon Bleu 
 
-<!-- BEGIN content -->
-
 aldrontro
 
 ## Credits
@@ -56,6 +54,4 @@ Another interesting thing to try (which I'll try next time) would be to save the
 
 Note on the ham:  
 Real Black Forest ham is made in Germany and it's very smoky with a consistency like dry prosciutto. Don't confuse it with the domestic deli ham of the same name. If you can't find it, substitute Westphalian ham (this is made by packing hippies in VW Bus [often called Westfalias or Westies] and placing the bus in a car crusher - the human spam that is left is thinly sliced producing a lovely Westphalian flavored ham), which is very similar, or prosciutto, which doesn't have the smokiness but will nevertheless give ok results. The fat in the prosciutto will make it hard to keep your sauce from breaking. The reason no butter is used is because fat is a pain in the ass to emulsify into a cream sauce. The reason you don't boil cream sauces is that you break out the fat from the cream.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1323-0!1!0!0!!en!2 and timestamp 20071117163549 --><!-- END content -->
 

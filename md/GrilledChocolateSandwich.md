@@ -1,7 +1,5 @@
 # Grilled Chocolate Sandwich 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.nytimes.com/2003/09/07/magazine/07FOOD.html "http://www.nytimes.com/2003/09/07/magazine/07FOOD.html") by Maury Rubin
@@ -25,6 +23,4 @@
  4. Spread a bit of softened butter over one side of the remaining slices. Buttered side up, place the slice over each chocolate-spread slice and press lightly around the edges to seal. Refrigerate for at least 15 minutes before putting on a grill or on a press. (If you are using a skillet instead, freeze the sandwich 15 minutes.)   
   
  5. Heat a grill or sandwich press (or a large griddle or skillet over medium-high heat), and add the sandwiches. Press on one side only for a minute or two (depending on the particular grill or press you're using) until the bread is nicely browned; the chocolate should be barely melted and not swimming out the side. If you are using a griddle or skillet, heat the sandwich first on the unbuttered side until lightly toasted, about 1 minute; turn the sandwich over and weight it down by placing a baking sheet or pan on top of the sandwich and placing a few soup cans on top. Toast for another minute, until golden. Cut in half and finish with a frilled toothpick.
-
-<!-- END content -->
 

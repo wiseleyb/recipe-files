@@ -1,7 +1,5 @@
 # Salmon Tartar 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Rainer Suletzki
@@ -23,6 +21,4 @@ Combine all ingredients and season with special sea salt to tast. Keep in fridge
  Prepare the toast and pile salmon tatar (approximately 1 heaped tablespoon) on each of the six toast rounds.  
   
  For decoration use match stick sized, unpeeled Granny Smith apple, by inserting them into the tatar.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Sweet Chile Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -17,6 +15,4 @@ by Tom Douglas - Tom's Big Dinners
 ## Directions
 
 Disolve sugar in 1/2 cup water over heat. Remove and cool. Stir in ingredients.
-
-<!-- END content -->
 

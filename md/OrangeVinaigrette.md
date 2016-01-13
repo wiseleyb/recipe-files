@@ -1,7 +1,5 @@
 # Orange Vinaigrette 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.startribune.com/stories/436/887255.html "http://www.startribune.com/stories/436/887255.html")
@@ -20,6 +18,4 @@
 ## Directions
 
 Blend until garlic is finely chopped.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1376-0!1!0!0!!en!2 and timestamp 20071117175243 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Sea Scallops with Cilantro Gremolata and Ginger Lime Beurre Blanc 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet Apr 2002
@@ -37,6 +35,4 @@ Gremolata:
  Pat scallops dry and season with salt and pepper. Heat oil in a 12-inch nonstick skillet over moderatly high heat until hot but not smoking, then saute scallops, turning once, until golden and just cooked through, 4 to 5 minutes total.  
   
  Sprinkle scallops with gremolata and serve with sauce.
-
-<!-- END content -->
 

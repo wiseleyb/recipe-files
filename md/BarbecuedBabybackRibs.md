@@ -1,7 +1,5 @@
 # Barbecued Babyback Ribs 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by The Best Recipe
@@ -26,6 +24,4 @@ by The Best Recipe
  4. Remove the ribs from the grill and completely wrap each slab in foil. Put the foil-wrapped slabs in a brown paper bag and crimp the top of the bag to seal tightly. ALoow to rest at room temperature for 1 hour.  
   
  5. Unwrap the ribs and brush with barbecue sauce if desired, or serve with sauce on the side.
-
-<!-- END content -->
 

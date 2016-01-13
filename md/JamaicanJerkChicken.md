@@ -1,7 +1,5 @@
 # Jamaican Jerk Chicken 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Gourmet May 2003
@@ -34,6 +32,4 @@ Discard stems, seed, and ribs from 2 chiles and coarsely chop. Coarsely chop rem
  For gas: Preheat grill. Place left burned on medium (375 or so) and turn right burner off. Cook over unlit burner, covered.  
   
  For oven: Cook - skin side up in a 450 degre oven in a 1 inch deep roasting pan for 25-30 minutes. Crisp under broiler.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1456-0!1!0!0!!en!2 and timestamp 20071117192621 --><!-- END content -->
 

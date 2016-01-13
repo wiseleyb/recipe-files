@@ -1,7 +1,5 @@
 # Mac & Cheese 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,13756,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,13756,00.html")
@@ -38,6 +36,4 @@ In a saucepan, bring heavy cream, milk, cheese, and seasonings to a boil, then s
  The cheese sauce will seem grity but it all comes together in the oven.  
   
  This dish is just as good (if not better) nuked the next day (as surprising at that might seem).
-
-<!-- END content -->
 

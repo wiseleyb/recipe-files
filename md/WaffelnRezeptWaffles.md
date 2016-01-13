@@ -1,7 +1,5 @@
 # Waffeln Rezept (Waffles) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Heidi Suletzki
@@ -26,6 +24,4 @@ Beat: flour, eggs, sugar, salt, sourcream or milk
  beaten  
  egg-whites the batter is less heavy and tends to   
  separate at times.
-
-<!-- END content -->
 

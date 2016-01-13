@@ -1,7 +1,5 @@
 # Marinades 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://seattletimes.nwsource.com/html/northwestlife/134411453_flavors27.html "http://seattletimes.nwsource.com/html/northwestlife/134411453 flavors27.html")
@@ -106,6 +104,4 @@ Rubs and coatings for roasts and racks:
     cup pitted green olives, grated zest of 1 lemon, cup each minced parsley and mint leaves, 1 tablespoon olive oil, teaspoon each salt and pepper
 
     1 teaspoons each ground cumin and paprika, teaspoon salt, teaspoon ground cloves, 1/8 teaspoon cayenne pepper
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1391-0!1!0!0!!en!2 and timestamp 20071117191632 --><!-- END content -->
 

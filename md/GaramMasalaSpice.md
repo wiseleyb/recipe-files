@@ -1,7 +1,5 @@
 # Garam Masala Spice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Michael Pandya
@@ -25,6 +23,4 @@ by Michael Pandya
  3. Strain powder through a muslin cloth and store in an airtight container.  
   
  4. Use when needed, closing the lid tightly after each use.
-
-<!-- END content -->
 

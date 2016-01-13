@@ -1,7 +1,5 @@
 # Cornish Hen and Chestnut stew 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26038,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26038,00.html") by Tyler
@@ -48,6 +46,4 @@ To marinate the meat: Combine the celery, leek, carrot, onion, celery, and wine 
  Melt the butter with the sugar in a medium skillet over medium-high heat. Add the onions, chestnuts and celery pieces. Glaze the vegetables, turning them over in the caramel for 2 to 5 minutes.  
   
  To serve, spoon sauce over the Cornish hens then surround with glazed vegetables.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1527-0!1!0!0!!en!2 and timestamp 20071117175700 --><!-- END content -->
 

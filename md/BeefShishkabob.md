@@ -1,7 +1,5 @@
 # Beef Shishkabob 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_18954,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 18954,00.html")
@@ -64,5 +62,4 @@ Here's something to season your foods, like the grown-ups do with Emeril's Origi
 - [skip hire](http://www.hire-skip.co.uk "http://www.hire-skip.co.uk")
 - [heathrow taxi](http://www.heathrowtaxiservice.co.uk "http://www.heathrowtaxiservice.co.uk")
 - [used car dealers audis used mercs](http://www.xcardealers.com "http://www.xcardealers.com")
-<!-- END content -->
 

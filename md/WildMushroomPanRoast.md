@@ -1,7 +1,5 @@
 # Wild Mushroom Pan Roast 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -22,6 +20,4 @@ Preheat Oven to 450
  Clean and cut shrooms into bite sized pieces  
   
  Preheat pan, add fat, melt, add shrooms and herbs stir, put in oven for around 25 minutes, stiring once. Remove, season, serve with toasts
-
-<!-- END content -->
 

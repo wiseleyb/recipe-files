@@ -1,7 +1,5 @@
 # Thai Coconut Chicken Soup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_23756,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 23756,00.html")
@@ -27,6 +25,4 @@
 
 Bring the stock to the boil over medium heat in a soup pot. Add the lemon grass, kaffir lime leaves, ginger, chilies, and garlic. Lower the heat to medium-low, cover, and gently simmer for 10 minutes to let the spices infuse the broth.   
  Uncover and stir in the coconut milk, fish sauce, sugar, mushrooms, lime juice, and chicken. Simmer for 5 minutes to heat the chicken through; season with salt and pepper. Ladle the soup into a soup tureen or individual serving bowls. Garnish with cilantro. Be careful to avoid chewing the lemongrass, ginger, or lime leaves.
-
-<!-- END content -->
 

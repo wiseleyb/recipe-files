@@ -1,7 +1,5 @@
 # Bacon Cookies 
 
-<!-- BEGIN content -->
-
 boclaroo
 
 ## Credits
@@ -26,6 +24,4 @@ boclaroo
 3. Roll up the dough into a log, to a diameter of about 1 1/2 inches. Wrap in aluminum foil, and refrigerate for 2 hours, until firm.
 4. Preheat oven to 350 degrees F (175 degrees C). Remove foil, cut dough roll into slices, and place slices on greased baking sheet. Brush each slice with beaten egg yolk.
 5. Bake in a preheated oven for 12 to 15 minutes, until brown. Remove to a wire wrack until cooled completely.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1615-0!1!0!0!!en!2 and timestamp 20071117192655 --><!-- END content -->
 

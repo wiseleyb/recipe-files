@@ -1,7 +1,5 @@
 # Salad of Marinated Watermelon and Sonoma Goat Cheese 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_17365,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 17365,00.html")
@@ -35,6 +33,4 @@ Watermelon Ingredients:
  Preparing the salad: combine cheeses, garlic, and herbs; mix well until all ingredients are combined. Season with salt and pepper. Place equal amounts on top of brioche croutons.   
   
  Place crouton in the middle of each of 4 salad plates and set four watermelon balls on top of each crouton. Garnish with small amount of mixed greens tossed with balsamic vinegar. Drizzle some vinegar and watermelon puree on plate as garnish.
-
-<!-- END content -->
 

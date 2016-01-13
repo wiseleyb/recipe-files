@@ -1,7 +1,5 @@
 # Chicken Biriyani (Indian baked rice dish) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Cooking Light
@@ -34,6 +32,4 @@ by Cooking Light
  2. Sprinkle chicken with 1/2 tsp salt. Heat oil in a large nonstick skillet over medium-high heat. Add chicken; saute 5 minutes or until lightly browned. Remove chicken from pan; cover and keep warm. Add onion and 1/2 tsp salt to pan.  
   
  3. Cover, reduce heat to low, and cook 10 minutes or until lightly browned, stirring occasionally. Add curry and the next 5 ingredients (curry through serrano chiles); cook 3 minutes, stirring frequently. Add yogurt, stirring with a swhicsk; cook 3 inutes or until slightly thick, stirring constantly. Add chicken and raisins; cook 4 miutes or until thoroughly heated. Add rice; stir well to combine. Sprinkle evenly with cashews and cilantro.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Shrimp and Mussel Thai Noodle Bowl 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,17173,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,17173,00.html")
@@ -36,6 +34,4 @@
 To prepare the sauce, simmer the chicken broth, onion, ginger, lemon grass, lime leaves, and lime juice together until the liquid is reduced by half. Then, add fish sauce, coconut milk, curry paste, and paprika; cook for 10 minutes.   
   
  Season the rice flour with salt and pepper, lightly dredge the shrimp in the flour; tap off excess. Heat peanut oil in a skillet until very hot. Add the coated shrimp to the hot oil and cook about 2 minutes each side. Add the mussels, asparagus tips, and shiitakes. Cook for 2 minutes just until heated through. Strain the sauce over the shellfish and vegetables. Poach the Udon noodles in hot salted water, drain and place in a warm bowl. Add the shellfish sauce. Top with pea tendrils, herbs, cashews, and sprouts.
-
-<!-- END content -->
 

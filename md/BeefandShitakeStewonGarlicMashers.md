@@ -1,7 +1,5 @@
 # Beef and Shitake Stew on Garlic Mashers 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,59,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,59,00.html") by MingTsai
@@ -52,6 +50,4 @@ Preheat stock pot (cast iron is best)
  GARLIC MASHED POTATOES   
   
  In a saucepot, add potatoes and fill with cold water. Add a little salt. Slowly boil potatoes for 30 to 40 minutes until potatoes come cleanly off of a pairing knife. In another saucepan, caramelize garlic, then add the cream. Reduce cream by 30 percent. In a large stainless steel bowl, add hot potatoes and garlic cream. Hand mash together. Add salt and pepper and check for seasoning
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1411-0!1!0!0!!en!2 and timestamp 20071117181335 --><!-- END content -->
 

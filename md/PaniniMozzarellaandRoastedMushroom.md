@@ -1,7 +1,5 @@
 # Panini - Mozzarella and Roasted Mushroom 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://homecooking.about.com/library/archive/blv167.htm "http://homecooking.about.com/library/archive/blv167.htm")
@@ -33,6 +31,4 @@ Preheat oven to 475 degrees F.
   
  Tapende Directions:  
  Mix well. Refrigerate and use within two weeks. Use as a spread for sandwiches like panini and muffaletta or as a condiment.
-
-<!-- END content -->
 

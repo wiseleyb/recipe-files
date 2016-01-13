@@ -1,7 +1,5 @@
 # Panang Neur (with Beef) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Su-Mei Yu
@@ -24,6 +22,4 @@ In a 4-quart saucepan, mix 2 cups of the cocnut cream with the chile paste and h
 Stir in one thrid of the kaffir leaf strands and transfer to a platter. Garnish the top with the remaining kaffir lime strands and the chile slivers.  
   
 Server hot or warm.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1475-0!1!0!0!!en!2 and timestamp 20071117182808 --><!-- END content -->
 

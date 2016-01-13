@@ -1,7 +1,5 @@
 # Hong Kong Salmon Cakes with Baby Bok Choy 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_23134,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 23134,00.html") by Tyler Florence
@@ -43,6 +41,4 @@ To make the salmon cakes: Heat 2 tablespoons of the peanut oil in a skillet over
  To make the bok choy: Return the skillet to the heat and coat with the 2 tablespoons of peanut oil and heat until almost smoking. Split the piece of ginger open with a knife then whack it with the flat side of the knife. Lay the ginger pieces in the oil, cut-side down to let it start to perfume. Pan-fry the bok choy, cut-side down, for a couple of minutes to give it some color. Add the water and cook another minute to steam the bok choy; carefully remove it to a plate. Add the soy sauce, oyster sauce, lemon juice, and brown sugar. Cook and stir for 3 minutes until the sauce is the consistency of syrup.  
   
  Serve the salmon cakes with the bok choy, and drizzle the brown sauce over the whole thing. Garnish the dish with the toasted sesame seeds, cilantro, and green onion.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1573-0!1!0!0!!en!2 and timestamp 20071117190801 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Crepes (Pfannkuchen ala Die Maus) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Die Maus
@@ -23,6 +21,4 @@ by Die Maus
 Mix up - should be a thin batter.  
   
  Cook over medium heat.
-
-<!-- END content -->
 

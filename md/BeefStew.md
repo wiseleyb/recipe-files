@@ -1,7 +1,5 @@
 # Beef Stew 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Greg Atkinson
@@ -31,6 +29,4 @@ In a large stew pot with a heavy base, cook oil and flour over medium-high heat,
 
 Notes:  
  I often just use beef and 1 potatoe and leave out the carrots and peas.
-
-<!-- END content -->
 

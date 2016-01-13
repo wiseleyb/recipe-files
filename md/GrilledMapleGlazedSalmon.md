@@ -1,7 +1,5 @@
 # Grilled Maple-Glazed Salmon 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=salmon06&date=20030704&query=recipe+salmon "http://archives.seattletimes.nwsource.com/cgi-bin/texis.cgi/web/vortex/display?slug=salmon06&date=20030704&query=recipe salmon")
@@ -24,6 +22,4 @@
 3. Spread half the maple mixture on top of the salmon and let it stand at room temperature while the coals are heating. Transfer the salmon, skin-side-down to the grill and cook until the fish just flakes (about 10 minutes for a 1-inch-thick fillet).   
   
 4. While the salmon is cooking, brush it with the remaining maple-syrup glaze.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1481-0!1!0!0!!en!2 and timestamp 20071117175539 --><!-- END content -->
 

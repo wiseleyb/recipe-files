@@ -1,7 +1,5 @@
 # Keang Masmun Neur (Masmun Curry with Beef) 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Su-Mei Yu
@@ -32,6 +30,4 @@ In a 3 qt sauce pan, bring the cocnut milk to a boil over medium heat and boil f
 Add the fresh cocnut cream and chile paste to the skillet with the skimmed coconut cream and mix well. Heat over high heat for 2 minutes, or until the mixture begins to boil. Lower the heat to medium-high and cook until the oil separates and bubbles the color of the chile paste cover the surface, 15-20 minutes.  
   
 With a slotte spoon, transfer the beef from the saucepan to the skillet. Stir well. Increase the heat to high and cook for 2 minutes, then transfer both the beef and chile paste mixture into the simmering cocnut milk. Turn the heat to high. When the mixture comes to a boil, add the fish sauce, palm sugar, tamarind juice, boiled peanuts, bay leaves, mace, cloves, onion, and roasted shallots. Return the broth to a boil once more, then lower the heat to medium. Cook for about 10 minutes, or until the beef is tender and the onion is cooked, stirring occasionally to prevent sticking. Add the kumquats and mix well. Transfer to a serving bowl and serve hot.
-
-<!-- END content -->
 

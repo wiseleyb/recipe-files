@@ -1,7 +1,5 @@
 # Five-Spice Roast Chicken 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -34,6 +32,4 @@ For paste: Toast spices, cool, grind, mix with remaining ingredients
  Rinse chicken, dry, trim excess fat, rub with paste inside and out. Refrigerate overnight.  
   
  Preheat oven to 425. Put orange and star anise in cavity. Salt. Place chicken on rack. Baste with bulb baster instead of brush (so you don't disturb the paste). Baste every 20 minutes until the thigh is 175 about 1.25 hours.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1567-0!1!0!0!!en!2 and timestamp 20071117191308 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Angel Food Cake 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,16680,FF.html "http://www.foodtv.com/foodtv/recipe/0,6255,16680,FF.html") by Alton Brown
@@ -32,6 +30,4 @@ In a food processor spin sugar about 2 minutes until it is superfine. Sift half 
 Chocolate Version:  
  Omit almond extract and increase vanilla to 2 teaspoons. Reduce flour to 2/3 cup and sift in 1/3 cup unsweetened cocoa. Prepare batter and bake as above.   
  (from: [http://www.aeb.org/recipes/diet/angel-food-cake.html](http://www.aeb.org/recipes/diet/angel-food-cake.html "http://www.aeb.org/recipes/diet/angel-food-cake.html"))
-
-<!-- END content -->
 

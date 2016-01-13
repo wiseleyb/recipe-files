@@ -1,7 +1,5 @@
 # Chocolate-Espresso Lava Cakes with Espresso Whipped Cream 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Feb 2002 pg 92
@@ -29,6 +27,4 @@ Sift flour, cocoa powder, 5 tsp espresso powder and baking powder into medium bo
  Combine cream, powdered sugar and remaining 1 tsp espresso powder in medium bowl; whisk until peaks form. Chill up to 1 hour.  
   
  Position rack in center of oven and preheat to 350. Let mugs with batter stand at room temperature 5 minutes. Bake uncovered until cakes are puffed and crusty and tester inserted into center comes out with thick batter attached, about 30 minutes. Cool cakes 5 minutes. Top hot cakes with espresso whipped cream and serve.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1365-0!1!0!0!!en!2 and timestamp 20071117181318 --><!-- END content -->
 

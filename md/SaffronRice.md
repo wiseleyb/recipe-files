@@ -1,7 +1,5 @@
 # Saffron Rice 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.gumbopages.com/food/indian/saff-rice.html "http://www.gumbopages.com/food/indian/saff-rice.html")
@@ -29,6 +27,4 @@ Wash the rice in cool water until the water is absolutely clear.
  Add the rice and stir for 5 minutes until the grains are golden. Add the stock, sugar, molasses, salt, coriander and cardamom. Stir to combine, making sure the sugar and molasses are dissolved. Bring to a boil, then reduce to a low simmer. Add the saffron and its water; stir gently.  
   
  Cover and cook for 25 minutes, or until the rice is tender and the liquid is absorbed. Fluff with a fork and serve
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1418-0!1!0!0!!en!2 and timestamp 20071118160108 --><!-- END content -->
 

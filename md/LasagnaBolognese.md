@@ -1,7 +1,5 @@
 # Lasagna Bolognese 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,16131,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,16131,00.html") by Emeril Lagasse
@@ -48,6 +46,4 @@ In a large pot heat the butter over medium high heat. Add the bacon and ham and 
  Butter a large rectangular baking dish, then spoon 1/2-cup of meat sauce onto the bottom of the dish. Cover with 1 sheet of fresh pasta. Top the lasagna with a layer of meat sauce (making certain that pasta is completely covered), a layer of bchamel, then a light dusting of cheese. Repeat layering lasagna, sauces, and cheese in this manner until all have been used, ending with a topping of bchamel and cheese.   
   
  Bake until the lasagna is bubbling and golden brown, about 1 hour. Allow to rest 10 minutes before serving.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1311-0!1!0!0!!en!2 and timestamp 20071117180223 --><!-- END content -->
 

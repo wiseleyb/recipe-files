@@ -1,7 +1,5 @@
 # Chicken Satay 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=155 "https://www.gourmetwarehouse.ca/content/main.cfm?fuseaction=recipes&action=detail&recipeid=155")
@@ -41,6 +39,4 @@ Marinade:
  While the sauce is simmering, grill the skewered chicken for about 10 minutes, turning as needed.  
  To serve, arrange skewers on a decorative platter and spoon the peanut sauce over.  
  Garnish with chopped cilantro and peanuts.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1438-0!1!0!0!!en!2 and timestamp 20071117175804 --><!-- END content -->
 

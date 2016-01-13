@@ -1,7 +1,5 @@
 # Coconut Shrimp with Red Curry Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_22142,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 22142,00.html") by Tyler Florence
@@ -34,6 +32,4 @@ Heat 3 inches of oil in a large deep skillet or heavy pot to 325 degrees F.
  Red Curry Sauce:  
   
  Place a small pot over medium heat and coat with the oil. Stir the red curry paste into the pan and fry that up until aromatic. Slowly pour in the coconut milk and continue to stir to incorporate. Add the lime juice (and 1 of the squeezed out halves for added flavor) and cook for 5 to 10 minutes to thicken. Pour the sauce into a nice serving bowl and serve with the coconut shrimp.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1544-0!1!0!0!!en!2 and timestamp 20071117175636 --><!-- END content -->
 

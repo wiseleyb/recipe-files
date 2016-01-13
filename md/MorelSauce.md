@@ -1,7 +1,5 @@
 # Morel Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.gourmetstore.com/recipes/OREGON_MOREL_SAUCE.html "http://www.gourmetstore.com/recipes/OREGON MOREL SAUCE.html")
@@ -20,6 +18,4 @@
 Saute the morel, onion and garlic in the butter until the onions are translucent. Stir in the wine and stir, simmer until the mixture thickens. Salt and pepper to taste. Serve over meat, rice, potatoes or noodles.  
   
  (this is better if you reduce the white wine first until there's virtually none left then add the cream)
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1439-0!1!0!0!!en!2 and timestamp 20071117185413 --><!-- END content -->
 

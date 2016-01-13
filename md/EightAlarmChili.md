@@ -1,7 +1,5 @@
 # Eight-Alarm Chili 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - 2 oz dried ancho chiles stemmed and seeded
@@ -40,6 +38,4 @@ Soak ancho chiles in hot water to cover until softened, about 30 minutes. Drain 
  Coarsely shred meat (still in pot) with 2 forks and cool chili completely, uncovered, then chill, covered, 1 to 2 days to allow flavors to develop.   
   
  Reheat for 30 minutes before serving. If using beans add them 5 minutes before serving.
-
-<!-- END content -->
 

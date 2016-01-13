@@ -1,7 +1,5 @@
 # Citrus Vinaigrette 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_8686,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 8686,00.html")
@@ -19,6 +17,4 @@
 ## Directions
 
 In a small bowl whisk together the juices and salt and pepper to taste. Add the oil in a stream, whisking, and whisk the vinaigrette until it is emulsified. On each of 8 chilled salad plates arrange some of the onion slices, and 2 orange slices, drizzle the vinaigrette over the salads, and sprinkle the salads with the chives.
-
-<!-- END content -->
 

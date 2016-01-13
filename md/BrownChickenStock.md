@@ -1,7 +1,5 @@
 # Brown Chicken Stock 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://fp.enter.net/~rburk/soups/stocks/brownchi.txt "http://fp.enter.net/~rburk/soups/stocks/brownchi.txt")
@@ -23,5 +21,4 @@
 - 6 each Peppercorns
 
 ## Directions
-<!-- END content -->
 

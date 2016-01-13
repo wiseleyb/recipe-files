@@ -1,7 +1,5 @@
 # Swiss Fodue 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Bon Appetit Feb 2002 pg 30
@@ -19,6 +17,4 @@ by Bon Appetit Feb 2002 pg 30
 ## Directions
 
 Rub inside of heavy large saucepan with cut surface of garlic. Discard garlic. Add wine to saucepan and bring to simmer over medium heat. Add cheese 1/2 cup at a time, whisking until melted after each addition (do not boil). Whisk kirsch and cornstarch in medium bowl. Whisk kirsch mixture into cheese mixture. Stir in nutmeg. Season fondue to taster with salt and pepper. Cook until beginning to simmer, stirring often. Transfer fondue to heated fondue pot. Keep fondue hot over low flame. Server fondue with bread.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Deep Dish Pizza 
 
-<!-- BEGIN content -->
-
 [![Image:DeepDishPizza.JPG](/recipe/images/a/ad/DeepDishPizza.JPG)](/recipe/index.php?title=Image:DeepDishPizza.JPG "Image:DeepDishPizza.JPG")
 
 ## Credits
@@ -50,6 +48,4 @@ I like to saute the sausage and salami/pepperoni first to reduce the amount of g
 Bake at 375 for 40-50 minutes, until it looks done.
 
 I tried this [recipe](http://www.pizzamaking.com/deepdish.php "http://www.pizzamaking.com/deepdish.php") and I'm not sure I'm crazy about it. More work to be done.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1607-0!1!0!0!!en!2 and timestamp 20071117175514 --><!-- END content -->
 

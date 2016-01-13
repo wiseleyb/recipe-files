@@ -1,7 +1,5 @@
 # Spiced Chicken Fingers with Sweet-Sour Sauce 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,17719,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,17719,00.html") by Ming Sia
@@ -26,6 +24,4 @@
 ## Directions
 
 In a hot sauce pot coated with oil, saute the onions, ginger and carrots until soft, about 8 minutes. Season and add the pineapple, juice and vinegar. Cook until pineapple is soft, about 5 minutes. Puree mixture and check for seasoning. In another sauce pot filled 1/3 full of oil, heat to 350 degrees. In a bowl, mix together the flour, paprika, cayenne and sesame seeds. Whisk in the soda until a pancake batter consistency is achieved. Dip the chicken fingers individually in the batter and fry until golden brown, about 5 minutes. Season with salt.
-
-<!-- END content -->
 

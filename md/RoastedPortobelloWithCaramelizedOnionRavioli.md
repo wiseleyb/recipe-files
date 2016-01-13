@@ -1,7 +1,5 @@
 # Roasted Portobello With Caramelized Onion Ravioli 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,10848,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,10848,00.html") by Barry Wohl
@@ -51,6 +49,4 @@ For Filling #1: Preheat oven to 400 degrees. Pour olive oil into a skillet and s
  For the Spinach Cream Pesto Sauce: Combine ingredients in a food processor and process. Transfer mixture to a sauti pan. Heat over low heat and then pour over ravioli's.   
   
  The recipes for this program, which were provided by contributors and guests who may not be professional chefs, have not been tested in the Food Network's kitchens. Therefore, the Food Network cannot attest to the accuracy of any of the recipes.
-
-<!-- END content -->
 

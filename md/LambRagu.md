@@ -1,6 +1,5 @@
 # Lamb Ragu 
 
-<!-- BEGIN content -->
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_26041,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 26041,00.html") by Tyler
@@ -53,6 +52,4 @@ Place the flour and the salt in a mixing bowl. Add the warm smoothly mashed pota
 Working on a floured surface, divide the dough into 8 equal pieces. Roll each portion of dough into a rope about 1/2-inch in diameter. Cut each rope into 1/4-inch pieces. Shape each piece of dough into a small ball. Roll the dough balls over the tines of a fork then set them aside on a lightly floured baking sheet.  
   
 Bring 6 quarts of salted water to a boil over high heat. Reduce the heat so that the water is at a simmer. Working in batches, add gnocchi to the pot (shaking off any excess flour). Stir gently and cook the gnocchi until they float then remove them with a slotted spoon. They can be dressed and served at this point or chilled in an ice bath, drained then dressed with a little olive oil if they are to be held for several hours. Once cooked gnocchi can be stored in the refrigerator but should be eaten the same day they are made.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1528-0!1!0!0!!en!2 and timestamp 20071117191747 --><!-- END content -->
 

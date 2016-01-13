@@ -1,7 +1,5 @@
 # Mexican Tortilla Chicken Soup 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD_9936_23755,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,1977,FOOD 9936 23755,00.html")
@@ -29,6 +27,4 @@ Place a stockpot over medium heat and coat with 2 tablespoons of the olive oil. 
  Meanwhile, heat 1-inch of canola oil in a skillet over medium-high flame. When the oil begins to smoke, add the tortilla strips in batches and fry until they are crisp on all sides. Remove to a paper towel-lined platter and sprinkle with salt while they are still hot.   
   
  Ladle the hot soup into 4 soup bowls and put a pile of shredded chicken on top of each. Top with the diced avocado and fried tortilla strips (and cheese if using). Garnish with cilantro and serve with lime wedges.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1497-0!1!0!0!!en!2 and timestamp 20071117175312 --><!-- END content -->
 

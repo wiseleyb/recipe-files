@@ -1,6 +1,5 @@
 # Bacon and Cheddar Tea Sandwiches 
 
-<!-- BEGIN content -->
 ## Credits
 
 adapted from Cooking Light (changed ingredients, directions, added a lot more bacon)
@@ -24,6 +23,4 @@ Combine ingredients (except bread of course) in the magi-mix (robo coup, food pr
 Spread on bread. Cut off crusts.
 
 ![84372158_0f8bd7d6d0.jpg](http://static.flickr.com/39/84372158_0f8bd7d6d0.jpg)
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1617-0!1!0!0!!en!2 and timestamp 20071118044030 --><!-- END content -->
 

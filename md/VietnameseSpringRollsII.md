@@ -1,7 +1,5 @@
 # Vietnamese Spring Rolls II 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://yumfood.net/recipes/freshspringrolls.html "http://yumfood.net/recipes/freshspringrolls.html")
@@ -45,6 +43,4 @@ In a non-metallic bowl, combine all the ingredients for the dipping sauce. Set a
  Drain the vegetables. Place a small pile of vegetables and a small amount of the softened noodles on top of the leaves.   
   
  Tuck in the sides of the roll and roll up tight, like a burrito. Cover the finished rolls with another damp tea towel and wrap tightly with plastic. Serve immediately with dipping sauce.
-
-<!-- END content -->
 

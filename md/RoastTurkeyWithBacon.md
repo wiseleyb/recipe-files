@@ -1,7 +1,5 @@
 # Roast Turkey With Bacon 
 
-<!-- BEGIN content -->
-
 darchia
 
 There's a reason people only eat Turkey once a year, although, given modern culinary options I'm not even sure why it's that frequent. One of the many problems with cooking a 20lb bird is that all their [not-so-noodly-appendages](http://www.venganza.org/ "http://www.venganza.org/") have different cooking times. Cook the thighs and you've got bone dry breasts, cook the breasts just so and you've got bloody legs, etc... it's a B grade horror movie that only [Harold McGee](http://www.amazon.com/gp/product/0684843285/102-1422794-7281716?v=glance&n=283155&v=glance "http://www.amazon.com/gp/product/0684843285/102-1422794-7281716?v=glance&n=283155&v=glance") could find entertaining. There are a number of solutions to this, the one we use is great. Not only does it involve using paper towels to maneuver a 20lb, 400 degree object numerous times during cooking, but it includes **bacon!**
@@ -34,6 +32,4 @@ Put the non-flying creature back in the oven and cook it some more (to crisp up 
 Chop up remaining bacon and put it in the mashers (make sure there is plenty of creme and butter in those thar mashers) ... yum. Serve turkey as an after thought or a side dish.
 
 We hope you've enjoyed our method of cooking bacon.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1612-0!1!0!0!!en!2 and timestamp 20071118095432 --><!-- END content -->
 

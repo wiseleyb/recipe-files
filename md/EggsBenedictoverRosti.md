@@ -1,7 +1,5 @@
 # Eggs Benedict over Rosti 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Ben Wiseley
@@ -44,6 +42,4 @@ For the rosti:
   
  Put it together:  
  Poach eggs in simmering water with the vinegar and some salt. Put a two rosti on a warm plate, cover with canadian bacon, poached egg and some hollandaise sauce.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1287-0!1!0!0!!en!2 and timestamp 20071117184107 --><!-- END content -->
 

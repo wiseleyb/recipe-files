@@ -1,7 +1,5 @@
 # Empanadas: Potato and Chorizo 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD_9936_22453,00.html "http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD 9936 22453,00.html")
@@ -38,6 +36,4 @@ Drain the potatoes and fold them into the pan, using a wooden spoon, break up th
   
 Cilantro Cream  
 In a small mixing bowl, combine the sour cream, cilantro, and lime juice together. Mix thoroughly; season with salt and pepper. Serve with empanadas
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1462-0!1!0!0!!en!2 and timestamp 20071117181224 --><!-- END content -->
 

@@ -1,7 +1,5 @@
 # Fragrant Green Chicken Curry 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,14119,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,14119,00.html") by Jamie Oliver
@@ -31,6 +29,4 @@
 Put all the green curry paste ingredients in a food processor and whizz to a smooth green paste. Marinate the chicken in a little of the paste for 30 minutes, then add a little oil and the chicken pieces to a hot casserole-type pan or wok. Fry for 4 minutes, then add the remainder of the marinade - it will sizzle and spit. Stir in the coconut milk, bring to the boil and simmer gently for 8 minutes until the chicken is cooked. Season to taste. The flavor should have a kick but be reasonably mellow - very fresh and fragrant.   
   
 Sprinkle with the pistachios and some coriander leaves and serve with steamed rice or noodles, and chunky coconut, tomato, cucumber and lime relish.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1308-0!1!0!0!!en!2 and timestamp 20071118130455 --><!-- END content -->
 

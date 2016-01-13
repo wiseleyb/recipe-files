@@ -1,7 +1,5 @@
 # Crab Cakes and Caesar Salad 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD_9936_21092,00.html "http://www.foodnetwork.com/food/recipes/recipe/0,,FOOD 9936 21092,00.html")
@@ -69,6 +67,4 @@ Crush the garlic in a large bowl. Add 1 tablespoon of the olive oil and the anch
   
  Preheat the oven to 200 degrees F.   
  Place the thinly sliced focaccia on a baking sheet. Drizzle each piece with olive oil, sprinkle salt and pepper, and place the oven for 1 hour to dry out. Crumble and set aside until ready to use.
-
-<!-- END content -->
 

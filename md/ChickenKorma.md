@@ -1,7 +1,5 @@
 # Chicken Korma 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,13921,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,13921,00.html") by Punjab Restaurant, London, England
@@ -30,6 +28,4 @@ Turn up the heat and further cook for another 1 minute then add the chicken. It 
 Notes:  
   
 Garam Masala can be bought in the international section of some grocery stores or you can make it yourself: [Garam Masala Spice](/recipe/index.php?title=Garam_Masala_Spice "Garam Masala Spice")
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Yellowfin Tuna in black bean crust 
 
-<!-- BEGIN content -->
-
 ## Ingredients
 
 - Black Beans (cooked)
@@ -32,6 +30,4 @@ Deep fry cooked black beans in 350 degree grape seed oil until they pop like pop
  Server with blanched baby bok choy, grilled shitakes sauted in a chicken stock glaze.  
   
  Plate bok choy and shitakes, then plantains then tuna.
-
-<!-- END content -->
 

@@ -1,7 +1,5 @@
 # Empanada Dough 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD_9936_22451,00.html "http://www.foodtv.com/food/recipes/recipe/0,1977,FOOD 9936 22451,00.html")
@@ -24,6 +22,4 @@ In a large bowl, sift together the flour, masa harina, baking powder, and salt. 
  Spoon 2 generous tablespoons of filling into the center of each pastry circle, leaving a 1/2-inch border. Brush the edges with the egg wash and then fold the dough over in 1/2 to enclose the filling and form a semi-circle. Tightly seal the edges by crimping with the tines of a fork. Chill at least 30 minutes before baking.   
   
  Preheat the oven to 375 degrees F. Place the empanadas on a buttered baking sheet and brush the tops with additional egg wash. Using a fork, prick a few holes in the top of the empanadas for steam to escape. Bake for 30 minutes, until the pastry is golden brown.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1459-0!1!0!0!!en!2 and timestamp 20071118074239 --><!-- END content -->
 

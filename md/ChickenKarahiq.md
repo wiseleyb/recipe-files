@@ -1,7 +1,5 @@
 # Chicken Karahiq 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 [Original Recipe](http://www.foodtv.com/recipes/re-c1/0,1724,13920,00.html "http://www.foodtv.com/recipes/re-c1/0,1724,13920,00.html") by Punjab Restaurant, London, England
@@ -36,6 +34,4 @@ Turn down the heat slightly and stir in the garam masala and fenugreek and cook 
 Notes:  
   
 Garam Masala can be bought in the international section of some grocery stores or you can make it yourself: [Garam Masala Spice](/recipe/index.php?title=Garam_Masala_Spice "Garam Masala Spice")
-
-<!-- END content -->
 

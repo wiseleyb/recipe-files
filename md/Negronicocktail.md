@@ -1,7 +1,5 @@
 # Negroni cocktail 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -20,6 +18,4 @@ Chill glasses in freezer.
  Rub rims with lemon zest, the drop in glass.  
   
  Fill shaker 1/2 full with ice. Pour in liquid, shake and serve.
-
-<!-- END content -->
 

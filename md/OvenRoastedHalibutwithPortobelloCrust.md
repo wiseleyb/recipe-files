@@ -1,7 +1,5 @@
 # Oven Roasted Halibut with Portobello Crust 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Todd English
@@ -34,6 +32,4 @@ Portobello Crust:
   
  Halibut:  
  Preheat oven to 450F. Smear 1-2 tablespoons of mushroom pure onto each halibut filet. Thinly slice mushroom caps on an angle (for thin wide slices), and then layer on top of mushroom pure in a "shingle" fashion. Place filets on sheet pan and roast in oven 10-12 minutes.
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1357-0!1!0!0!!en!2 and timestamp 20071117185742 --><!-- END content -->
 

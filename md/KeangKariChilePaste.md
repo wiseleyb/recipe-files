@@ -1,7 +1,5 @@
 # Keang Kari Chile Paste 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Su-Mei Yu
@@ -35,6 +33,4 @@ Preheat the over to 400F. Slice off the tops of the gralic and shallots. Plac3e 
  Using a morter and pestle, pound the sea salt and roasted garlic together into a paste. One by one, add the ginger, shallots, chiles, ground spices, curry powder, lemongrass, and turmeric in sequence, adding each new ingredient only after the previous one is pureed and incorporated into the paste. Add the fermented shirmp paste and mix well. Transfer to a jar with a tight-fitting lid and refrigerate until ready to use.  
   
  Makes 3/4 cup
-
-<!-- END content -->
 

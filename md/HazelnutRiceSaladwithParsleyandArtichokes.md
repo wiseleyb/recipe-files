@@ -1,7 +1,5 @@
 # Hazelnut Rice Salad with Parsley and Artichokes 
 
-<!-- BEGIN content -->
-
 ## Credits
 
 by Tom Douglas - Tom's Big Dinners
@@ -33,6 +31,4 @@ Artichokes in court bouillon
   
  Rice Salad   
  Cook rice an hour ahead and allow to cool. Make vinegrette and assemble all the other igredients several hours ahead. Toss shortly before serving
-
-<!-- Saved in parser cache with key mudabon_recipe:pcache:idhash:1562-0!1!0!0!!en!2 and timestamp 20071117191702 --><!-- END content -->
 
