@@ -163,6 +163,7 @@
 * [Lasagna Bolognese](md/LasagnaBolognese.md)
 * [Latin-American Filet Mignon with Avocado and Jicama Salsa](md/LatinAmericanFiletMignonwithAvocadoandJicamaSalsa.md)
 * [Leek and Potato Gratin](md/LeekandPotatoGratin.md)
+* [Lemon Vinagrette](md/LemonVinagrette.md)
 * [Lime-Jalapeno Vinaigrette](md/LimeJalapenoVinaigrette.md)
 * [Mac & Cheese](md/MacampCheese.md)
 * [Mahogany Beef Stew with Red Wine and Hoisin Sauce](md/MahoganyBeefStewwithRedWineandHoisinSauce.md)
