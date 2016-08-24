@@ -157,6 +157,7 @@
 * [Keang Kari Gai (Thai-Indian Curry w/Chicken)](md/KeangKariGaiThaiIndianCurrywChicken.md)
 * [Keang Masmun Chile Paste](md/KeangMasmunChilePaste.md)
 * [Keang Masmun Neur (Masmun Curry with Beef)](md/KeangMasmunNeurMasmunCurrywithBeef.md)
+* [Kentucky Fried Chicken](md/KentuckyFriedChicken.md)
 * [Key Lime Pie](md/KeyLimePie.md)
 * [Korean-Style Short Ribs](md/KoreanStyleShortRibs.md)
 * [Lamb Ragu](md/LambRagu.md)
