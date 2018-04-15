@@ -228,6 +228,7 @@
 * [Potato Gratin](md/PotatoGratin.md)
 * [Pot Stickers](md/PotStickers.md)
 * [Pretzels](md/Pretzels.md)
+* [Pulled Chicken](md/PulledChicken.md)
 * [Pumpkin Custard](md/PumpkinCustard.md)
 * [Puttanesca Sauce](md/PuttanescaSauce.md)
 * [Ravioli - Crabmeat](md/RavioliCrabmeat.md)

@@ -4,7 +4,7 @@
 
 [Original Recipe](https://livesimply.me/2016/03/02/cilantro-lime-coleslaw-for-tacos-sandwiches-or-a-side-salad/)
 
-Great for tacos with [Oven Cooked Pulled Pork](/md/OvenCookedPulledPork.md)
+Great for tacos with [Oven Cooked Pulled Pork](/md/OvenCookedPulledPork.md) or [Pulled Chicken](/md/PulledChicken)
 
 ## Ingredients
 
@@ -34,3 +34,7 @@ Great for tacos with [Oven Cooked Pulled Pork](/md/OvenCookedPulledPork.md)
    sandwiches (a barbecue chicken sandwich is divine with this coleslaw), or
    serve as a side salad. The coleslaw may be prepped in advance and
    refrigerated, or used immediately after preparation.
+
+## Tips
+
+Make the slaw and dressing seperately. They both keep for a while in the fridge. Just combine the amount you need for the tacos you're making "just in time".
