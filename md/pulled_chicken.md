@@ -25,4 +25,4 @@ This is a simplified from the recipe link above. It uses a pressure cook, doesn'
 
 ## Serving
 
-I love this in a simplei soft taco, mixed with some [Cilantro Lime Coleslaw](/md/CilantroLimeColeslaw.md)
+I love this in a simplei soft taco, mixed with some [Cilantro Lime Coleslaw](/md/cilantro_lime_coleslaw.md)
