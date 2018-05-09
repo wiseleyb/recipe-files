@@ -223,6 +223,7 @@
 * [P.F. CHANG'S Chicken Lettuce Wraps](md/PFCHANGSChickenLettuceWraps.md)
 * [Pilaf with Chicken, Spinash, and Walnuts](md/PilafwithChickenSpinashandWalnuts.md)
 * [Pina Colada](md/PinaColada.md)
+* [Pinapple Cooler](md/PineappleCooler.md)
 * [Pizza Dough](md/PizzaDough.md)
 * [Potato Crusted Beef Tenderloin](md/PotatoCrustedBeefTenderloin.md)
 * [Potato Gratin](md/PotatoGratin.md)
