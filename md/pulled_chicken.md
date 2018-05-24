@@ -20,9 +20,9 @@ This is a simplified from the recipe link above. It uses a pressure cook, doesn'
 1. Brown chicken on both sides, remove and place in pressure cooker
 2. Deglaze pan with chicken stock, add to pressuce cooker
 3. Add molasses, sugar, and liquid smoke to pressure cooker
-4. Pressure cook on high for 15-20 minutes
+4. Pressure cook on high for 20-25 minutes
 5. Let cool, shred, mix with BBQ sauce
 
 ## Serving
 
-I love this in a simplei soft taco, mixed with some [Cilantro Lime Coleslaw](/md/cilantro_lime_coleslaw.md)
+I love this in a simple soft taco, mixed with some [Cilantro Lime Coleslaw](/md/cilantro_lime_coleslaw.md)
