@@ -252,6 +252,7 @@
 * [Salmon Burgers With Spinach And Ginger](md/salmon_burgers_with_spinach_and_ginger.md)
 * [Salmon Tartar](md/salmon_tartar.md)
 * [Salsa Fresca](md/salsa_fresca.md)
+* [Salsa Roja](md/salsa_roja.md)
 * [Sauteed Chicken Breasts With Balsamic Vinegar Pan Sauce](md/sauteed_chicken_breasts_with_balsamic_vinegar_pan_sauce.md)
 * [Sauteed Medallionsof Pork](md/sauteed_medallionsof_pork.md)
 * [Sauvignon Blanc Peach Sangria](md/sauvignon_blanc_peach_sangria.md)
