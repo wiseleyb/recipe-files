@@ -141,6 +141,7 @@
 * [Grilled Shrimp In Lettuce Leaves With Serrano Mint Sauce](md/grilled_shrimp_in_lettuce_leaves_with_serrano_mint_sauce.md)
 * [Grilled Vegetable Lasagna With Puttanesca Sauce And Pesto Oil](md/grilled_vegetable_lasagna_with_puttanesca_sauce_and_pesto_oil.md)
 * [Grilled Whole Fish](md/grilled_whole_fish.md)
+* [Guacamole Taquero](md/guacamole_taquero.md)
 * [Hazelnut Rice Salad With Parsley And Artichokes](md/hazelnut_rice_salad_with_parsley_and_artichokes.md)
 * [Homemade Vinegar](md/homemade_vinegar.md)
 * [Honey And Tamariseared Salmon](md/honey_and_tamariseared_salmon.md)
