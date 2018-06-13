@@ -8,14 +8,16 @@ Simple fiery salsa for Tacos
 
 ## Ingredients
 
-- 1 ounce dried chiles de árbol (30g; about 25 dried chilies) (see note)
-- 1 ounce dried chiles pasillas (30g; 3 to 4 whole chilies) (see note)
-- 1/4 cup fresh juice from 4 to 5 limes (2 ounces; 60ml) (see note)
-- 1/4 cup fresh juice from 1 grapefruit (2 ounces; 60ml) (see note)
-- 1/4 cup fresh juice from 1 orange (2 ounces; 60ml) (see note)
+- 1 ounce dried chiles de árbol (30g; about 25 dried chilies) 
+- 1 ounce dried chiles pasillas (30g; 3 to 4 whole chilies) 
+- 1/4 cup fresh juice from 4 to 5 limes (2 ounces; 60ml) 
+- 1/4 cup fresh juice from 1 grapefruit (2 ounces; 60ml) 
+- 1/4 cup fresh juice from 1 orange (2 ounces; 60ml) 
 - Salt
 
 ## Directions
+
+This is INCREDIBLY HOT (consider reducing chiles de árbol)
 
 Use kitchen shears to trim stems from all chilies. Discard stems. Place chilies
 on a microwave-safe plate and microwave on high power until fragrant and
