@@ -1,7 +1,5 @@
 # Chicken Cordon Bleu 
 
-aldrontro
-
 ## Credits
 
 by Ben Wiseley
