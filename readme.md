@@ -240,6 +240,7 @@
 * [Ravioli Mozzerella Proscuitto Ricotta Permesan](md/ravioli_mozzerella_proscuitto_ricotta_permesan.md)
 * [Red Chile Sauce](md/red_chile_sauce.md)
 * [Red Wine Reduction Sauce](md/red_wine_reduction_sauce.md)
+* [Rib Rub](md/rib_rub.md)
 * [Roast Achiote Citrus Chicken](md/roast_achiote_citrus_chicken.md)
 * [Roast Turkey](md/roast_turkey.md)
 * [Roast Turkey With With Bacon](md/roast_turkey_with_with_bacon.md)
