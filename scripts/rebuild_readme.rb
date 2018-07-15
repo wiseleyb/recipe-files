@@ -10,3 +10,5 @@ files.each do |fname|
 end
 
 File.write('../recipe-files/readme.md', readme.join("\n"))
+
+puts readme

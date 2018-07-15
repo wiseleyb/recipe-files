@@ -1,26 +1,33 @@
-# Cornbread 
+# Cornbread
 
 ## Credits
 
-[Original Recipe](http://www.foodtv.com/recipes/re-c1/0,6255,18740,00.html "http://www.foodtv.com/recipes/re-c1/0,6255,18740,00.html") by Emeril Lagasse
+[Bobby Flay](https://www.today.com/recipes/bobby-flay-s-cast-iron-skillet-cornbread-recipe-t104141)
 
 ## Ingredients
 
-- 1/4 cup bacon grease, vegetable oil or shortening
-- 2 cups cornmeal
-- 1/2 teaspoon baking powder
-- 1/2 teaspoon baking soda
+- 1 1/3 cups yellow cornmeal
+- 3/4 cup all-purpose flour
+- 2 1/2 teaspoons baking powder
+- 1 tablespoon sugar
 - 1 teaspoon salt
-- 1/4 teaspoon freshly ground black pepper
-- 1 1/2 cups buttermilk
-- 1 large egg, lightly beaten
-- 5 tablespoons melted unsalted butter
+- 2 large eggs
+- 3 tablespoons unsalted butter, melted
+- 1 cup milk
 
 ## Directions
 
-Place the bacon grease in a 10-inch black cast iron skillet and swirl to coat the sides and bottom evenly. Place skillet in the oven to heat.   
-  
- In a bowl, combine the cornmeal, baking powder, baking soda, salt, and pepper and mix well. In a small bowl, combine the buttermilk, egg, and melted butter. Add to dry ingredients and stir just to combine. Remove the hot skillet from the oven, carefully swirl to evenly distribute hot grease, and quickly pour the cornmeal batter into the skillet.   
-  
- Bake for 25 to 30 minutes, or until firm and golden brown on top. Let sit for 5 minutes, then turn out onto a cutting board. Cut into wedges and serve hot with butter on the side.
+Preparation
 
+Preheat oven to 425ºF. Put an 8-inch cast iron pan in the oven for 10 minutes.
+
+Stir together cornmeal, flour, baking powder, sugar and salt in a bowl. In a
+separate bowl, whisk together eggs, melted butter and milk. Add the wet
+ingredients to the dry and mix until just combined. Do not overmix.
+
+Remove the pan from the oven and spray with nonstick spray or brush with
+butter. Scrape the batter into the hot pan and bake for 15-18 minutes, or until
+lightly golden brown and just baked through.
+
+Let cool in pan for 10 minutes. Remove from pan and let sit out overnight if
+using for dressing.
