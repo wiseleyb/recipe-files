@@ -70,6 +70,7 @@
 * [Chicken Tacos](md/chicken_tacos.md)
 * [Chicken Vindaloo](md/chicken_vindaloo.md)
 * [Chilede Arbol Salsa Red Salsa](md/chilede_arbol_salsa_red_salsa.md)
+* [Chili Garlic Green Beans](md/chili_garlic_green_beans.md)
 * [Chimichurri Argentinian Steak Sauce Parsley Saucefor Meats](md/chimichurri_argentinian_steak_sauce_parsley_saucefor_meats.md)
 * [Chimney Tuna Lo In](md/chimney_tuna_lo_in.md)
 * [Chinese Chicken Salad With Red Chile Peanut Dressing](md/chinese_chicken_salad_with_red_chile_peanut_dressing.md)
