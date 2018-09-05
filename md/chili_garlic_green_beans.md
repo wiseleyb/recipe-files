@@ -10,9 +10,12 @@ by Ben
 - 1 tbs rice wine vinegar
 - 1 tbs brown sugar
 - 3 tbs Chili Garlic Sauce (see note)
+- red pepper flakes
 - 1 tsp corn starch
 - 1/2 cup water
 - 3 cloves garlic (minced)
+- minced ginger
+- 1/2 tsp sesame oil
 - 1 lb green beans
 
 ## Directions
@@ -22,7 +25,7 @@ In small bowl, mix soy sauce, rice wine vinegar, brown sugar and corn starch.
 If you don't have Chili Garlic sauce (available in most grocery stores in the
 Asian isle) you can just add red pepper flakes to the saute step.
 
-On medium heat saute garlic for 15 seconds then add small bowl of sauce above,
+On medium heat saute garlic, ginger, red peppers flakes for 15 seconds then add small bowl of sauce above,
 water and green beans. Increase heat to medium high, cook until sauce is
 reduced.
 
