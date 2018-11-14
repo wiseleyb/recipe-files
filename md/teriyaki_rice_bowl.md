@@ -2,7 +2,6 @@
 
 ## Credits
 Ben
-[url](http://url.com) by bob
 
 ## Ingredients
 
@@ -17,11 +16,11 @@ This is all personal - do whatever you want but my weekly prep for this:
 
 Make sushi-rice - it reheats in the microwave easily - or is good cold
 
-Grill up chicken in just salt and pepper. Slice, devide into portions.
+Grill up chicken in just salt and pepper. Slice, divide into portions.
 
 For vegatables... I like to keep some raw for a cooling taste (I make my teriyaki sauce super spicy) and others I saute very briefly.
 
-For prepping veg... I do julienne cut most of it (which is like making match-sticks)
+For prepping veg... I do a julienne cut on most of it (which is like making match-sticks)
 
 Putting together:
 - heat up rice if needed/desired
