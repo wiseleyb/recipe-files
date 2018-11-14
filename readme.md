@@ -177,6 +177,7 @@
 * [Mahogany Beef Stew With Red Wine And Hois In Sauce](md/mahogany_beef_stew_with_red_wine_and_hois_in_sauce.md)
 * [Mango Habanero Vinaigrette](md/mango_habanero_vinaigrette.md)
 * [Marinades](md/marinades.md)
+* [Masala Sauce](md/masala_sauce.md)
 * [Mayonnaise](md/mayonnaise.md)
 * [Meuniere Sauce](md/meuniere_sauce.md)
 * [Mexican Corn Salad](md/mexican_corn_salad.md)
