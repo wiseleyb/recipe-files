@@ -303,6 +303,7 @@
 * [Taqueria Guacamole](md/taqueria_guacamole.md)
 * [Teriyaki Beurre Blanc](md/teriyaki_beurre_blanc.md)
 * [Teriyaki Marinade](md/teriyaki_marinade.md)
+* [Teriyaki Rice Bowl](md/teriyaki_rice_bowl.md)
 * [Teriyaki Sauce](md/teriyaki_sauce.md)
 * [Thai Coconut Chicken Soup](md/thai_coconut_chicken_soup.md)
 * [Tiramis](md/tiramis.md)
