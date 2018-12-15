@@ -97,6 +97,7 @@
 * [Cranberry Walnut Tart](md/cranberry_walnut_tart.md)
 * [Crawfish Etouffee](md/crawfish_etouffee.md)
 * [Creamy Gruyere And Shrimp Chicken Pasta](md/creamy_gruyere_and_shrimp_chicken_pasta.md)
+* [Creamy Parmesan Garlic Mushroom Chicken](md/creamy_parmesan_garlic_mushroom_chicken.md)
 * [Crema Catalana](md/crema_catalana.md)
 * [Creme Fraiche Mashed Potatoes](md/creme_fraiche_mashed_potatoes.md)
 * [Creole Caesar Salad](md/creole_caesar_salad.md)
