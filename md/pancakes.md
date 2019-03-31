@@ -1,7 +1,5 @@
 # Pancakes 
 
-<script type="text/javascript"> if (window.showTocToggle) { var tocShowText = "show"; var tocHideText = "hide"; showTocToggle(); } </script>
-
 ## Credits
 
 by Ben Wiseley
