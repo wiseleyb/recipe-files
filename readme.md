@@ -302,6 +302,7 @@
 * [Sweet And Hot Fried Almonds](md/sweet_and_hot_fried_almonds.md)
 * [Sweet Chile Sauce](md/sweet_chile_sauce.md)
 * [Swiss Fodue](md/swiss_fodue.md)
+* [Szechuan Sauce](md/szechuan_sauce.md)
 * [Tagliatelle Con Funghie Prosciutto](md/tagliatelle_con_funghie_prosciutto.md)
 * [Taqueria Guacamole](md/taqueria_guacamole.md)
 * [Teriyaki Beurre Blanc](md/teriyaki_beurre_blanc.md)
