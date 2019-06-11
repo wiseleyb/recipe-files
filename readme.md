@@ -124,6 +124,7 @@
 * [Empanadas Green Chile Chicken And Queso](md/empanadas_green_chile_chicken_and_queso.md)
 * [Empanadas Potato And Chorizo](md/empanadas_potato_and_chorizo.md)
 * [Evil Jungle Prince With Chicken](md/evil_jungle_prince_with_chicken.md)
+* [Fettuccine Alfredo](md/fettuccine_alfredo.md)
 * [Fettucine With Lobster Pantelleria Style](md/fettucine_with_lobster_pantelleria_style.md)
 * [Filet Mignon With Tequila And Poblano Chile Sauce](md/filet_mignon_with_tequila_and_poblano_chile_sauce.md)
 * [Fish Stock](md/fish_stock.md)
