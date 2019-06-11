@@ -187,6 +187,7 @@
 * [Mexican Corn Salad](md/mexican_corn_salad.md)
 * [Mexican Stuffed Tomatoes](md/mexican_stuffed_tomatoes.md)
 * [Mexican Tortilla Chicken Soup](md/mexican_tortilla_chicken_soup.md)
+* [Mini Apple Pie](md/mini_apple_pie.md)
 * [Mole Sauce](md/mole_sauce.md)
 * [Morel Sauce](md/morel_sauce.md)
 * [Moroccan Chickpea Soup](md/moroccan_chickpea_soup.md)
