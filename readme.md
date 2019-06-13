@@ -100,6 +100,7 @@
 * [Creamy Gruyere And Shrimp Chicken Pasta](md/creamy_gruyere_and_shrimp_chicken_pasta.md)
 * [Creamy Parmesan Garlic Mushroom Chicken](md/creamy_parmesan_garlic_mushroom_chicken.md)
 * [Crema Catalana](md/crema_catalana.md)
+* [Creme Brulee](md/creme_brulee.md)
 * [Creme Fraiche Mashed Potatoes](md/creme_fraiche_mashed_potatoes.md)
 * [Creole Caesar Salad](md/creole_caesar_salad.md)
 * [Creole Calamari With Smoked Tomato Sauce And Olive Salad](md/creole_calamari_with_smoked_tomato_sauce_and_olive_salad.md)
