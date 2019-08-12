@@ -1,42 +1,33 @@
-# Pizza Dough 
+# Pizza Dough (Neopolitan)
 
 ## Credits
 
-[Original Recipe](http://www.foodtv.com/foodtv/recipe/0,6255,14707,00.html "http://www.foodtv.com/foodtv/recipe/0,6255,14707,00.html") by Alton Brown
+[Serious Eats](https://www.seriouseats.com/recipes/2012/07/basic-neapolitan-pizza-dough-recipe.html)
 
 ## Ingredients
 
-- 2 tablespoons sugar
-- 1 tablespoon kosher salt
-- 1 tablespoon pure olive oil
-- 3/4 cup warm water
-- 2 cups bread flour (for bread machines)
-- 1 teaspoon instant yeast
-- 2 teaspoons olive oil
-- Olive oil, for the pizza crust
-- Flour, for dusting the pizza peel
+- 20 ounces (about 4 cups) bread flour, preferably Italian-style "OO"
+- .4 ounces kosher salt (about 4 teaspoons)
+- .3 ounces (about 2 teaspoons) instant yeast, such as SAF Instant Yeast
+- 13 ounces water
 
 ## Directions
 
-Place the sugar, salt, olive oil, water, 1 cup of flour, yeast, and remaining cup of flour into the mixer's work bowl.   
-  
- Using the paddle attachment, start the mixer on low and mix until the dough just comes together, forming a ball. Lube the hook attachment with cooking spray. Attach the hook to the mixer and knead for 15 minutes on medium speed.   
-  
- Tear off a small piece of dough and flatten into a disc. Stretch the dough until thin. Hold it up to the light and look to see if the baker's windowpane, or taut membrane, has formed. If the dough tears before it forms, knead the dough for an additional 5 to 10 minutes.   
-  
- Roll the pizza dough into a smooth ball on the countertop. Place into a stainless steel or glass bowl. Add 2 teaspoons of olive oil to the bowl and toss to coat. Cover with plastic wrap and refrigerate for 18 to 24 hours.   
-  
- Place the pizza stone or tile onto the bottom of a cold oven and turn the oven to its highest temperature, about 500 degrees F. If the oven has coils on the oven floor, place the tile onto the lowest rack of the oven.   
-  
- Split the pizza dough into 2 equal parts using a knife or a dough scraper. Flatten into a disk onto the countertop and then fold the dough into a ball.   
-  
- Wet hands barely with water and rub them onto the countertop to dampen the surface. Roll the dough on the surface until it tightens. Cover one ball with a tea towel and rest for 30 minutes.   
-  
- Repeat the steps with the other piece of dough. If not baking the remaining pizza immediately, spray the inside of a ziptop bag with cooking spray and place the dough ball into the bag. Refrigerate for up to 6 days.   
-  
- Sprinkle the flour onto the peel and place the dough onto the peel. Using your hands, form a lip around the edges of the pizza. Stretch the dough into a round disc, rotating after each stretch. Toss the dough in the air if you dare. Shake the pizza on the peel to be sure that it will slide onto the pizza stone or tile. (Dress and bake the pizza immediately for a crisp crust or rest the dough for 30 minutes if you want a chewy texture.)   
-  
- Brush the rim of the pizza with olive oil. Spread the pizza sauce evenly onto the pizza. Sprinkle the herbs onto the pizza and top with the cheese.   
-  
- Slide the pizza onto the tile and bake for 7 minutes, or until bubbly and golden brown. Rest for 3 minutes before slicing.
+1. Combine flour, salt, and yeast in a large bowl and whisk until homogenous.
+   Add water and incorporate into flour using hands until no dry flour remains
+   on bottom of bowl. Cover bowl tightly with plastic wrap and allow to rise at
+   room temperature for 8 to 12 hours.
 
+2. Turn dough out onto lightly floured surface and divide into four even balls.
+   Place each in a covered quart-sized deli container or in a zipper-lock
+   freezer bag. Place in refrigerator and allow to rise at least 2 more days,
+   and up to 4. Remove from refrigerator, shape into balls, and allow to rest
+   at room temperature for at least 2 hours before baking.
+
+## Notes
+
+You can add a few tablespoons of olive oil for a softer crust.
+
+When I make this is makes 7 dough balls. I like to keep 1 of those and add it
+back into the dough when making another batch. This adds a sourdough flavor and
+more complexity over time.
