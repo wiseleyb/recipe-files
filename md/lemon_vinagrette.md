@@ -1,4 +1,4 @@
-# New Recipe
+# Lemon Vinagrette
 
 ## Credits
 
