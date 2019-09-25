@@ -19,6 +19,8 @@
 
 ## Directions
 
+Makes 18 cookies using a small 1.6 inch/4 cm scoop.
+
 Preheat oven to 375F. Prepare baking sheets with silpat or parchment paper.
 
 In medium bowl, whisk together flour, baking soda, and salt. Set aside. Melt
