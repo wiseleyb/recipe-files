@@ -75,6 +75,7 @@
 * [Chimney Tuna Lo In](md/chimney_tuna_lo_in.md)
 * [Chinese Chicken Salad With Red Chile Peanut Dressing](md/chinese_chicken_salad_with_red_chile_peanut_dressing.md)
 * [Chinese Long Beans](md/chinese_long_beans.md)
+* [Chocolate Chip Cookies](md/chocolate_chip_cookies.md)
 * [Chocolate Chip Cookies Katstyle](md/chocolate_chip_cookies_katstyle.md)
 * [Chocolate Crepes With Gewurztraminer Syrup](md/chocolate_crepes_with_gewurztraminer_syrup.md)
 * [Chocolate Espresso Lava Cakes With Espresso Whipped Cream](md/chocolate_espresso_lava_cakes_with_espresso_whipped_cream.md)
