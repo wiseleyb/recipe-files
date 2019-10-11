@@ -1,7 +1,5 @@
 # Deep Dish Pizza
 
-[![Image:DeepDishPizza.JPG](/recipe/images/a/ad/DeepDishPizza.JPG)](/recipe/index.php?title=Image:DeepDishPizza.JPG "Image:DeepDishPizza.JPG")
-
 ## Credits
 
 Loosely based on a recipe from Cooking Light November 2005
@@ -56,7 +54,7 @@ Whatever you want like:
 
 **For sauce**
 
-Standard sauce recipe... sauted onions, then garlic, then add everything. Let reduce A LOT. You want a really thick sauce for deep dish.
+Standard sauce recipe... saute onions, then garlic, then add everything. Let reduce A LOT. You want a really thick sauce for deep dish.
 
 **For the dough**
 
