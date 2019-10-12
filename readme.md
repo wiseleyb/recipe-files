@@ -187,6 +187,7 @@
 * [Mayonnaise](md/mayonnaise.md)
 * [Meuniere Sauce](md/meuniere_sauce.md)
 * [Mexican Corn Salad](md/mexican_corn_salad.md)
+* [Mexican Mayonnaise Sauce](md/mexican_mayonnaise_sauce.md)
 * [Mexican Stuffed Tomatoes](md/mexican_stuffed_tomatoes.md)
 * [Mexican Tortilla Chicken Soup](md/mexican_tortilla_chicken_soup.md)
 * [Mini Apple Pie](md/mini_apple_pie.md)
