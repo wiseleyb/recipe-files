@@ -1,4 +1,4 @@
-# Mexican Sause/Mayonnaise
+# Mexican Sauce/Mayonnaise
 
 ## Credits
 
