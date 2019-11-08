@@ -1,6 +1,7 @@
 # Some old recipes I had lying around
 * [Achiote Citrus Marinade](md/achiote_citrus_marinade.md)
 * [Achiote Paste](md/achiote_paste.md)
+* [Adobo Sauce](md/adobo_sauce.md)
 * [Almond Baklava With Rose Water](md/almond_baklava_with_rose_water.md)
 * [Aloo Paratha Spiced Potato Bread](md/aloo_paratha_spiced_potato_bread.md)
 * [Angel Food Cake](md/angel_food_cake.md)
