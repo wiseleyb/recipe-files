@@ -161,6 +161,7 @@
 * [Hot And Sour Soup Simple](md/hot_and_sour_soup_simple.md)
 * [Hot Chocolate](md/hot_chocolate.md)
 * [Hungarian Goulash Soup](md/hungarian_goulash_soup.md)
+* [Insalata Verde](md/insalata_verde.md)
 * [Jack Daniels Glaze](md/jack_daniels_glaze.md)
 * [Jack Daniels Marinade](md/jack_daniels_marinade.md)
 * [Jamaican Jerk Chicken](md/jamaican_jerk_chicken.md)
