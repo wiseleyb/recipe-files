@@ -31,3 +31,13 @@ You can add a few tablespoons of olive oil for a softer crust.
 When I make this is makes 7 dough balls. I like to keep 1 of those and add it
 back into the dough when making another batch. This adds a sourdough flavor and
 more complexity over time.
+
+### Pizza Hydration Tool
+
+Different flours and pizza types require different hydration levels. Use this tool to quick change recipe for a specific hydration level.
+
+[Pizza Hydration Tool](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/edit?usp=sharing)
+
+More on hydration
+* [Kenji of Serious Eats](https://slice.seriouseats.com/2011/06/the-pizza-lab-on-flour-foams-and-dough.html)
+* [Pizza Dough Hydration](https://pizzaotherbread.wordpress.com/2016/02/28/pizza-dough-hydration-trial/)
