@@ -36,7 +36,7 @@ more complexity over time.
 
 Different flours and pizza types require different hydration levels. Use this tool to quick change recipe for a specific hydration level.
 
-[Pizza Hydration Tool](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/edit?usp=sharing) (or, [copy spreadsheet to be able to change](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/copy?usp=sharing)
+[Pizza Hydration Tool](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/edit?usp=sharing) (or, [copy spreadsheet to be able to change](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/copy?usp=sharing))
 
 More on hydration
 * [Kenji of Serious Eats](https://slice.seriouseats.com/2011/06/the-pizza-lab-on-flour-foams-and-dough.html)
