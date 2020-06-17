@@ -41,6 +41,7 @@
 * [Black Bean Saffron Rice Salad](md/black_bean_saffron_rice_salad.md)
 * [Black Beans And Coconut Rice](md/black_beans_and_coconut_rice.md)
 * [Blue Cheese Waldorf Salad](md/blue_cheese_waldorf_salad.md)
+* [Blueberry Muffins](md/blueberry_muffins.md)
 * [Bolognese Sauce](md/bolognese_sauce.md)
 * [Boston Baked Beans](md/boston_baked_beans.md)
 * [Braised Pot Roast With Vegetables](md/braised_pot_roast_with_vegetables.md)
