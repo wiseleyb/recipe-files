@@ -8,6 +8,7 @@
 * [Angel Food Cake](md/angel_food_cake.md)
 * [Apple Chutney](md/apple_chutney.md)
 * [Apple Crepes](md/apple_crepes.md)
+* [Apple Crumble](md/apple_crumble.md)
 * [Arrozcon Pollo](md/arrozcon_pollo.md)
 * [Asian Coq Au Vin](md/asian_coq_au_vin.md)
 * [Asian Dipping Sauce](md/asian_dipping_sauce.md)
