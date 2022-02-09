@@ -33,6 +33,7 @@
 * [Beef Rouladenmafacon](md/beef_rouladenmafacon.md)
 * [Beef Shishkabob](md/beef_shishkabob.md)
 * [Beef Stew](md/beef_stew.md)
+* [Beeswax Cast Iron Seasoning](md/beeswax_cast_iron_seasoning.md)
 * [Belgian Waffles](md/belgian_waffles.md)
 * [Belini](md/belini.md)
 * [Beurre Monte](md/beurre_monte.md)
