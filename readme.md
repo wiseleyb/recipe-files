@@ -54,6 +54,7 @@
 * [Cajeta Goat Milk Caramel Sauce](md/cajeta_goat_milk_caramel_sauce.md)
 * [Camembert Caramelized Onion Quesadilla With Apple Chutney](md/camembert_caramelized_onion_quesadilla_with_apple_chutney.md)
 * [Candied Nuts](md/candied_nuts.md)
+* [Caramel Popcorn](md/caramel_popcorn.md)
 * [Caribbean Seasoned Rice](md/caribbean_seasoned_rice.md)
 * [Carne Asada](md/carne_asada.md)
 * [Cashew Sesame Noodles](md/cashew_sesame_noodles.md)
