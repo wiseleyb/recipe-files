@@ -11,7 +11,7 @@ Adapted from [Serious Eats](https://www.seriouseats.com/diy-irish-cream-homemade
 - 1.75 cups sweetened condensed milk
 - 1 tbs unsweeted cocoa powder
 - 1 tbs vanilla extract
-- 1 tsp almon extract
+- 1 tsp almond extract
 - 2 tbs honey
 
 ## Directions
