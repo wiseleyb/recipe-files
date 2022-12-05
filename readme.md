@@ -311,6 +311,7 @@
 * [Spinach And Shiitake Lasagna With Caramelized Garlic Basil Sauce](md/spinach_and_shiitake_lasagna_with_caramelized_garlic_basil_sauce.md)
 * [Spinach Pasta](md/spinach_pasta.md)
 * [Spring Roll Sauce](md/spring_roll_sauce.md)
+* [Sri Lankan Curry](md/sri_lankan_curry.md)
 * [Steakau Poivre With Brandied Cream Sauce](md/steakau_poivre_with_brandied_cream_sauce.md)
 * [Stuffed Pork Roast](md/stuffed_pork_roast.md)
 * [Sushi Rice](md/sushi_rice.md)
