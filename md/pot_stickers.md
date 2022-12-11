@@ -16,9 +16,14 @@ by Leeann Chin
 - 1 tsp salt
 - 1 tsp sesame oil
 - Dash of white pepper
-- Wanton wrappers
+- Wanton wrappers (or make your own... 2 parts flour to 1 part boiling water)
 
 ## Directions
 
 Mix everything together and make wontons. Fry in a very hot pan for 2 minutes, then add some water, cover, and steam about 6 minutes more.
 
+If you want make your own dough/wrappers... from [Serious Eats](https://www.seriouseats.com/pork-and-leek-dumplings-with-homemade-wrapper)
+
+> **For the Dough**: place flour in bowl of food processor. With machine running, slowly drizzle in water until cohesive dough is formed (you probably won't need all the water). All dough to ride around processor for 30 seconds. Form into a ball using floured hands and transfer to a bowl. Cover with a damp towel and let rest for at least 30 minutes.
+
+**Basic Dipping Sauce**: 50/50 soy sauce/recie-wine-vinegar ... season with whatever you want - I like sesame oil, gochojang, and Marie Sharp's Hot sauce... but you can add almost anything you want, mustard, ginger, fish sauce, sambal, etc.
