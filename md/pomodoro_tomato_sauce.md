@@ -7,7 +7,7 @@ by Lish Steiling
 
 ## Ingredients
 
-- 1 can whole marzano tomatoes
+- 1 can whole San Marzano tomatoes
 - 6 cloves garlic
 - 1 medium red onion
 - 1 large carrot
