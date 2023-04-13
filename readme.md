@@ -189,6 +189,7 @@
 * [Leek And Potato Gratin](md/leek_and_potato_gratin.md)
 * [Lemon Vinagrette](md/lemon_vinagrette.md)
 * [Lime Jalapeno Vinaigrette](md/lime_jalapeno_vinaigrette.md)
+* [Long Island Ice Tea](md/long_island_ice_tea.md)
 * [Macamp Cheese](md/macamp_cheese.md)
 * [Mahogany Beef Stew With Red Wine And Hois In Sauce](md/mahogany_beef_stew_with_red_wine_and_hois_in_sauce.md)
 * [Mango Habanero Vinaigrette](md/mango_habanero_vinaigrette.md)
