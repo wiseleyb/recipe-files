@@ -59,6 +59,7 @@
 * [Caribbean Seasoned Rice](md/caribbean_seasoned_rice.md)
 * [Carne Asada](md/carne_asada.md)
 * [Cashew Sesame Noodles](md/cashew_sesame_noodles.md)
+* [Cheddar Broccoli Rice](md/cheddar_broccoli_rice.md)
 * [Chef John Howies Cedar Plank Roasted Salmon](md/chef_john_howies_cedar_plank_roasted_salmon.md)
 * [Chef John Howies Cedar Plank Roasted Wild Mushrooms](md/chef_john_howies_cedar_plank_roasted_wild_mushrooms.md)
 * [Chicken And Smoked Sausage Gumbo](md/chicken_and_smoked_sausage_gumbo.md)
