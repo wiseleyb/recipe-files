@@ -169,6 +169,7 @@
 * [Hot And Sour Soup Simple](md/hot_and_sour_soup_simple.md)
 * [Hot Chocolate](md/hot_chocolate.md)
 * [Hungarian Goulash Soup](md/hungarian_goulash_soup.md)
+* [Iced Coffee](md/iced_coffee.md)
 * [Insalata Verde](md/insalata_verde.md)
 * [Irish Cream](md/irish_cream.md)
 * [Jack Daniels Glaze](md/jack_daniels_glaze.md)
