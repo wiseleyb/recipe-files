@@ -12,3 +12,5 @@ n/a
 
 [See PDF](../assets/sf-sourdough.pdf)
 
+[Baking Spreadsheet](https://docs.google.com/spreadsheets/d/1o9yhDyZne-0UqaZbaXYM3KzooMtcV4-S0EXuOBrRw3o/)
+
