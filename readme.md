@@ -152,6 +152,7 @@
 * [Gnocchi](md/gnocchi.md)
 * [Goat Cheese Fondue With Toasted Bread And Apples](md/goat_cheese_fondue_with_toasted_bread_and_apples.md)
 * [Goat Cheese Ravioli With With Creamy Walnut Sauce](md/goat_cheese_ravioli_with_with_creamy_walnut_sauce.md)
+* [Granita: Watermelon Pineapple](md/granita:_watermelon-pineapple.md)
 * [Green Curry Mango Sauce](md/green_curry_mango_sauce.md)
 * [Grilled Chicken Skewers With Tangerine Ginger Glaze](md/grilled_chicken_skewers_with_tangerine_ginger_glaze.md)
 * [Grilled Chocolate Sandwich](md/grilled_chocolate_sandwich.md)
