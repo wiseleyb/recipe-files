@@ -51,3 +51,8 @@ completely submerge in oil. Store in fridge. If using jarred anchovies, make
 sure they're covered in oil, store in fridge. Before re-using pull from fridge
 for around an hour to allow to come to room temp... oil tends to congeal in the
 fridge.
+
+Serving: Keep things COLD. Mix in a chilled bowl, by hand. Don't overdress.
+Serve on a chilled plate.  Togarashi (Japanese hot-pepper blend) goes great as
+a finishing dust. Serve whole leaves... let the eater cut things up... keeps
+lettuce crisper.
