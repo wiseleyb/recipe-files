@@ -33,9 +33,21 @@ Ben
 
 7. Thicken with shaved parm if needed (or add parm when making salad)
 
+Note: For salad... I only use romaine hearts, you can buy "mini-romaine" these
+days in stores which are perfect for this. I like to wash/dry/put-in-the-fridge
+the leaves (they need to be dry for the dressing to stick). And use a peeler
+for the parm to get long slices of parm (but also used some shaved when mixing
+with dressing). I don't really like garlic-croutons on salads but, if you do,
+tons of recipes out there and super classic. Some of the better salads I've had
+did croutons with long, off-bias cuts of french bread - so a croustini instead
+of a garlic crouton. Great for presentation.
+
 Note: If you want a grilled chicken caesar... just pound a chicken breast until
-about 1/8" thick. S&P and brush on some caesar dressing, then grill.
+about 1/8" thick. S&P and brush on some caesar dressing, if you have some carne
+asada spice blend - add it, then grill.
 
 Note: Storing anchovies... if using tinned anchovies transfer to small jar -
 completely submerge in oil. Store in fridge. If using jarred anchovies, make
-sure they're covered in oil, store in fridge. 
+sure they're covered in oil, store in fridge. Before re-using pull from fridge
+for around an hour to allow to come to room temp... oil tends to congeal in the
+fridge.
