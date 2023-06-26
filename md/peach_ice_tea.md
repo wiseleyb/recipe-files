@@ -34,6 +34,8 @@ Strain syrup. You can save peaches for making ice cream, shaved ice, etc.
 
 Add syrup to tea until desired taste.
 
+## Current Ratio
 
+3 qt (12 cups) ice tea to 2.5 cups peach syrup
 
 
