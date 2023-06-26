@@ -244,6 +244,7 @@
 * [Pasta](md/pasta.md)
 * [Pasta With Simple Whitesauce](md/pasta_with_simple_whitesauce.md)
 * [Peach Caramel Upside Down Cakes](md/peach_caramel_upside_down_cakes.md)
+* [Peach Ice Tea](md/peach_ice_tea.md)
 * [Peas With Spinach And Shallots](md/peas_with_spinach_and_shallots.md)
 * [Penne Al Arabiata](md/penne_al_arabiata.md)
 * [Pepper Steak](md/pepper_steak.md)
