@@ -340,7 +340,6 @@
 * [Teriyaki Rice Bowl](md/teriyaki_rice_bowl.md)
 * [Teriyaki Sauce](md/teriyaki_sauce.md)
 * [Thai Coconut Chicken Soup](md/thai_coconut_chicken_soup.md)
-* [Tiramis](md/tiramis.md)
 * [Tomato Mozzarella And Basil Salad Insalat Caprese](md/tomato_mozzarella_and_basil_salad_insalat_caprese.md)
 * [Tomato Sausage Sauce](md/tomato_sausage_sauce.md)
 * [Traditional Mandar In Fried Rice](md/traditional_mandar_in_fried_rice.md)
