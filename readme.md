@@ -294,6 +294,7 @@
 * [Scalloped Potatoes](md/scalloped_potatoes.md)
 * [Scampion Couscous](md/scampion_couscous.md)
 * [Sea Scallops With Cilantro Gremolata And Ginger Lime Beurre Blanc](md/sea_scallops_with_cilantro_gremolata_and_ginger_lime_beurre_blanc.md)
+* [Seasoning: Smash Burgers](md/seasoning_smash_burgers.md)
 * [Serrano Mint Sauce](md/serrano_mint_sauce.md)
 * [Sesame Tofu Stir Fryover Rice](md/sesame_tofu_stir_fryover_rice.md)
 * [Shepards Pie](md/shepards_pie.md)
