@@ -12,6 +12,13 @@
 - 3 oz whipping cream
 - 1/4 tsp gelatin (bloomed in very little water) (optional)
 
+Single serving:
+
+- 1 egg yolk
+- 1.5 tbs sugar
+- 1 tbs marsala
+- 1 oz whipping cream
+
 ## Directions
 
 1. Whip cream
