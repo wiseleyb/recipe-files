@@ -240,6 +240,7 @@
 * [Panini Trefethen](md/panini_trefethen.md)
 * [Panini Turkey And Roaster Red Peppers](md/panini_turkey_and_roaster_red_peppers.md)
 * [Panini Tuscany Proscuitto Mozz](md/panini_tuscany_proscuitto_mozz.md)
+* [Parmesan Cauliflower Bytes](md/parmesan_cauliflower_bytes.md)
 * [Parsley Sauce](md/parsley_sauce.md)
 * [Pasta](md/pasta.md)
 * [Pasta With Simple Whitesauce](md/pasta_with_simple_whitesauce.md)
