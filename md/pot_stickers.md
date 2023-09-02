@@ -27,3 +27,18 @@ If you want make your own dough/wrappers... from [Serious Eats](https://www.seri
 > **For the Dough**: place flour in bowl of food processor. With machine running, slowly drizzle in water until cohesive dough is formed (you probably won't need all the water). Allow dough to ride around processor for 30 seconds. Form into a ball using floured hands and transfer to a bowl. Cover with a damp towel and let rest for at least 30 minutes.
 
 **Basic Dipping Sauce**: 50/50 soy sauce/recie-wine-vinegar ... season with whatever you want - I like sesame oil, gochojang, and Marie Sharp's Hot sauce... but you can add almost anything you want, mustard, ginger, fish sauce, sambal, etc.
+
+## Pot Sticker Sauce 
+
+[from MySauceRecipes.com](https://mysaucerecipes.com/pot-sticker-sauce/)
+
+Basic starting point recipe. Try adding to this (like sambal, hot sauce, thai
+chili, mustard, etc)
+
+- 1/2 cup low-sodium soy sauce
+- 1/2 cup water
+- 2 tablespoons seasoned rice vinegar
+- 1 tablespoon scallions green onions, cut diagonally
+- 1 large garlic clove minced or grated
+- 2 teaspoons brown sugar
+- 2 teaspoons fresh ginger minced or grated
