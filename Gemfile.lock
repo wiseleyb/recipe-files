@@ -145,7 +145,7 @@ PLATFORMS
   arm64-darwin-22
 
 DEPENDENCIES
-  rails
+  rails (~> 7)
   reverse_markdown
 
 BUNDLED WITH

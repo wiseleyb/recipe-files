@@ -14,6 +14,7 @@
 * [Asian Coq Au Vin](md/asian_coq_au_vin.md)
 * [Asian Dipping Sauce](md/asian_dipping_sauce.md)
 * [Asian Egg Drop Soup](md/asian_egg_drop_soup.md)
+* [Asian Lime Vinegrette](md/asian_lime_vinegrette.md)
 * [Asian Marinated Striped Bass](md/asian_marinated_striped_bass.md)
 * [Asian Sticky Fingers Ribs](md/asian_sticky_fingers_ribs.md)
 * [Bacon And Cheddar Tea Sandwiches](md/bacon_and_cheddar_tea_sandwiches.md)
