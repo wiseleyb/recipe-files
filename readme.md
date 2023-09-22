@@ -65,6 +65,7 @@
 * [Cheddar Broccoli Rice](md/cheddar_broccoli_rice.md)
 * [Chef John Howies Cedar Plank Roasted Salmon](md/chef_john_howies_cedar_plank_roasted_salmon.md)
 * [Chef John Howies Cedar Plank Roasted Wild Mushrooms](md/chef_john_howies_cedar_plank_roasted_wild_mushrooms.md)
+* [Chicken Stock Sauce](md/chicken-stock_sauce.md)
 * [Chicken And Smoked Sausage Gumbo](md/chicken_and_smoked_sausage_gumbo.md)
 * [Chicken Biriyani Indian Baked Rice Dish](md/chicken_biriyani_indian_baked_rice_dish.md)
 * [Chicken Burritos](md/chicken_burritos.md)
