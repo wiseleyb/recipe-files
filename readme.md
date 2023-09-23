@@ -341,6 +341,7 @@
 * [Swiss Fodue](md/swiss_fodue.md)
 * [Szechuan Sauce](md/szechuan_sauce.md)
 * [Tagliatelle Con Funghie Prosciutto](md/tagliatelle_con_funghie_prosciutto.md)
+* [Tahdig Rice   Biriyani](md/tahdig_rice_-_biriyani.md)
 * [Taqueria Guacamole](md/taqueria_guacamole.md)
 * [Teriyaki Beurre Blanc](md/teriyaki_beurre_blanc.md)
 * [Teriyaki Marinade](md/teriyaki_marinade.md)
