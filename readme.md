@@ -273,6 +273,7 @@
 * [Red Chile Sauce](md/red_chile_sauce.md)
 * [Red Wine Reduction Sauce](md/red_wine_reduction_sauce.md)
 * [Rib Rub](md/rib_rub.md)
+* [Rice Pilaf](md/rice_pilaf.md)
 * [Ricotta Gnocchi](md/ricotta_gnocchi.md)
 * [Rigatoni With Tuscan Style Cauliflower And Pecorino](md/rigatoni_with_tuscan-style_cauliflower_and_pecorino.md)
 * [Roast Achiote Citrus Chicken](md/roast_achiote_citrus_chicken.md)
