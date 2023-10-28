@@ -14,6 +14,10 @@
 - 1/4 cup plus 1 tablespoon extra-virgin olive oil
 - Freshly ground black pepper to taste
 
+Heresy: a squeeze of lemon, hot sauce... molto bene 
+
+Pasta: mix this with about half a box of fusilli (or other pasta) cooked until al dente and cooled before mixing with pasta
+
 ## Directions
 
 In a food processor, combine the basil, pine nuts, Parmesan, garlic, and salt and puree. While the motor is running, drizzle in the oil until incorporated. Season with pepper to taste. Use immediately or store in the refrigerator with a piece of plastic wrap placed right on the surface of the pesto to prevent discoloration, for up to 3 days, or freeze for up to 1 month.
