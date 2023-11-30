@@ -68,6 +68,7 @@
 * [Chicken Stock Sauce](md/chicken-stock_sauce.md)
 * [Chicken And Smoked Sausage Gumbo](md/chicken_and_smoked_sausage_gumbo.md)
 * [Chicken Biriyani Indian Baked Rice Dish](md/chicken_biriyani_indian_baked_rice_dish.md)
+* [Chicken Broccoli Stir Fry](md/chicken_broccoli_stir_fry.md)
 * [Chicken Burritos](md/chicken_burritos.md)
 * [Chicken Cordon Bleu](md/chicken_cordon_bleu.md)
 * [Chicken Enchilada](md/chicken_enchilada.md)
